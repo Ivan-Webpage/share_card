@@ -49,16 +49,15 @@
     let card = params.get('card')
     var mydata = fetch("json/" + card + ".json").then(function (response) {
       return response.json();
-    })
-    .then(function (data) {
+    }).then(function (data) {
       console.log(data);
     })
-    // var mydata = JSON.parse(require("json/" + card + ".json"));
+    
     liff.shareTargetPicker([
       {
         type: "flex",
         altText: "card",
-        contents: mydata
+        contents: [mydata]
       }
     ]).catch(function (res) {
       alert("執行失敗，您是否有登入Line且授權呢？")
