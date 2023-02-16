@@ -14,6 +14,18 @@
   <script src="js/line-liff.js"></script>
 </head>
 
+
+<body>
+  <div class="container mt-5">
+    <div class="row justify-content-center align-items-center" style="text-align: center;">
+        <div class="col-sm-12">
+            <button (click)="share_BusinessCard()" type="button" class="btn back-major-ten text-white">選擇好友 or 群組</button>
+        </div>
+    </div>
+</div>
+
+</body>
+
 <script>
   liff.init({
         liffId: "1657826069-OmEnqNJY",
@@ -30,15 +42,4 @@
         console.log("掛掉了: " + error);
     });
 </script>
-<body>
-  <div class="container mt-5">
-    <div class="row justify-content-center align-items-center" style="text-align: center;">
-        <div class="col-sm-12">
-            <button (click)="share_BusinessCard()" type="button" class="btn back-major-ten text-white">選擇好友 or 群組</button>
-        </div>
-    </div>
-</div>
-
-</body>
-
 </html>
