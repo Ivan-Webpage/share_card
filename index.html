@@ -47,17 +47,13 @@
   function share_BusinessCard() {
     let params = new URLSearchParams(location.search);
     let card = params.get('card')
-    var mydata = fetch("json/" + card + ".json").then(function (response) {
-      return response.json();
-    }).then(function (data) {
-      console.log(data);
-    })
+    var mydata = fetch("json/" + card + ".json")
     
     liff.shareTargetPicker([
       {
         type: "flex",
         altText: "card",
-        contents: [mydata]
+        contents: JSON.parse(mydata)
       }
     ]).catch(function (res) {
       alert("執行失敗，您是否有登入Line且授權呢？")
