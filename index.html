@@ -47,7 +47,7 @@
   function share_BusinessCard() {
     let params = new URLSearchParams(location.search);
     let card = params.get('card')
-    var mydata = JSON.parse("json/" + card + ".json");
+    var mydata = JSON.parse(require("json/" + card + ".json"));
     liff.shareTargetPicker([
       {
         type: "flex",
