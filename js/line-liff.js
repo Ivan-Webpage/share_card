@@ -1,14 +1,14 @@
 
 function getLiff(liffID, backURL) {
     liff.init({
-        liffId: liffID,
+        liffId: "1657826069-OmEnqNJY",
     }).then(function () {
         // 這邊開始寫使用其他功能
         if (liff.isLoggedIn()) { // 判斷是否有登入line
         } else {
             alert('請先登入Line！')
             liff.login({
-                redirectUri: backURL // 使用者登入後要去到哪個頁面
+                redirectUri: "https://ivan-webpage.github.io/share_card/" // 使用者登入後要去到哪個頁面
             });
         }
     }).catch(function (error) {
