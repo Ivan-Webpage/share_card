@@ -1,0 +1,620 @@
+{
+    "type": "carousel",
+    "contents": [
+        {
+            "type": "bubble",
+            "hero": {
+                "type": "image",
+                "size": "full",
+                "aspectRatio": "4:3",
+                "aspectMode": "cover",
+                "url": "https://imgur.com/WQe0J3A.jpg"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "none",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "行銷搬進大程式",
+                        "wrap": true,
+                        "weight": "bold",
+                        "size": "lg",
+                        "align": "center"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "我們致力於行銷、經營、廣告、系統的整合，為企業提供數位化的一站式服務！",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "xs",
+                                "flex": 0,
+                                "color": "#888c92",
+                                "align": "center"
+                            },
+                            {
+                                "type": "text",
+                                "text": "看看有什麼服務👉👉👉",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "sm",
+                                "flex": 0,
+                                "align": "center",
+                                "margin": "xxl"
+                            }
+                        ]
+                    }
+                ],
+                "backgroundColor": "#f8f9fc"
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "none",
+                "contents": [
+                    {
+                        "type": "button",
+                        "style": "primary",
+                        "action": {
+                            "type": "uri",
+                            "label": "☎️聯絡我們",
+                            "uri": "https://marketingliveincode.com/"
+                        },
+                        "color": "#5d82bb",
+                        "height": "sm"
+                    },
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "👍分享好康",
+                            "uri": "https://liff.line.me/1657826069-OmEnqNJY"
+                        },
+                        "color": "#5d82bb",
+                        "height": "sm"
+                    }
+                ],
+                "backgroundColor": "#f8f9fc"
+            }
+        },
+        {
+            "type": "bubble",
+            "hero": {
+                "type": "image",
+                "size": "full",
+                "aspectRatio": "4:3",
+                "aspectMode": "cover",
+                "url": "https://imgur.com/PcTCPKw.png"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "none",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "廣告行銷服務",
+                        "wrap": true,
+                        "weight": "bold",
+                        "size": "lg",
+                        "align": "center"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "💪",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "lg",
+                                "flex": 0
+                            },
+                            {
+                                "type": "text",
+                                "text": "關鍵字排名提升、SEO",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "sm",
+                                "flex": 0,
+                                "color": "#888c92"
+                            }
+                        ],
+                        "flex": 1,
+                        "justifyContent": "center"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "💪",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "lg",
+                                "flex": 0
+                            },
+                            {
+                                "type": "text",
+                                "text": "FB投放廣告",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "sm",
+                                "flex": 0,
+                                "color": "#888c92"
+                            }
+                        ],
+                        "flex": 1,
+                        "justifyContent": "center"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "💪",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "lg",
+                                "flex": 0
+                            },
+                            {
+                                "type": "text",
+                                "text": "Line電子名片",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "sm",
+                                "flex": 0,
+                                "color": "#888c92"
+                            }
+                        ],
+                        "flex": 1,
+                        "justifyContent": "center"
+                    }
+                ],
+                "backgroundColor": "#f8f9fc"
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "none",
+                "contents": [
+                    {
+                        "type": "button",
+                        "flex": 2,
+                        "style": "primary",
+                        "color": "#bb965d",
+                        "action": {
+                            "type": "uri",
+                            "label": "👁️‍🗨️查看服務",
+                            "uri": "https://marketingliveincode.com/"
+                        },
+                        "height": "sm"
+                    },
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "👍分享好康",
+                            "uri": "https://liff.line.me/1657826069-OmEnqNJY"
+                        },
+                        "color": "#5d82bb",
+                        "height": "sm"
+                    }
+                ],
+                "backgroundColor": "#f8f9fc"
+            }
+        },
+        {
+            "type": "bubble",
+            "hero": {
+                "type": "image",
+                "size": "full",
+                "aspectRatio": "4:3",
+                "aspectMode": "cover",
+                "url": "https://imgur.com/IShUKtG.png"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "none",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "客製品牌建立",
+                        "wrap": true,
+                        "weight": "bold",
+                        "size": "lg",
+                        "align": "center"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "📌",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "lg",
+                                "flex": 0
+                            },
+                            {
+                                "type": "text",
+                                "text": "Line官方建立",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "sm",
+                                "flex": 0,
+                                "color": "#888c92"
+                            }
+                        ],
+                        "flex": 1,
+                        "justifyContent": "center"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "📌",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "lg",
+                                "flex": 0
+                            },
+                            {
+                                "type": "text",
+                                "text": "Line多頁選單，按鈕",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "sm",
+                                "flex": 0,
+                                "color": "#888c92"
+                            }
+                        ],
+                        "flex": 1,
+                        "justifyContent": "center"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "📌",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "lg",
+                                "flex": 0
+                            },
+                            {
+                                "type": "text",
+                                "text": "品牌網站建立",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "sm",
+                                "flex": 0,
+                                "color": "#888c92"
+                            }
+                        ],
+                        "flex": 1,
+                        "justifyContent": "center"
+                    }
+                ],
+                "backgroundColor": "#f8f9fc",
+                "borderColor": "#f8f9fc"
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "none",
+                "contents": [
+                    {
+                        "type": "button",
+                        "flex": 2,
+                        "style": "primary",
+                        "color": "#bb965d",
+                        "action": {
+                            "type": "uri",
+                            "label": "👁️‍🗨️查看服務",
+                            "uri": "https://marketingliveincode.com/"
+                        },
+                        "height": "sm"
+                    },
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "👍分享好康",
+                            "uri": "https://liff.line.me/1657826069-OmEnqNJY"
+                        },
+                        "color": "#5d82bb",
+                        "height": "sm"
+                    }
+                ],
+                "borderColor": "#f8f9fc"
+            },
+            "styles": {
+                "footer": {
+                    "backgroundColor": "#f8f9fc"
+                }
+            }
+        },
+        {
+            "type": "bubble",
+            "hero": {
+                "type": "image",
+                "size": "full",
+                "aspectRatio": "4:3",
+                "aspectMode": "cover",
+                "url": "https://imgur.com/n9brM7C.png"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "none",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "行銷自動化系統",
+                        "wrap": true,
+                        "weight": "bold",
+                        "size": "lg",
+                        "align": "center"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "📣",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "lg",
+                                "flex": 0
+                            },
+                            {
+                                "type": "text",
+                                "text": "廣發社團、好友",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "sm",
+                                "flex": 0,
+                                "color": "#888c92"
+                            }
+                        ],
+                        "flex": 1,
+                        "justifyContent": "center"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "📣",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "lg",
+                                "flex": 0
+                            },
+                            {
+                                "type": "text",
+                                "text": "官方串接金流",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "sm",
+                                "flex": 0,
+                                "color": "#888c92"
+                            }
+                        ],
+                        "flex": 1,
+                        "justifyContent": "center"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "📣",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "lg",
+                                "flex": 0
+                            },
+                            {
+                                "type": "text",
+                                "text": "FB自動灑文",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "sm",
+                                "flex": 0,
+                                "color": "#888c92"
+                            }
+                        ],
+                        "flex": 1,
+                        "justifyContent": "center"
+                    }
+                ],
+                "borderColor": "#f8f9fc",
+                "backgroundColor": "#f8f9fc"
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "none",
+                "contents": [
+                    {
+                        "type": "button",
+                        "flex": 2,
+                        "style": "primary",
+                        "color": "#bb965d",
+                        "action": {
+                            "type": "uri",
+                            "label": "👁️‍🗨️查看服務",
+                            "uri": "https://marketingliveincode.com/"
+                        },
+                        "height": "sm"
+                    },
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "👍分享好康",
+                            "uri": "https://liff.line.me/1657826069-OmEnqNJY"
+                        },
+                        "color": "#5d82bb",
+                        "height": "sm"
+                    }
+                ],
+                "borderColor": "#f8f9fc",
+                "backgroundColor": "#f8f9fc"
+            }
+        },
+        {
+            "type": "bubble",
+            "hero": {
+                "type": "image",
+                "size": "full",
+                "aspectRatio": "4:3",
+                "aspectMode": "cover",
+                "url": "https://imgur.com/ySHFdcA.png"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "none",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "車隊自動化系統",
+                        "wrap": true,
+                        "weight": "bold",
+                        "size": "lg",
+                        "align": "center"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "🚕",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "lg",
+                                "flex": 0
+                            },
+                            {
+                                "type": "text",
+                                "text": "顧客叫車",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "sm",
+                                "flex": 0,
+                                "color": "#888c92"
+                            }
+                        ],
+                        "flex": 1,
+                        "justifyContent": "center"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "🚕",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "lg",
+                                "flex": 0
+                            },
+                            {
+                                "type": "text",
+                                "text": "車資試算",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "sm",
+                                "flex": 0,
+                                "color": "#888c92"
+                            }
+                        ],
+                        "flex": 1,
+                        "justifyContent": "center"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "🚕",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "lg",
+                                "flex": 0
+                            },
+                            {
+                                "type": "text",
+                                "text": "應徵司機",
+                                "wrap": true,
+                                "weight": "bold",
+                                "size": "sm",
+                                "flex": 0,
+                                "color": "#888c92"
+                            }
+                        ],
+                        "flex": 1,
+                        "justifyContent": "center"
+                    }
+                ],
+                "borderColor": "#f8f9fc",
+                "backgroundColor": "#f8f9fc"
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "none",
+                "contents": [
+                    {
+                        "type": "button",
+                        "flex": 2,
+                        "style": "primary",
+                        "color": "#bb965d",
+                        "action": {
+                            "type": "uri",
+                            "label": "👁️‍🗨️查看服務",
+                            "uri": "https://marketingliveincode.com/"
+                        },
+                        "height": "sm"
+                    },
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "uri",
+                            "label": "👍分享好康",
+                            "uri": "https://liff.line.me/1657826069-OmEnqNJY"
+                        },
+                        "color": "#5d82bb",
+                        "height": "sm"
+                    }
+                ],
+                "borderColor": "#f8f9fc",
+                "backgroundColor": "#f8f9fc"
+            }
+        }
+    ]
+}
