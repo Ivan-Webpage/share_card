@@ -12,7 +12,7 @@
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
   <script src="https://static.line-scdn.net/liff/edge/2/sdk.js"></script>
-  <script type="text/javascript" src="js/line-liff.js"></script>
+  <!-- <script type="text/javascript" src="js/line-liff.js"></script> -->
 </head>
 
 
@@ -42,6 +42,24 @@
   }).catch(function (error) {
     console.log("掛掉了: " + error);
   });
+
+  // 使用者分享
+  function share_BusinessCard() {
+    let params = new URLSearchParams(location.search);
+    let card = params.get('card')
+    var mydata = JSON.parse("json/" + card + ".json");
+    liff.shareTargetPicker([
+      {
+        type: "flex",
+        altText: "card",
+        contents: mydata
+      }
+    ]).catch(function (res) {
+      alert("執行失敗，您是否有登入Line且授權呢？")
+    })
+
+    liff.closeWindow();
+  }
 </script>
 
 </html>
