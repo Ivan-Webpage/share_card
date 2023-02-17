@@ -61,7 +61,7 @@
     let card = params.get('card')
     alert("資料來源:https://raw.githubusercontent.com/Ivan-Webpage/share_card/main/json/" + card + ".json")
     fetch("https://raw.githubusercontent.com/Ivan-Webpage/share_card/main/json/" + card + ".json").then((response) => {
-      alert(response.text())
+      alert("資料來源:https://raw.githubusercontent.com/Ivan-Webpage/share_card/main/json/" + card + ".json")
       liff.shareTargetPicker([
         response.json()
       ]).catch((error) => {
