@@ -54,10 +54,12 @@
           altText: "card",
           contents: response.json()
         }
-      ])
-    }).catch((error) => {
-        alert("執行失敗，您是否有登入Line且授權呢？")
+      ]).catch((error) => {
+        alert((error))
       })
+    }).catch((error) => {
+      alert("執行失敗，您是否有登入Line且授權呢？")
+    })
 
   }
 </script>
