@@ -5,13 +5,13 @@
   "type": "bubble",
   "hero": {
     "type": "image",
-    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
+    "url": "https://imgur.com/WQe0J3A.png",
     "size": "full",
     "aspectRatio": "20:13",
     "aspectMode": "cover",
     "action": {
       "type": "uri",
-      "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=1"
+      "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=安"
     }
   }
 }
