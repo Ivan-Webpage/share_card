@@ -64,13 +64,13 @@
     xhr.open('GET', "https://raw.githubusercontent.com/Ivan-Webpage/share_card/main/json/" + card + ".json", true)
     xhr.send()
     xhr.onload = function () {
-      alert(this.responseText)
+      alert("第一步:"+this.responseText)
       var get = JSON.parse(this.responseText);
-      alert(get["type"])
+      alert("第二步:"+get["type"])
       liff.shareTargetPicker([
         get
       ]).catch((error) => {
-        alert((error))
+        alert(("死掉了:"+error))
       })
     }.catch((error) => {
       alert("執行失敗，您是否有登入Line且授權呢？")
