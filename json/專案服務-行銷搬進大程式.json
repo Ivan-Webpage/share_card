@@ -138,7 +138,7 @@
                         {
                             "type": "text",
                             "text": "#品牌 #行銷 #流量 #自動化 #視覺設計",
-                            "wrap": true,
+                            "wrap": True,
                             "color": "#aaaaaa",
                             "size": "xxs"
                         }
@@ -296,7 +296,7 @@
                         {
                             "type": "text",
                             "text": "#社群 #廣告 #流量 #自動化 #品牌設計",
-                            "wrap": true,
+                            "wrap": True,
                             "color": "#aaaaaa",
                             "size": "xxs"
                         }
@@ -454,7 +454,7 @@
                         {
                             "type": "text",
                             "text": "#搜尋 #灰色 #流量 #關鍵字 #自然流量",
-                            "wrap": true,
+                            "wrap": True,
                             "color": "#aaaaaa",
                             "size": "xxs"
                         }
@@ -612,7 +612,7 @@
                         {
                             "type": "text",
                             "text": "#網站 #曝光 #流量 #SEO #自然流量",
-                            "wrap": true,
+                            "wrap": True,
                             "color": "#aaaaaa",
                             "size": "xxs"
                         }
@@ -770,7 +770,7 @@
                         {
                             "type": "text",
                             "text": "#AI #程式 #系統 #自動化 #交付程式碼",
-                            "wrap": true,
+                            "wrap": True,
                             "color": "#aaaaaa",
                             "size": "xxs"
                         }
