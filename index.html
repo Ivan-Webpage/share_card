@@ -66,9 +66,9 @@
     xhr.onload = function () {
       
       var get = JSON.parse(this.responseText);
-      alert(jsn["type"])
+      alert(get["type"])
       liff.shareTargetPicker([
-        response.json()
+        get
       ]).catch((error) => {
         alert((error))
       })
