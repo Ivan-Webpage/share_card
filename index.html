@@ -34,6 +34,7 @@
     if (liff.isLoggedIn()) { // 判斷是否有登入line
       let params = new URLSearchParams(location.search);
       let card = params.get('card')
+      alert("https://raw.githubusercontent.com/Ivan-Webpage/share_card/main/json/" + card + ".json")
       fetch("https://raw.githubusercontent.com/Ivan-Webpage/share_card/main/json/" + card + ".json").then((response) => {
         alert(response.text())
         liff.shareTargetPicker([
