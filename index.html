@@ -47,9 +47,9 @@
   function share_BusinessCard() {
     let params = new URLSearchParams(location.search);
     let card = params.get('card')
-    fetch("https://raw.githubusercontent.com/Ivan-Webpage/share_card/main/json" + card + ".json").then((response) => {
+    fetch("https://raw.githubusercontent.com/Ivan-Webpage/share_card/main/json/" + card + ".json").then((response) => {
       liff.shareTargetPicker([
-      response.json()
+        response.json()
       ]).catch((error) => {
         alert((error))
       })
