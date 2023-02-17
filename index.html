@@ -7,23 +7,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" href="img/logo_icon.svg">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"> -->
   <link href="css/main.scss" rel="stylesheet">
-
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
   <script src="https://static.line-scdn.net/liff/edge/2/sdk.js"></script>
   <!-- <script type="text/javascript" src="js/line-liff.js"></script> -->
 </head>
 
 
 <body>
-  <div class="container mt-5">
+  <!-- <div class="container mt-5">
     <div class="row justify-content-center align-items-center" style="text-align: center;">
       <div class="col-sm-12">
         <button onclick="share_BusinessCard()" type="button" class="btn back-major-ten text-white">選擇好友 or 群組</button>
       </div>
     </div>
-  </div>
+  </div> -->
 </body>
 
 <script>
@@ -47,9 +44,7 @@
         ]).catch((error) => {
           alert(("死掉了:"+error))
         })
-      }.catch((error) => {
-        alert("執行失敗，您是否有登入Line且授權呢？")
-      })
+      }
     } else {
       alert('請先登入Line！')
       liff.login({
