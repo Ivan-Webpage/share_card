@@ -59,17 +59,23 @@
   function share_BusinessCard() {
     let params = new URLSearchParams(location.search);
     let card = params.get('card')
-    fetch("https://raw.githubusercontent.com/Ivan-Webpage/share_card/main/json/" + card + ".json").then((response) => {
-      var jsn = response.json()
+    
+    var xhr = new XMLHttpRequest()
+    xhr.open('GET', dataUrl, true)
+    xhr.send()
+    xhr.onload = function () {
+      
+      var get = JSON.parse(this.responseText);
       alert(jsn["type"])
       liff.shareTargetPicker([
         response.json()
       ]).catch((error) => {
         alert((error))
       })
-    }).catch((error) => {
+    }.catch((error) => {
       alert("執行失敗，您是否有登入Line且授權呢？")
     })
+    
 
   }
 </script>
