@@ -59,9 +59,9 @@
   function share_BusinessCard() {
     let params = new URLSearchParams(location.search);
     let card = params.get('card')
-    alert("資料來源:https://raw.githubusercontent.com/Ivan-Webpage/share_card/main/json/" + card + ".json")
     fetch("https://raw.githubusercontent.com/Ivan-Webpage/share_card/main/json/" + card + ".json").then((response) => {
-      alert("資料來源:https://raw.githubusercontent.com/Ivan-Webpage/share_card/main/json/" + card + ".json")
+      var jsn = response.json()
+      alert(jsn["type"])
       liff.shareTargetPicker([
         response.json()
       ]).catch((error) => {
