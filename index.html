@@ -31,10 +31,11 @@
     if (liff.isLoggedIn()) { // 判斷是否有登入line
       let params = new URLSearchParams(location.search);
       let card = params.get('card')
-
+      alert("即將開始")
       var xhr = new XMLHttpRequest()
       xhr.open('GET', "https://raw.githubusercontent.com/Ivan-Webpage/share_card/main/json/" + card + ".json", true)
       xhr.send()
+      alert("請求完成")
       xhr.onload = function () {
         alert("第一步:"+this.responseText)
         var get = JSON.parse(this.responseText);
