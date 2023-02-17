@@ -23,7 +23,7 @@
                     "spacing": "md",
                     "action": {
                         "type": "uri",
-                        "uri": "https://linecorp.com"
+                        "uri": "https://marketingliveincode.com"
                     },
                     "contents": [
                         {
@@ -156,7 +156,7 @@
                             "action": {
                                 "type": "uri",
                                 "label": "分享好康",
-                                "uri": "https://linecorp.com"
+                                "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=專案服務-行銷搬進大程式"
                             }
                         }
                     ]
