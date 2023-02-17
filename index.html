@@ -13,14 +13,10 @@
 </head>
 
 
-<body>
-  <!-- <div class="container mt-5">
-    <div class="row justify-content-center align-items-center" style="text-align: center;">
-      <div class="col-sm-12">
-        <button onclick="share_BusinessCard()" type="button" class="btn back-major-ten text-white">選擇好友 or 群組</button>
-      </div>
-    </div>
-  </div> -->
+<body style="background-color: #5d82bb;">
+  <div>
+    <img src="img/9X16.JPG" alt="神奇名片-行銷搬進大程式" style="height: 100vh; width: auto;">
+  </div>
 </body>
 
 <script>
@@ -31,54 +27,26 @@
     if (liff.isLoggedIn()) { // 判斷是否有登入line
       let params = new URLSearchParams(location.search);
       let card = params.get('card')
-      alert("即將開始")
+      
       var xhr = new XMLHttpRequest()
       xhr.open('GET', "https://raw.githubusercontent.com/Ivan-Webpage/share_card/main/json/" + card + ".json", true)
       xhr.send()
-      alert("請求完成")
       xhr.onload = function () {
-        alert("第一步:"+this.responseText)
-        var get = JSON.parse(this.responseText);
-        alert("第二步:"+get["type"])
-        liff.shareTargetPicker([
-          get
-        ]).catch((error) => {
-          alert(("死掉了:"+error))
+        liff.shareTargetPicker([ JSON.parse(this.responseText) ]).catch((error) => {
+          alert(("發用訊息出錯: "+error))
         })
       }
     } else {
-      alert('請先登入Line！')
       liff.login({
         redirectUri: "https://ivan-webpage.github.io/share_card/" // 使用者登入後要去到哪個頁面
       });
     }
+
+    liff.closeWindow(); // 自動關閉畫面
   }).catch(function (error) {
     console.log("掛掉了: " + error);
   });
 
-  // 使用者分享
-  function share_BusinessCard() {
-    let params = new URLSearchParams(location.search);
-    let card = params.get('card')
-    
-    var xhr = new XMLHttpRequest()
-    xhr.open('GET', "https://raw.githubusercontent.com/Ivan-Webpage/share_card/main/json/" + card + ".json", true)
-    xhr.send()
-    xhr.onload = function () {
-      alert("第一步:"+this.responseText)
-      var get = JSON.parse(this.responseText);
-      alert("第二步:"+get["type"])
-      liff.shareTargetPicker([
-        get
-      ]).catch((error) => {
-        alert(("死掉了:"+error))
-      })
-    }.catch((error) => {
-      alert("執行失敗，您是否有登入Line且授權呢？")
-    })
-    
-
-  }
 </script>
 
 </html>
