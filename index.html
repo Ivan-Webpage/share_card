@@ -61,7 +61,7 @@
     let card = params.get('card')
     
     var xhr = new XMLHttpRequest()
-    xhr.open('GET', dataUrl, true)
+    xhr.open('GET', "https://raw.githubusercontent.com/Ivan-Webpage/share_card/main/json/" + card + ".json", true)
     xhr.send()
     xhr.onload = function () {
       alert(this.responseText)
