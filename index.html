@@ -64,7 +64,7 @@
     xhr.open('GET', dataUrl, true)
     xhr.send()
     xhr.onload = function () {
-      
+      alert(this.responseText)
       var get = JSON.parse(this.responseText);
       alert(get["type"])
       liff.shareTargetPicker([
