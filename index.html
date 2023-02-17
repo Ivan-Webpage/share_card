@@ -32,7 +32,18 @@
   }).then(function () {
     // 這邊開始寫使用其他功能
     if (liff.isLoggedIn()) { // 判斷是否有登入line
-      // alert('登入成功！')
+      let params = new URLSearchParams(location.search);
+      let card = params.get('card')
+      fetch("https://raw.githubusercontent.com/Ivan-Webpage/share_card/main/json/" + card + ".json").then((response) => {
+        alert(response.text())
+        liff.shareTargetPicker([
+          response.json()
+        ]).catch((error) => {
+          alert((error))
+        })
+      }).catch((error) => {
+        alert("執行失敗，您是否有登入Line且授權呢？")
+      })
     } else {
       alert('請先登入Line！')
       liff.login({
