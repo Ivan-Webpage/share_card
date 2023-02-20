@@ -14,18 +14,14 @@
 
 
 <body style="background-color: #5d82bb; display: flex; justify-content: center; align-items: center;">
-  <div>
+  <button type="button" onclick="share_btn()">
     <img src="img/9X16.JPG" alt="神奇名片-行銷搬進大程式" style="height: 100vh; width: auto;">
-  </div>
+  </button>
 </body>
 
 <script>
-  liff.init({
-    liffId: "1657826069-OmEnqNJY",
-  }).then(function () {
-    // 這邊開始寫使用其他功能
-    if (liff.isLoggedIn()) { // 判斷是否有登入line
-      let params = new URLSearchParams(location.search);
+  function share_btn(){
+    let params = new URLSearchParams(location.search);
       let card = params.get('card')
       
       var xhr = new XMLHttpRequest()
@@ -36,13 +32,21 @@
           alert(("發用訊息出錯: "+error))
         })
       }
+  }
+
+  liff.init({
+    liffId: "1657826069-OmEnqNJY",
+  }).then(function () {
+    // 這邊開始寫使用其他功能
+    if (liff.isLoggedIn()) { // 判斷是否有登入line
+      share_btn()
     } else {
       liff.login({
         redirectUri: "https://ivan-webpage.github.io/share_card/" // 使用者登入後要去到哪個頁面
       });
     }
 
-//     liff.closeWindow(); // 自動關閉畫面
+    liff.closeWindow(); // 自動關閉畫面
   }).catch(function (error) {
     console.log("掛掉了: " + error);
   });
