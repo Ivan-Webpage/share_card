@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    outline: 0 none;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    font-family: Microsoft JhengHei, DFKai-sb, Arial, '新細明體', sans-serif;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+}
+
+h1, h2, h3, h4, h5, h6, span,p, div, button, a{
+    font-weight:bold;
+    letter-spacing: 1px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    letter-spacing: 3 px;
+}
+
+.share_button {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #5d82bb;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .share_button:hover {background-color: #6d8ec1}
+  
+  .share_button:active {
+    background-color: #6d8ec1;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
