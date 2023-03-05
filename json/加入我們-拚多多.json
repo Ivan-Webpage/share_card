@@ -1,65 +1,71 @@
 {
-"type": "bubble",
-"body": {
+  "type": "bubble",
+  "size": "giga",
+  "body": {
     "type": "box",
     "layout": "vertical",
     "contents": [
-    {
+      {
         "type": "image",
         "url": "https://imgur.com/l7wDyQM.jpg",
         "size": "full",
         "aspectMode": "cover",
         "aspectRatio": "2:3",
         "gravity": "top"
-    },
-    {
+      },
+      {
         "type": "box",
         "layout": "vertical",
         "contents": [
-        {
+          {
             "type": "box",
             "layout": "vertical",
             "contents": [
-            {
+              {
                 "type": "text",
                 "text": "快來加入我的團隊",
                 "size": "xl",
-                "color": "#FF3131",
                 "weight": "bold",
-                "align": "center"
-            }
+                "align": "center",
+                "color": "#ffffff"
+              }
             ]
-        },
-        {
+          },
+          {
             "type": "box",
             "layout": "vertical",
             "contents": [
-            {
+              {
                 "type": "filler"
-            },
-            {
+              },
+              {
                 "type": "box",
                 "layout": "baseline",
                 "contents": [
-                {
+                  {
                     "type": "filler"
-                },
-                {
+                  },
+                  {
                     "type": "text",
                     "text": "點我加入",
                     "color": "#ffffff",
                     "flex": 0,
-                    "offsetTop": "-2px"
-                },
-                {
+                    "offsetTop": "-2px",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://pin-dodo.com/ag/gti09/auth/register"
+                    }
+                  },
+                  {
                     "type": "filler"
-                }
+                  }
                 ],
                 "spacing": "sm"
-            },
-            {
+              },
+              {
                 "type": "filler"
-            }
+              }
             ],
             "borderWidth": "1px",
             "cornerRadius": "4px",
@@ -67,29 +73,28 @@
             "borderColor": "#ffffff",
             "margin": "xxl",
             "height": "40px"
-        },
-        {
+          },
+          {
             "type": "button",
             "action": {
-            "type": "uri",
-            "label": "分享好友",
-            "uri": "http://linecorp.com/"
+              "type": "uri",
+              "label": "分享好友",
+              "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=%E5%8A%A0%E5%85%A5%E6%88%91%E5%80%91-%E6%8B%9A%E5%A4%9A%E5%A4%9A"
             },
             "margin": "md",
             "height": "sm",
             "color": "#ffffff"
-        }
+          }
         ],
         "position": "absolute",
         "offsetBottom": "0px",
         "offsetStart": "0px",
         "offsetEnd": "0px",
-        "backgroundColor": "#000000cc",
+        "backgroundColor": "#FF3131ee",
         "paddingAll": "20px",
         "paddingTop": "18px"
-    }
+      }
     ],
     "paddingAll": "0px"
-},
-"size": "giga"
+  }
 }
