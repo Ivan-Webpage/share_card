@@ -3,10 +3,10 @@
     "altText": "加入我們-拚多多",
     "contents": {
         "type": "carousel",
+        "size": "giga",
         "contents": [
             {
                 "type": "bubble",
-                "size": "giga",
                 "body": {
                     "type": "box",
                     "layout": "vertical",
@@ -102,7 +102,8 @@
                         }
                     ],
                     "paddingAll": "0px"
-                }
+                },
+                "size": "giga"
             }
         ]
     }
