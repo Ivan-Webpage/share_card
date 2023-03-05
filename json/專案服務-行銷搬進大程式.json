@@ -1,799 +1,104 @@
 {
-  "type": "flex",
-  "altText": "專案服務-行銷搬進大程式",
-  "contents": {
-      "type": "carousel",
-      "contents": [
-          {
-              "type": "bubble",
-              "hero": {
-                  "type": "image",
-                  "url": "https://imgur.com/hlKtqvp.png",
-                  "size": "full",
-                  "aspectRatio": "20:13",
-                  "aspectMode": "cover",
-                  "action": {
-                      "type": "uri",
-                      "uri": "https://marketingliveincode.com"
-                  }
-              },
-              "body": {
-                  "type": "box",
-                  "layout": "vertical",
-                  "spacing": "md",
-                  "action": {
-                      "type": "uri",
-                      "uri": "https://marketingliveincode.com"
-                  },
-                  "contents": [
-                      {
-                          "type": "text",
-                          "text": "Line 數位行銷",
-                          "size": "xl",
-                          "weight": "bold"
-                      },
-                      {
-                          "type": "box",
-                          "layout": "vertical",
-                          "spacing": "sm",
-                          "contents": [
-                              {
-                                  "type": "box",
-                                  "layout": "baseline",
-                                  "contents": [
-                                      {
-                                          "type": "icon",
-                                          "url": "https://imgur.com/1Nhpqcj.png"
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "官方品牌建立",
-                                          "weight": "bold",
-                                          "margin": "sm",
-                                          "flex": 0
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "含設計",
-                                          "size": "sm",
-                                          "align": "end",
-                                          "color": "#aaaaaa"
-                                      }
-                                  ]
-                              },
-                              {
-                                  "type": "box",
-                                  "layout": "baseline",
-                                  "contents": [
-                                      {
-                                          "type": "icon",
-                                          "url": "https://imgur.com/1Nhpqcj.png"
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "自動回覆機器人",
-                                          "weight": "bold",
-                                          "margin": "sm",
-                                          "flex": 0
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "客製化",
-                                          "size": "sm",
-                                          "align": "end",
-                                          "color": "#aaaaaa"
-                                      }
-                                  ]
-                              },
-                              {
-                                  "type": "box",
-                                  "layout": "baseline",
-                                  "contents": [
-                                      {
-                                          "type": "icon",
-                                          "url": "https://imgur.com/1Nhpqcj.png"
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "好友、群組廣播",
-                                          "weight": "bold",
-                                          "margin": "sm",
-                                          "flex": 0
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "定時",
-                                          "size": "sm",
-                                          "align": "end",
-                                          "color": "#aaaaaa"
-                                      }
-                                  ]
-                              },
-                              {
-                                  "type": "box",
-                                  "layout": "baseline",
-                                  "contents": [
-                                      {
-                                          "type": "icon",
-                                          "url": "https://imgur.com/1Nhpqcj.png"
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "分群機器人",
-                                          "weight": "bold",
-                                          "margin": "sm",
-                                          "flex": 0
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "破防",
-                                          "size": "sm",
-                                          "align": "end",
-                                          "color": "#aaaaaa"
-                                      }
-                                  ]
-                              }
-                          ]
-                      },
-                      {
-                          "type": "text",
-                          "text": "#品牌 #行銷 #流量 #自動化 #視覺設計",
-                          "wrap": true,
-                          "color": "#aaaaaa",
-                          "size": "xxs"
-                      }
-                  ]
-              },
-              "footer": {
-                  "type": "box",
-                  "layout": "vertical",
-                  "contents": [
-                      {
-                          "type": "button",
-                          "style": "primary",
-                          "color": "#5d82bb",
-                          "margin": "xxl",
-                          "action": {
-                              "type": "uri",
-                              "label": "分享好康",
-                              "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=%e5%b0%88%e6%a1%88%e6%9c%8d%e5%8b%99-%e8%a1%8c%e9%8a%b7%e6%90%ac%e9%80%b2%e5%a4%a7%e7%a8%8b%e5%bc%8f"
-                          }
-                      }
-                  ]
-              }
-          },
-          {
-              "type": "bubble",
-              "hero": {
-                  "type": "image",
-                  "url": "https://imgur.com/QFiHu6K.png",
-                  "size": "full",
-                  "aspectRatio": "20:13",
-                  "aspectMode": "cover",
-                  "action": {
-                      "type": "uri",
-                      "uri": "https://marketingliveincode.com"
-                  }
-              },
-              "body": {
-                  "type": "box",
-                  "layout": "vertical",
-                  "spacing": "md",
-                  "action": {
-                      "type": "uri",
-                      "uri": "https://marketingliveincode.com"
-                  },
-                  "contents": [
-                      {
-                          "type": "text",
-                          "text": "FB社群行銷",
-                          "size": "xl",
-                          "weight": "bold"
-                      },
-                      {
-                          "type": "box",
-                          "layout": "vertical",
-                          "spacing": "sm",
-                          "contents": [
-                              {
-                                  "type": "box",
-                                  "layout": "baseline",
-                                  "contents": [
-                                      {
-                                          "type": "icon",
-                                          "url": "https://imgur.com/1Nhpqcj.png"
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "粉專建立",
-                                          "weight": "bold",
-                                          "margin": "sm",
-                                          "flex": 0
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "含設計",
-                                          "size": "sm",
-                                          "align": "end",
-                                          "color": "#aaaaaa"
-                                      }
-                                  ]
-                              },
-                              {
-                                  "type": "box",
-                                  "layout": "baseline",
-                                  "contents": [
-                                      {
-                                          "type": "icon",
-                                          "url": "https://imgur.com/1Nhpqcj.png"
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "廣灑社團機器人",
-                                          "weight": "bold",
-                                          "margin": "sm",
-                                          "flex": 0
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "自動化",
-                                          "size": "sm",
-                                          "align": "end",
-                                          "color": "#aaaaaa"
-                                      }
-                                  ]
-                              },
-                              {
-                                  "type": "box",
-                                  "layout": "baseline",
-                                  "contents": [
-                                      {
-                                          "type": "icon",
-                                          "url": "https://imgur.com/1Nhpqcj.png"
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "臉書投放廣告",
-                                          "weight": "bold",
-                                          "margin": "sm",
-                                          "flex": 0
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "定時",
-                                          "size": "sm",
-                                          "align": "end",
-                                          "color": "#aaaaaa"
-                                      }
-                                  ]
-                              },
-                              {
-                                  "type": "box",
-                                  "layout": "baseline",
-                                  "contents": [
-                                      {
-                                          "type": "icon",
-                                          "url": "https://imgur.com/1Nhpqcj.png"
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "行銷文案",
-                                          "weight": "bold",
-                                          "margin": "sm",
-                                          "flex": 0
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "破防",
-                                          "size": "sm",
-                                          "align": "end",
-                                          "color": "#aaaaaa"
-                                      }
-                                  ]
-                              }
-                          ]
-                      },
-                      {
-                          "type": "text",
-                          "text": "#社群 #廣告 #流量 #自動化 #品牌設計",
-                          "wrap": true,
-                          "color": "#aaaaaa",
-                          "size": "xxs"
-                      }
-                  ]
-              },
-              "footer": {
-                  "type": "box",
-                  "layout": "vertical",
-                  "contents": [
-                      {
-                          "type": "button",
-                          "style": "primary",
-                          "color": "#5d82bb",
-                          "margin": "xxl",
-                          "action": {
-                              "type": "uri",
-                              "label": "分享好康",
-                              "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=%e5%b0%88%e6%a1%88%e6%9c%8d%e5%8b%99-%e8%a1%8c%e9%8a%b7%e6%90%ac%e9%80%b2%e5%a4%a7%e7%a8%8b%e5%bc%8f"
-                          }
-                      }
-                  ]
-              }
-          },
-          {
-              "type": "bubble",
-              "hero": {
-                  "type": "image",
-                  "url": "https://imgur.com/QjtRCee.png",
-                  "size": "full",
-                  "aspectRatio": "20:13",
-                  "aspectMode": "cover",
-                  "action": {
-                      "type": "uri",
-                      "uri": "https://marketingliveincode.com"
-                  }
-              },
-              "body": {
-                  "type": "box",
-                  "layout": "vertical",
-                  "spacing": "md",
-                  "action": {
-                      "type": "uri",
-                      "uri": "https://marketingliveincode.com"
-                  },
-                  "contents": [
-                      {
-                          "type": "text",
-                          "text": "Google 搜尋引擎優化",
-                          "size": "xl",
-                          "weight": "bold"
-                      },
-                      {
-                          "type": "box",
-                          "layout": "vertical",
-                          "spacing": "sm",
-                          "contents": [
-                              {
-                                  "type": "box",
-                                  "layout": "baseline",
-                                  "contents": [
-                                      {
-                                          "type": "icon",
-                                          "url": "https://imgur.com/1Nhpqcj.png"
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "埋關鍵字",
-                                          "weight": "bold",
-                                          "margin": "sm",
-                                          "flex": 0
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "多組關鍵字",
-                                          "size": "sm",
-                                          "align": "end",
-                                          "color": "#aaaaaa"
-                                      }
-                                  ]
-                              },
-                              {
-                                  "type": "box",
-                                  "layout": "baseline",
-                                  "contents": [
-                                      {
-                                          "type": "icon",
-                                          "url": "https://imgur.com/1Nhpqcj.png"
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "流量追蹤",
-                                          "weight": "bold",
-                                          "margin": "sm",
-                                          "flex": 0
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "分析",
-                                          "size": "sm",
-                                          "align": "end",
-                                          "color": "#aaaaaa"
-                                      }
-                                  ]
-                              },
-                              {
-                                  "type": "box",
-                                  "layout": "baseline",
-                                  "contents": [
-                                      {
-                                          "type": "icon",
-                                          "url": "https://imgur.com/1Nhpqcj.png"
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "Google廣告",
-                                          "weight": "bold",
-                                          "margin": "sm",
-                                          "flex": 0
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "提升",
-                                          "size": "sm",
-                                          "align": "end",
-                                          "color": "#aaaaaa"
-                                      }
-                                  ]
-                              },
-                              {
-                                  "type": "box",
-                                  "layout": "baseline",
-                                  "contents": [
-                                      {
-                                          "type": "icon",
-                                          "url": "https://imgur.com/1Nhpqcj.png"
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "SEO一條龍",
-                                          "weight": "bold",
-                                          "margin": "sm",
-                                          "flex": 0
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "CP值",
-                                          "size": "sm",
-                                          "align": "end",
-                                          "color": "#aaaaaa"
-                                      }
-                                  ]
-                              }
-                          ]
-                      },
-                      {
-                          "type": "text",
-                          "text": "#搜尋 #灰色 #流量 #關鍵字 #自然流量",
-                          "wrap": true,
-                          "color": "#aaaaaa",
-                          "size": "xxs"
-                      }
-                  ]
-              },
-              "footer": {
-                  "type": "box",
-                  "layout": "vertical",
-                  "contents": [
-                      {
-                          "type": "button",
-                          "style": "primary",
-                          "color": "#5d82bb",
-                          "margin": "xxl",
-                          "action": {
-                              "type": "uri",
-                              "label": "分享好康",
-                              "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=%e5%b0%88%e6%a1%88%e6%9c%8d%e5%8b%99-%e8%a1%8c%e9%8a%b7%e6%90%ac%e9%80%b2%e5%a4%a7%e7%a8%8b%e5%bc%8f"
-                          }
-                      }
-                  ]
-              }
-          },
-          {
-              "type": "bubble",
-              "hero": {
-                  "type": "image",
-                  "url": "https://imgur.com/znNs9oe.png",
-                  "size": "full",
-                  "aspectRatio": "20:13",
-                  "aspectMode": "cover",
-                  "action": {
-                      "type": "uri",
-                      "uri": "https://marketingliveincode.com"
-                  }
-              },
-              "body": {
-                  "type": "box",
-                  "layout": "vertical",
-                  "spacing": "md",
-                  "action": {
-                      "type": "uri",
-                      "uri": "https://marketingliveincode.com"
-                  },
-                  "contents": [
-                      {
-                          "type": "text",
-                          "text": "Web 品牌網站建立",
-                          "size": "xl",
-                          "weight": "bold"
-                      },
-                      {
-                          "type": "box",
-                          "layout": "vertical",
-                          "spacing": "sm",
-                          "contents": [
-                              {
-                                  "type": "box",
-                                  "layout": "baseline",
-                                  "contents": [
-                                      {
-                                          "type": "icon",
-                                          "url": "https://imgur.com/1Nhpqcj.png"
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "主視覺設計",
-                                          "weight": "bold",
-                                          "margin": "sm",
-                                          "flex": 0
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "客製化",
-                                          "size": "sm",
-                                          "align": "end",
-                                          "color": "#aaaaaa"
-                                      }
-                                  ]
-                              },
-                              {
-                                  "type": "box",
-                                  "layout": "baseline",
-                                  "contents": [
-                                      {
-                                          "type": "icon",
-                                          "url": "https://imgur.com/1Nhpqcj.png"
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "一頁式網站",
-                                          "weight": "bold",
-                                          "margin": "sm",
-                                          "flex": 0
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "快速",
-                                          "size": "sm",
-                                          "align": "end",
-                                          "color": "#aaaaaa"
-                                      }
-                                  ]
-                              },
-                              {
-                                  "type": "box",
-                                  "layout": "baseline",
-                                  "contents": [
-                                      {
-                                          "type": "icon",
-                                          "url": "https://imgur.com/1Nhpqcj.png"
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "網站後台",
-                                          "weight": "bold",
-                                          "margin": "sm",
-                                          "flex": 0
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "管理",
-                                          "size": "sm",
-                                          "align": "end",
-                                          "color": "#aaaaaa"
-                                      }
-                                  ]
-                              },
-                              {
-                                  "type": "box",
-                                  "layout": "baseline",
-                                  "contents": [
-                                      {
-                                          "type": "icon",
-                                          "url": "https://imgur.com/1Nhpqcj.png"
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "報表分析",
-                                          "weight": "bold",
-                                          "margin": "sm",
-                                          "flex": 0
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "管理",
-                                          "size": "sm",
-                                          "align": "end",
-                                          "color": "#aaaaaa"
-                                      }
-                                  ]
-                              }
-                          ]
-                      },
-                      {
-                          "type": "text",
-                          "text": "#網站 #曝光 #流量 #SEO #自然流量",
-                          "wrap": true,
-                          "color": "#aaaaaa",
-                          "size": "xxs"
-                      }
-                  ]
-              },
-              "footer": {
-                  "type": "box",
-                  "layout": "vertical",
-                  "contents": [
-                      {
-                          "type": "button",
-                          "style": "primary",
-                          "color": "#5d82bb",
-                          "margin": "xxl",
-                          "action": {
-                              "type": "uri",
-                              "label": "分享好康",
-                              "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=%e5%b0%88%e6%a1%88%e6%9c%8d%e5%8b%99-%e8%a1%8c%e9%8a%b7%e6%90%ac%e9%80%b2%e5%a4%a7%e7%a8%8b%e5%bc%8f"
-                          }
-                      }
-                  ]
-              }
-          },
-          {
-              "type": "bubble",
-              "hero": {
-                  "type": "image",
-                  "url": "https://imgur.com/DXgrTw4.png",
-                  "size": "full",
-                  "aspectRatio": "20:13",
-                  "aspectMode": "cover",
-                  "action": {
-                      "type": "uri",
-                      "uri": "https://marketingliveincode.com"
-                  }
-              },
-              "body": {
-                  "type": "box",
-                  "layout": "vertical",
-                  "spacing": "md",
-                  "action": {
-                      "type": "uri",
-                      "uri": "https://marketingliveincode.com"
-                  },
-                  "contents": [
-                      {
-                          "type": "text",
-                          "text": "Code 程式外包",
-                          "size": "xl",
-                          "weight": "bold"
-                      },
-                      {
-                          "type": "box",
-                          "layout": "vertical",
-                          "spacing": "sm",
-                          "contents": [
-                              {
-                                  "type": "box",
-                                  "layout": "baseline",
-                                  "contents": [
-                                      {
-                                          "type": "icon",
-                                          "url": "https://imgur.com/1Nhpqcj.png"
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "自動推播系統",
-                                          "weight": "bold",
-                                          "margin": "sm",
-                                          "flex": 0
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "股市",
-                                          "size": "sm",
-                                          "align": "end",
-                                          "color": "#aaaaaa"
-                                      }
-                                  ]
-                              },
-                              {
-                                  "type": "box",
-                                  "layout": "baseline",
-                                  "contents": [
-                                      {
-                                          "type": "icon",
-                                          "url": "https://imgur.com/1Nhpqcj.png"
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "網頁爬蟲",
-                                          "weight": "bold",
-                                          "margin": "sm",
-                                          "flex": 0
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "快速",
-                                          "size": "sm",
-                                          "align": "end",
-                                          "color": "#aaaaaa"
-                                      }
-                                  ]
-                              },
-                              {
-                                  "type": "box",
-                                  "layout": "baseline",
-                                  "contents": [
-                                      {
-                                          "type": "icon",
-                                          "url": "https://imgur.com/1Nhpqcj.png"
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "系統串聯",
-                                          "weight": "bold",
-                                          "margin": "sm",
-                                          "flex": 0
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "管理",
-                                          "size": "sm",
-                                          "align": "end",
-                                          "color": "#aaaaaa"
-                                      }
-                                  ]
-                              },
-                              {
-                                  "type": "box",
-                                  "layout": "baseline",
-                                  "contents": [
-                                      {
-                                          "type": "icon",
-                                          "url": "https://imgur.com/1Nhpqcj.png"
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "金流串接",
-                                          "weight": "bold",
-                                          "margin": "sm",
-                                          "flex": 0
-                                      },
-                                      {
-                                          "type": "text",
-                                          "text": "管理",
-                                          "size": "sm",
-                                          "align": "end",
-                                          "color": "#aaaaaa"
-                                      }
-                                  ]
-                              }
-                          ]
-                      },
-                      {
-                          "type": "text",
-                          "text": "#AI #程式 #系統 #自動化 #交付程式碼",
-                          "wrap": true,
-                          "color": "#aaaaaa",
-                          "size": "xxs"
-                      }
-                  ]
-              },
-              "footer": {
-                  "type": "box",
-                  "layout": "vertical",
-                  "contents": [
-                      {
-                          "type": "button",
-                          "style": "primary",
-                          "color": "#5d82bb",
-                          "margin": "xxl",
-                          "action": {
-                              "type": "uri",
-                              "label": "分享好康",
-                              "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=%e5%b0%88%e6%a1%88%e6%9c%8d%e5%8b%99-%e8%a1%8c%e9%8a%b7%e6%90%ac%e9%80%b2%e5%a4%a7%e7%a8%8b%e5%bc%8f"
-                          }   
-                      }
-                  ]
-              }
-          }
-      ]
-  }
+    "type": "flex",
+    "altText": "加入我們-拚多多",
+    "contents": [{
+        "type": "bubble",
+        "body": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+                {
+                    "type": "image",
+                    "url": "https://imgur.com/l7wDyQM.jpg",
+                    "size": "full",
+                    "aspectMode": "cover",
+                    "aspectRatio": "2:3",
+                    "gravity": "top"
+                },
+                {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "text": "快來加入我的團隊",
+                                    "size": "xl",
+                                    "weight": "bold",
+                                    "align": "center",
+                                    "color": "#ffffff"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "filler"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "contents": [
+                                        {
+                                            "type": "filler"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "點我加入",
+                                            "color": "#ffffff",
+                                            "flex": 0,
+                                            "offsetTop": "-2px",
+                                            "action": {
+                                                "type": "uri",
+                                                "label": "action",
+                                                "uri": "https://pin-dodo.com/ag/gti09/auth/register"
+                                            }
+                                        },
+                                        {
+                                            "type": "filler"
+                                        }
+                                    ],
+                                    "spacing": "sm"
+                                },
+                                {
+                                    "type": "filler"
+                                }
+                            ],
+                            "borderWidth": "1px",
+                            "cornerRadius": "4px",
+                            "spacing": "sm",
+                            "borderColor": "#ffffff",
+                            "margin": "xxl",
+                            "height": "40px"
+                        },
+                        {
+                            "type": "button",
+                            "action": {
+                                "type": "uri",
+                                "label": "分享好友",
+                                "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=%E5%8A%A0%E5%85%A5%E6%88%91%E5%80%91-%E6%8B%9A%E5%A4%9A%E5%A4%9A"
+                            },
+                            "margin": "md",
+                            "height": "sm",
+                            "color": "#ffffff"
+                        }
+                    ],
+                    "position": "absolute",
+                    "offsetBottom": "0px",
+                    "offsetStart": "0px",
+                    "offsetEnd": "0px",
+                    "backgroundColor": "#FF3131ee",
+                    "paddingAll": "20px",
+                    "paddingTop": "18px"
+                }
+            ],
+            "paddingAll": "0px"
+        },
+        "size": "giga"
+    }]
 }
