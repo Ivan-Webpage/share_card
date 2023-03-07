@@ -1,127 +1,127 @@
 {
   "type": "flex",
-  "altText": "臉書PO文自動機器人-行銷搬進大程式",
+  "altText": "神奇名片-行銷搬進大程式",
   "contents": {
-    "type": "carousel",
-    "contents": [
-      {
-        "type": "bubble",
-        "size": "giga",
-        "body": {
+    "type": "bubble",
+    "size": "giga",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "image",
+          "url": "https://imgur.com/cBCJQnc.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "9:16",
+          "gravity": "top",
+          "action": {
+            "type": "uri",
+            "label": "action",
+            "uri": "https://aicoinmaker.com/?REFCODE=DJF52A"
+          }
+        },
+        {
           "type": "box",
           "layout": "vertical",
           "contents": [
             {
-              "type": "image",
-              "url": "https://imgur.com/cBCJQnc.jpg",
-              "size": "full",
-              "aspectMode": "cover",
-              "aspectRatio": "9:16",
-              "gravity": "top",
-              "action": {
-                "type": "uri",
-                "label": "action",
-                "uri": "https://aicoinmaker.com/?REFCODE=DJF52A"
-              }
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "filler"
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "text",
+                      "text": "聯絡我們",
+                      "color": "#ffffff",
+                      "flex": 0,
+                      "offsetTop": "-2px",
+                      "action": {
+                        "type": "uri",
+                        "label": "action",
+                        "uri": "https://line.me/ti/p/@753uguuv"
+                      }
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "spacing": "sm"
+                },
+                {
+                  "type": "filler"
+                }
+              ],
+              "borderWidth": "1px",
+              "cornerRadius": "4px",
+              "spacing": "sm",
+              "borderColor": "#ffffff",
+              "margin": "xxl",
+              "height": "40px"
             },
             {
               "type": "box",
               "layout": "vertical",
               "contents": [
                 {
-                  "type": "box",
-                  "layout": "vertical",
-                  "contents": [
-                    {
-                      "type": "filler"
-                    },
-                    {
-                      "type": "box",
-                      "layout": "baseline",
-                      "contents": [
-                        {
-                          "type": "filler"
-                        },
-                        {
-                          "type": "text",
-                          "text": "聯絡我們",
-                          "color": "#ffffff",
-                          "flex": 0,
-                          "offsetTop": "-2px",
-                          "action": {
-                            "type": "uri",
-                            "label": "action",
-                            "uri": "https://line.me/ti/p/@753uguuv"
-                          }
-                        },
-                        {
-                          "type": "filler"
-                        }
-                      ],
-                      "spacing": "sm"
-                    },
-                    {
-                      "type": "filler"
-                    }
-                  ],
-                  "borderWidth": "1px",
-                  "cornerRadius": "4px",
-                  "spacing": "sm",
-                  "borderColor": "#ffffff",
-                  "margin": "xxl",
-                  "height": "40px"
+                  "type": "filler"
                 },
                 {
                   "type": "box",
-                  "layout": "vertical",
+                  "layout": "baseline",
                   "contents": [
                     {
                       "type": "filler"
                     },
                     {
-                      "type": "box",
-                      "layout": "baseline",
-                      "contents": [
-                        {
-                          "type": "filler"
-                        },
-                        {
-                          "type": "text",
-                          "text": "分享好友",
-                          "color": "#ffffff",
-                          "flex": 0,
-                          "offsetTop": "-2px"
-                        },
-                        {
-                          "type": "filler"
-                        }
-                      ],
-                      "spacing": "sm"
+                      "type": "text",
+                      "text": "分享好友",
+                      "color": "#ffffff",
+                      "flex": 0,
+                      "offsetTop": "-2px",
+                      "action": {
+                        "type": "uri",
+                        "label": "action",
+                        "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=%e8%87%89%e6%9b%b8PO%e6%96%87%e8%87%aa%e5%8b%95%e6%a9%9f%e5%99%a8%e4%ba%ba-%e8%a1%8c%e9%8a%b7%e6%90%ac%e9%80%b2%e5%a4%a7%e7%a8%8b%e5%bc%8f"
+                      }
                     },
                     {
                       "type": "filler"
                     }
                   ],
-                  "borderWidth": "1px",
-                  "cornerRadius": "4px",
-                  "spacing": "sm",
-                  "borderColor": "#ffffff",
-                  "margin": "xxl",
-                  "height": "40px"
+                  "spacing": "sm"
+                },
+                {
+                  "type": "filler"
                 }
               ],
-              "position": "absolute",
-              "offsetBottom": "0px",
-              "offsetStart": "0px",
-              "offsetEnd": "0px",
-              "backgroundColor": "#474541cc",
-              "paddingAll": "20px",
-              "paddingTop": "18px"
+              "borderWidth": "1px",
+              "cornerRadius": "4px",
+              "spacing": "sm",
+              "borderColor": "#ffffff",
+              "margin": "xxl",
+              "height": "40px"
             }
           ],
-          "paddingAll": "0px"
+          "position": "absolute",
+          "offsetBottom": "0px",
+          "offsetStart": "0px",
+          "offsetEnd": "0px",
+          "backgroundColor": "#474541cc",
+          "paddingAll": "20px",
+          "paddingTop": "18px"
         }
-      }
-    ]
+      ],
+      "paddingAll": "0px"
+    }
   }
 }
