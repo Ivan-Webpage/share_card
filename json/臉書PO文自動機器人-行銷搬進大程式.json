@@ -1,0 +1,118 @@
+{
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://imgur.com/cBCJQnc.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "9:16",
+        "gravity": "top",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://aicoinmaker.com/?REFCODE=DJF52A"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "filler"
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "text",
+                    "text": "聯絡我們",
+                    "color": "#ffffff",
+                    "flex": 0,
+                    "offsetTop": "-2px",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://line.me/ti/p/@753uguuv"
+                    }
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "spacing": "sm"
+              },
+              {
+                "type": "filler"
+              }
+            ],
+            "borderWidth": "1px",
+            "cornerRadius": "4px",
+            "spacing": "sm",
+            "borderColor": "#ffffff",
+            "margin": "xxl",
+            "height": "40px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "filler"
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "text",
+                    "text": "分享好友",
+                    "color": "#ffffff",
+                    "flex": 0,
+                    "offsetTop": "-2px"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "spacing": "sm"
+              },
+              {
+                "type": "filler"
+              }
+            ],
+            "borderWidth": "1px",
+            "cornerRadius": "4px",
+            "spacing": "sm",
+            "borderColor": "#ffffff",
+            "margin": "xxl",
+            "height": "40px"
+          }
+        ],
+        "position": "absolute",
+        "offsetBottom": "0px",
+        "offsetStart": "0px",
+        "offsetEnd": "0px",
+        "backgroundColor": "#474541cc",
+        "paddingAll": "20px",
+        "paddingTop": "18px"
+      }
+    ],
+    "paddingAll": "0px"
+  }
+}
