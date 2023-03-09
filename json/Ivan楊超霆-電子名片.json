@@ -1,0 +1,149 @@
+{
+  "type": "flex",
+  "altText": "Ivan楊超霆-電子名片",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://imgur.com/IOdDFf3.jpg",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "141:225",
+              "gravity": "center",
+              "action": {
+                "type": "uri",
+                "label": "action",
+                "uri": "https://marketingliveincode.com/"
+              }
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "background": {
+                "type": "linearGradient",
+                "angle": "0deg",
+                "endColor": "#00000000",
+                "startColor": "#00000099"
+              },
+              "width": "100%",
+              "height": "40%",
+              "offsetBottom": "0px",
+              "offsetStart": "0px",
+              "offsetEnd": "0px"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [],
+                  "spacing": "xs"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "分享好友",
+                    "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=Ivan%e6%a5%8a%e8%b6%85%e9%9c%86-%e9%9b%bb%e5%ad%90%e5%90%8d%e7%89%87"
+                  },
+                  "style": "primary",
+                  "color": "#bb965d"
+                }
+              ],
+              "position": "absolute",
+              "offsetBottom": "0px",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "paddingAll": "20px"
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://imgur.com/z7iaNFR.jpg",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "141:225",
+              "gravity": "center",
+              "action": {
+                "type": "uri",
+                "label": "action",
+                "uri": "https://marketingliveincode.com/"
+              }
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [],
+              "position": "absolute",
+              "background": {
+                "type": "linearGradient",
+                "angle": "0deg",
+                "endColor": "#00000000",
+                "startColor": "#00000099"
+              },
+              "width": "100%",
+              "height": "40%",
+              "offsetBottom": "0px",
+              "offsetStart": "0px",
+              "offsetEnd": "0px"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "Line官方",
+                    "uri": "https://liff.line.me/1645278921-kWRPP32q/?accountId=753uguuv"
+                  },
+                  "style": "primary",
+                  "color": "#82bb5d",
+                  "margin": "md"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "官方網站",
+                    "uri": "https://marketingliveincode.com/"
+                  },
+                  "style": "primary",
+                  "color": "#5d82bb",
+                  "margin": "md"
+                }
+              ],
+              "position": "absolute",
+              "offsetBottom": "0px",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "paddingAll": "20px"
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      }
+    ]
+  }
+}
