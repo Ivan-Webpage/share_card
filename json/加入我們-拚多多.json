@@ -9,7 +9,7 @@
             "contents": [
                 {
                     "type": "image",
-                    "url": "https://imgur.com/Q9pYjAA.jpg",
+                    "url": "https://imgur.com/wSDL0Ej.jpg",
                     "size": "full",
                     "aspectMode": "cover",
                     "aspectRatio": "2:3",
@@ -29,7 +29,7 @@
                                     "size": "xl",
                                     "weight": "bold",
                                     "align": "center",
-                                    "color": "#ffffff"
+                                    "color": "#1e1e1e"
                                 }
                             ]
                         },
@@ -50,7 +50,7 @@
                                         {
                                             "type": "text",
                                             "text": "點我加入",
-                                            "color": "#ffffff",
+                                            "color": "#1e1e1e",
                                             "flex": 0,
                                             "offsetTop": "-2px",
                                             "action": {
@@ -72,7 +72,7 @@
                             "borderWidth": "1px",
                             "cornerRadius": "4px",
                             "spacing": "sm",
-                            "borderColor": "#ffffff",
+                            "borderColor": "#1e1e1e",
                             "margin": "xxl",
                             "height": "40px"
                         },
@@ -85,14 +85,14 @@
                             },
                             "margin": "md",
                             "height": "sm",
-                            "color": "#ffffff"
+                            "color": "#1e1e1e"
                         }
                     ],
                     "position": "absolute",
                     "offsetBottom": "0px",
                     "offsetStart": "0px",
                     "offsetEnd": "0px",
-                    "backgroundColor": "#FF3131ee",
+                    "backgroundColor": "#e3bd61ee",
                     "paddingAll": "20px",
                     "paddingTop": "18px"
                 }
