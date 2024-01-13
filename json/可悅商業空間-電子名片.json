@@ -46,7 +46,18 @@
                                     "type": "box",
                                     "layout": "horizontal",
                                     "contents": [
-                                      
+                                      {
+                                        "type": "box",
+                                        "layout": "vertical",
+                                        "contents": [
+                                          
+                                        ],
+                                        "spacing": "sm",
+                                        "cornerRadius": "4px",
+                                        "borderColor": "#F4CA82",
+                                        "borderWidth": "1px",
+                                        "height": "40px"
+                                      }
                                     ],
                                     "borderWidth": "1px",
                                     "cornerRadius": "4px",
