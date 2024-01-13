@@ -1,0 +1,453 @@
+{
+  "type": "flex",
+  "altText": "可悅商業空間-電子名片",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://imgur.com/W6wL3nj.jpg",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "2:3",
+              "gravity": "top"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "可悅商業空間",
+                      "size": "xl",
+                      "color": "#F4CA82",
+                      "weight": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "#場地租借",
+                      "color": "#ffffff",
+                      "size": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "#雪茄",
+                      "color": "#ffffff",
+                      "gravity": "bottom",
+                      "flex": 0,
+                      "size": "sm"
+                    },
+                    {
+                      "type": "text",
+                      "text": "#紅白烈酒",
+                      "color": "#ffffff",
+                      "size": "sm",
+                      "flex": 0
+                    }
+                  ],
+                  "spacing": "lg"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "text",
+                          "text": "分享好友",
+                          "color": "#F4CA82",
+                          "flex": 0,
+                          "offsetTop": "-2px"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "spacing": "sm"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "borderWidth": "1px",
+                  "cornerRadius": "4px",
+                  "spacing": "sm",
+                  "borderColor": "#F4CA82",
+                  "margin": "xxl",
+                  "height": "40px",
+                  "action": {
+                    "type": "uri",
+                    "label": "action",
+                    "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=%e5%8f%af%e6%82%85%e5%95%86%e6%a5%ad%e7%a9%ba%e9%96%93-%e9%9b%bb%e5%ad%90%e5%90%8d%e7%89%87"
+                  }
+                }
+              ],
+              "position": "absolute",
+              "offsetBottom": "0px",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "paddingAll": "20px",
+              "paddingTop": "18px",
+              "backgroundColor": "#303628aa"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "更多介紹",
+                  "color": "#ffffff",
+                  "size": "xs",
+                  "align": "center",
+                  "offsetTop": "3px",
+                  "action": {
+                    "type": "uri",
+                    "label": "action",
+                    "uri": "https://keyue.com.tw/about"
+                  }
+                }
+              ],
+              "position": "absolute",
+              "width": "73px",
+              "height": "25px",
+              "backgroundColor": "#ff334b",
+              "cornerRadius": "20px",
+              "offsetTop": "18px",
+              "offsetStart": "18px"
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://imgur.com/IWsYDVo.jpg",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "2:3",
+              "gravity": "top"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "場地租借",
+                      "size": "xl",
+                      "color": "#F4CA82",
+                      "weight": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "#吧檯區",
+                      "color": "#ffffff",
+                      "size": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "#沙發區",
+                      "color": "#ffffff",
+                      "gravity": "bottom",
+                      "flex": 0,
+                      "size": "sm"
+                    },
+                    {
+                      "type": "text",
+                      "text": "#雪茄區",
+                      "color": "#ffffff",
+                      "size": "sm",
+                      "flex": 0
+                    }
+                  ],
+                  "spacing": "lg"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "text",
+                          "text": "馬上預定",
+                          "color": "#F4CA82",
+                          "flex": 0,
+                          "offsetTop": "-2px",
+                          "action": {
+                            "type": "uri",
+                            "label": "action",
+                            "uri": "https://liff.line.me/2000531869-3Q4KdXkj"
+                          }
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "spacing": "sm"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "borderWidth": "1px",
+                  "cornerRadius": "4px",
+                  "spacing": "sm",
+                  "borderColor": "#F4CA82",
+                  "margin": "xxl",
+                  "height": "40px",
+                  "action": {
+                    "type": "uri",
+                    "label": "action",
+                    "uri": "https://keyue.com.tw/about"
+                  }
+                }
+              ],
+              "position": "absolute",
+              "offsetBottom": "0px",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "backgroundColor": "#303628cc",
+              "paddingAll": "20px",
+              "paddingTop": "18px"
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://imgur.com/FYiiQ9t.jpg",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "2:3",
+              "gravity": "top"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "商品",
+                      "size": "xl",
+                      "color": "#F4CA82",
+                      "weight": "bold"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [],
+                  "spacing": "lg",
+                  "height": "15px"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "box",
+                          "layout": "baseline",
+                          "contents": [
+                            {
+                              "type": "filler"
+                            },
+                            {
+                              "type": "text",
+                              "text": "雪茄",
+                              "color": "#F4CA82",
+                              "flex": 0,
+                              "action": {
+                                "type": "message",
+                                "label": "action",
+                                "text": "雪茄"
+                              }
+                            },
+                            {
+                              "type": "filler"
+                            }
+                          ],
+                          "spacing": "sm"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "borderColor": "#F4CA82",
+                      "borderWidth": "1px",
+                      "height": "40px",
+                      "cornerRadius": "4px"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "box",
+                          "layout": "baseline",
+                          "contents": [
+                            {
+                              "type": "filler"
+                            },
+                            {
+                              "type": "text",
+                              "text": "紅白酒",
+                              "color": "#F4CA82",
+                              "flex": 0,
+                              "action": {
+                                "type": "message",
+                                "label": "action",
+                                "text": "紅白酒"
+                              }
+                            },
+                            {
+                              "type": "filler"
+                            }
+                          ],
+                          "spacing": "sm"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "borderColor": "#F4CA82",
+                      "borderWidth": "1px",
+                      "height": "40px",
+                      "cornerRadius": "4px"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "box",
+                          "layout": "baseline",
+                          "contents": [
+                            {
+                              "type": "filler"
+                            },
+                            {
+                              "type": "text",
+                              "text": "威士忌",
+                              "color": "#F4CA82",
+                              "flex": 0,
+                              "action": {
+                                "type": "message",
+                                "label": "action",
+                                "text": "威士忌"
+                              }
+                            },
+                            {
+                              "type": "filler"
+                            }
+                          ],
+                          "spacing": "sm"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "borderColor": "#F4CA82",
+                      "borderWidth": "1px",
+                      "height": "40px",
+                      "cornerRadius": "4px"
+                    }
+                  ],
+                  "borderWidth": "1px",
+                  "cornerRadius": "4px",
+                  "spacing": "sm",
+                  "margin": "xxl"
+                }
+              ],
+              "position": "absolute",
+              "offsetBottom": "0px",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "backgroundColor": "#303628aa",
+              "paddingAll": "20px",
+              "paddingTop": "18px"
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      }
+    ]
+  }
+}
