@@ -46,35 +46,7 @@
                                     "type": "box",
                                     "layout": "horizontal",
                                     "contents": [
-                                      {
-                                        "type": "box",
-                                        "layout": "vertical",
-                                        "contents": [
-                                          {
-                                            "type": "filler"
-                                          },
-                                          {
-                                            "type": "text",
-                                            "text": "雪茄",
-                                            "color": "#F4CA82",
-                                            "flex": 0,
-                                            "action": {
-                                              "type": "message",
-                                              "label": "action",
-                                              "text": "雪茄"
-                                            },
-                                            "align": "center"
-                                          },
-                                          {
-                                            "type": "filler"
-                                          }
-                                        ],
-                                        "spacing": "sm",
-                                        "cornerRadius": "4px",
-                                        "borderColor": "#F4CA82",
-                                        "borderWidth": "1px",
-                                        "height": "40px"
-                                      }
+                                      
                                     ],
                                     "borderWidth": "1px",
                                     "cornerRadius": "4px",
