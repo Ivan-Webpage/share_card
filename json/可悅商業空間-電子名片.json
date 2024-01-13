@@ -50,7 +50,12 @@
                                         "type": "box",
                                         "layout": "vertical",
                                         "contents": [
-                                          
+                                          {
+                                            "type": "filler"
+                                          },
+                                          {
+                                            "type": "filler"
+                                          }
                                         ],
                                         "spacing": "sm",
                                         "cornerRadius": "4px",
