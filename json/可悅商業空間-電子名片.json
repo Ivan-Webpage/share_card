@@ -7,94 +7,93 @@
             {
                 "type": "bubble",
                 "body": {
-                    "type": "box",
-                    "layout": "vertical",
-                    "contents": [
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://imgur.com/FYiiQ9t.jpg",
+                      "size": "full",
+                      "aspectMode": "cover",
+                      "aspectRatio": "2:3",
+                      "gravity": "top"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [
                         {
-                            "type": "image",
-                            "url": "https://imgur.com/FYiiQ9t.jpg",
-                            "size": "full",
-                            "aspectMode": "cover",
-                            "aspectRatio": "2:3",
-                            "gravity": "top"
+                          "type": "box",
+                          "layout": "vertical",
+                          "contents": [
+                            {
+                              "type": "text",
+                              "text": "商品",
+                              "size": "xl",
+                              "color": "#F4CA82",
+                              "weight": "bold"
+                            }
+                          ]
                         },
                         {
-                            "type": "box",
-                            "layout": "vertical",
-                            "contents": [
+                          "type": "box",
+                          "layout": "baseline",
+                          "contents": [],
+                          "spacing": "lg",
+                          "height": "15px"
+                        },
+                        {
+                          "type": "box",
+                          "layout": "horizontal",
+                          "contents": [
+                            {
+                              "type": "box",
+                              "layout": "vertical",
+                              "contents": [
                                 {
-                                    "type": "box",
-                                    "layout": "vertical",
-                                    "contents": [
-                                        {
-                                            "type": "text",
-                                            "text": "商品",
-                                            "size": "xl",
-                                            "color": "#F4CA82",
-                                            "weight": "bold"
-                                        }
-                                    ]
+                                  "type": "filler"
                                 },
                                 {
-                                    "type": "box",
-                                    "layout": "baseline",
-                                    "contents": [],
-                                    "spacing": "lg",
-                                    "height": "15px"
+                                  "type": "text",
+                                  "text": "雪茄",
+                                  "color": "#F4CA82",
+                                  "flex": 0,
+                                  "align": "center"
                                 },
                                 {
-                                    "type": "box",
-                                    "layout": "horizontal",
-                                    "contents": [
-                                      {
-                                        "type": "box",
-                                        "layout": "vertical",
-                                        "contents": [
-                                          {
-                                            "type": "filler"
-                                          },
-                                          {
-                                            "type": "text",
-                                            "text": "雪茄",
-                                            "color": "#F4CA82",
-                                            "flex": 0,
-                                            "align": "center"
-                                          },
-                                          {
-                                            "type": "filler"
-                                          }
-                                        ],
-                                        "spacing": "sm",
-                                        "cornerRadius": "4px",
-                                        "borderColor": "#F4CA82",
-                                        "borderWidth": "1px",
-                                        "height": "40px",
-                                        "action": {
-                                          "type": "message",
-                                          "label": "雪茄",
-                                          "text": "雪茄"
-                                        }
-                                      }
-                                    ],
-                                    "borderWidth": "1px",
-                                    "cornerRadius": "4px",
-                                    "spacing": "sm",
-                                    "margin": "xxl"
-                                  }
-                                
-                            ],
-                            "position": "absolute",
-                            "offsetBottom": "0px",
-                            "offsetStart": "0px",
-                            "offsetEnd": "0px",
-                            "backgroundColor": "#303628aa",
-                            "paddingAll": "20px",
-                            "paddingTop": "18px"
+                                  "type": "filler"
+                                }
+                              ],
+                              "spacing": "sm",
+                              "cornerRadius": "4px",
+                              "borderColor": "#F4CA82",
+                              "borderWidth": "1px",
+                              "height": "40px",
+                              "action": {
+                                "type": "message",
+                                "label": "雪茄",
+                                "text": "雪茄"
+                              }
+                            }
+                          ],
+                          "borderWidth": "1px",
+                          "cornerRadius": "4px",
+                          "spacing": "sm",
+                          "margin": "xxl"
                         }
-                    ],
-                    "paddingAll": "0px"
+                      ],
+                      "position": "absolute",
+                      "offsetBottom": "0px",
+                      "offsetStart": "0px",
+                      "offsetEnd": "0px",
+                      "backgroundColor": "#303628aa",
+                      "paddingAll": "20px",
+                      "paddingTop": "18px"
+                    }
+                  ],
+                  "paddingAll": "0px"
                 }
-            }
+              }
         ]
     }
 }
