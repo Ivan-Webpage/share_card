@@ -68,7 +68,12 @@
                                         "cornerRadius": "4px",
                                         "borderColor": "#F4CA82",
                                         "borderWidth": "1px",
-                                        "height": "40px"
+                                        "height": "40px",
+                                        "action": {
+                                          "type": "message",
+                                          "label": "雪茄",
+                                          "text": "雪茄"
+                                        }
                                       }
                                     ],
                                     "borderWidth": "1px",
