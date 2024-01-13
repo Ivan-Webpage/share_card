@@ -34,6 +34,13 @@
                                             "weight": "bold"
                                         }
                                     ]
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "contents": [],
+                                    "spacing": "lg",
+                                    "height": "15px"
                                 }
                             ],
                             "position": "absolute",
