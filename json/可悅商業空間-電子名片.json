@@ -17,6 +17,32 @@
                             "aspectMode": "cover",
                             "aspectRatio": "2:3",
                             "gravity": "top"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "商品",
+                                            "size": "xl",
+                                            "color": "#F4CA82",
+                                            "weight": "bold"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "position": "absolute",
+                            "offsetBottom": "0px",
+                            "offsetStart": "0px",
+                            "offsetEnd": "0px",
+                            "backgroundColor": "#303628aa",
+                            "paddingAll": "20px",
+                            "paddingTop": "18px"
                         }
                     ],
                     "paddingAll": "0px"
