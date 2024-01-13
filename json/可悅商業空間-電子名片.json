@@ -58,11 +58,6 @@
                                             "text": "雪茄",
                                             "color": "#F4CA82",
                                             "flex": 0,
-                                            "action": {
-                                              "type": "message",
-                                              "label": "雪茄",
-                                              "text": "雪茄"
-                                            },
                                             "align": "center"
                                           },
                                           {
