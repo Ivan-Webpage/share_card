@@ -145,6 +145,127 @@
                     ],
                     "paddingAll": "0px"
                 }
+            },
+            {
+                "type": "bubble",
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "image",
+                            "url": "https://imgur.com/IWsYDVo.jpg",
+                            "size": "full",
+                            "aspectMode": "cover",
+                            "aspectRatio": "2:3",
+                            "gravity": "top"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "場地租借",
+                                            "size": "xl",
+                                            "color": "#F4CA82",
+                                            "weight": "bold"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "#吧檯區",
+                                            "color": "#ffffff",
+                                            "size": "sm",
+                                            "flex": 0
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "#沙發區",
+                                            "color": "#ffffff",
+                                            "gravity": "bottom",
+                                            "flex": 0,
+                                            "size": "sm"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "#雪茄區",
+                                            "color": "#ffffff",
+                                            "size": "sm",
+                                            "flex": 0
+                                        }
+                                    ],
+                                    "spacing": "lg"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "filler"
+                                        },
+                                        {
+                                            "type": "box",
+                                            "layout": "baseline",
+                                            "contents": [
+                                                {
+                                                    "type": "filler"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "馬上預定",
+                                                    "color": "#F4CA82",
+                                                    "flex": 0,
+                                                    "offsetTop": "-2px",
+                                                    "action": {
+                                                        "type": "uri",
+                                                        "label": "action",
+                                                        "uri": "https://liff.line.me/2000531869-3Q4KdXkj"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "filler"
+                                                }
+                                            ],
+                                            "spacing": "sm"
+                                        },
+                                        {
+                                            "type": "filler"
+                                        }
+                                    ],
+                                    "borderWidth": "1px",
+                                    "cornerRadius": "4px",
+                                    "spacing": "sm",
+                                    "borderColor": "#F4CA82",
+                                    "margin": "xxl",
+                                    "height": "40px",
+                                    "action": {
+                                        "type": "uri",
+                                        "label": "action",
+                                        "uri": "https://keyue.com.tw/about"
+                                    }
+                                }
+                            ],
+                            "position": "absolute",
+                            "offsetBottom": "0px",
+                            "offsetStart": "0px",
+                            "offsetEnd": "0px",
+                            "backgroundColor": "#303628cc",
+                            "paddingAll": "20px",
+                            "paddingTop": "18px"
+                        }
+                    ],
+                    "paddingAll": "0px"
+                }
             }
         ]
     }
