@@ -37,13 +37,6 @@
                                 },
                                 {
                                     "type": "box",
-                                    "layout": "baseline",
-                                    "contents": [],
-                                    "spacing": "lg",
-                                    "height": "15px"
-                                },
-                                {
-                                    "type": "box",
                                     "layout": "horizontal",
                                     "contents": [
                                         {
