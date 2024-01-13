@@ -23,10 +23,11 @@
   function share_btn(){
     let params = new URLSearchParams(location.search);
       let card = params.get('card')
-      
+      alert(card)
       var xhr = new XMLHttpRequest()
       xhr.open('GET', "https://raw.githubusercontent.com/Ivan-Webpage/share_card/main/json/" + card + ".json", true)
       xhr.send()
+    alert(this.responseText)
       xhr.onload = function () {
         liff.shareTargetPicker([ JSON.parse(this.responseText) ]).catch((error) => {
           alert(("發用訊息出錯: "+error))
