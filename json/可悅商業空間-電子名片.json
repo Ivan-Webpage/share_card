@@ -60,7 +60,7 @@
                                             "flex": 0,
                                             "action": {
                                               "type": "message",
-                                              "label": "action",
+                                              "label": "雪茄",
                                               "text": "雪茄"
                                             },
                                             "align": "center"
