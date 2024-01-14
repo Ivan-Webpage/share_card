@@ -335,7 +335,7 @@
                           "action": {
                             "type": "uri",
                             "label": "action",
-                            "uri": "http://keyue.com.tw/"
+                            "uri": "http://keyue.com.tw/goods/cigar"
                           }
                         },
                         {
@@ -364,7 +364,7 @@
                           "action": {
                             "type": "uri",
                             "label": "action",
-                            "uri": "http://keyue.com.tw/"
+                            "uri": "http://keyue.com.tw/goods/wine"
                           }
                         },
                         {
@@ -393,7 +393,7 @@
                           "action": {
                             "type": "uri",
                             "label": "action",
-                            "uri": "http://keyue.com.tw/"
+                            "uri": "http://keyue.com.tw/goods/whisky"
                           }
                         }
                       ],
