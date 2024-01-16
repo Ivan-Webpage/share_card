@@ -225,12 +225,7 @@
                               "text": "馬上預定",
                               "color": "#F4CA82",
                               "flex": 0,
-                              "offsetTop": "-2px",
-                              "action": {
-                                "type": "uri",
-                                "label": "action",
-                                "uri": "https://liff.line.me/2000531869-3Q4KdXkj"
-                              }
+                              "offsetTop": "-2px"
                             },
                             {
                               "type": "filler"
@@ -251,7 +246,7 @@
                       "action": {
                         "type": "uri",
                         "label": "action",
-                        "uri": "https://keyue.com.tw/about"
+                        "uri": "https://liff.line.me/2000531869-3Q4KdXkj"
                       }
                     }
                   ],
