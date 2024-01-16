@@ -1,0 +1,672 @@
+{
+    "type": "flex",
+    "altText": "雪茄-可悅",
+    "contents": {
+        "type": "carousel",
+        "contents": [
+            {
+                "type": "bubble",
+                "size": "micro",
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "image",
+                            "url": "https://imgur.com/GorqaKt.jpg",
+                            "size": "full",
+                            "aspectRatio": "3:5",
+                            "aspectMode": "cover",
+                            "gravity": "top"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "text": "雪茄 系列",
+                                    "weight": "bold",
+                                    "size": "lg",
+                                    "wrap": true,
+                                    "color": "#ffffff"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "可悅商業會所",
+                                    "weight": "bold",
+                                    "size": "xs",
+                                    "wrap": true,
+                                    "color": "#F4CA82"
+                                }
+                            ],
+                            "position": "absolute",
+                            "width": "100%",
+                            "height": "100%",
+                            "alignItems": "center",
+                            "justifyContent": "center",
+                            "backgroundColor": "#303628aa"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "button",
+                                            "action": {
+                                                "type": "uri",
+                                                "label": "分享好友",
+                                                "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=%e9%9b%aa%e8%8c%84-%e5%8f%af%e6%82%85"
+                                            },
+                                            "color": "#F4CA82"
+                                        }
+                                    ],
+                                    "borderColor": "#F4CA82",
+                                    "borderWidth": "1px",
+                                    "cornerRadius": "sm"
+                                }
+                            ],
+                            "position": "absolute",
+                            "alignItems": "center",
+                            "width": "100%",
+                            "height": "95%",
+                            "justifyContent": "flex-end"
+                        }
+                    ],
+                    "spacing": "sm",
+                    "paddingAll": "0px",
+                    "backgroundColor": "#111111"
+                }
+            },
+            {
+                "type": "bubble",
+                "size": "micro",
+                "hero": {
+                    "type": "image",
+                    "url": "https://imgur.com/GorqaKt.jpg",
+                    "size": "full",
+                    "aspectMode": "cover",
+                    "aspectRatio": "320:213"
+                },
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "奧利瓦O系列",
+                            "weight": "bold",
+                            "size": "sm",
+                            "wrap": true,
+                            "color": "#ffffff"
+                        },
+                        {
+                            "type": "text",
+                            "text": "馬社羅日曬 羅布圖型",
+                            "weight": "bold",
+                            "size": "xs",
+                            "wrap": true,
+                            "color": "#F4CA82"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "text": "濃度：",
+                                    "size": "xs",
+                                    "color": "#8c8c8c",
+                                    "flex": 0
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "巧克力、咖啡豆...",
+                                            "wrap": true,
+                                            "color": "#8c8c8c",
+                                            "size": "xs",
+                                            "flex": 5
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "spacing": "sm",
+                    "paddingAll": "13px",
+                    "backgroundColor": "#111111"
+                },
+                "footer": {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "88折/盒",
+                            "color": "#F4CA82",
+                            "align": "start",
+                            "size": "xs"
+                        },
+                        {
+                            "type": "text",
+                            "text": "$ 790/支",
+                            "color": "#ffffff",
+                            "align": "end",
+                            "size": "xs",
+                            "weight": "bold"
+                        }
+                    ],
+                    "backgroundColor": "#111111"
+                }
+            },
+            {
+                "type": "bubble",
+                "size": "micro",
+                "hero": {
+                    "type": "image",
+                    "url": "https://imgur.com/GorqaKt.jpg",
+                    "size": "full",
+                    "aspectMode": "cover",
+                    "aspectRatio": "320:213"
+                },
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "奧利瓦O系列",
+                            "weight": "bold",
+                            "size": "sm",
+                            "wrap": true,
+                            "color": "#ffffff"
+                        },
+                        {
+                            "type": "text",
+                            "text": "加拉瓜普羅 托羅型",
+                            "weight": "bold",
+                            "size": "xs",
+                            "wrap": true,
+                            "color": "#F4CA82"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "text": "濃度：",
+                                    "size": "xs",
+                                    "color": "#8c8c8c",
+                                    "flex": 0
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "杏仁、香草、奶油...",
+                                            "wrap": true,
+                                            "color": "#8c8c8c",
+                                            "size": "xs",
+                                            "flex": 5
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "spacing": "sm",
+                    "paddingAll": "13px",
+                    "backgroundColor": "#111111"
+                },
+                "footer": {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "88折/盒",
+                            "color": "#F4CA82",
+                            "align": "start",
+                            "size": "xs"
+                        },
+                        {
+                            "type": "text",
+                            "text": "$ 890/支",
+                            "color": "#ffffff",
+                            "align": "end",
+                            "size": "xs",
+                            "weight": "bold"
+                        }
+                    ],
+                    "backgroundColor": "#111111"
+                }
+            },
+            {
+                "type": "bubble",
+                "size": "micro",
+                "hero": {
+                    "type": "image",
+                    "url": "https://imgur.com/GorqaKt.jpg",
+                    "size": "full",
+                    "aspectMode": "cover",
+                    "aspectRatio": "320:213"
+                },
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "奧利瓦V系列",
+                            "weight": "bold",
+                            "size": "sm",
+                            "wrap": true,
+                            "color": "#ffffff"
+                        },
+                        {
+                            "type": "text",
+                            "text": "喇叭型",
+                            "weight": "bold",
+                            "size": "xs",
+                            "wrap": true,
+                            "color": "#F4CA82"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "text": "濃度：",
+                                    "size": "xs",
+                                    "color": "#8c8c8c",
+                                    "flex": 0
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "皮革、堅果、蜜糖...",
+                                            "wrap": true,
+                                            "color": "#8c8c8c",
+                                            "size": "xs",
+                                            "flex": 5
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "spacing": "sm",
+                    "paddingAll": "13px",
+                    "backgroundColor": "#111111"
+                },
+                "footer": {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "88折/盒",
+                            "color": "#F4CA82",
+                            "align": "start",
+                            "size": "xs"
+                        },
+                        {
+                            "type": "text",
+                            "text": "$ 810/支",
+                            "color": "#ffffff",
+                            "align": "end",
+                            "size": "xs",
+                            "weight": "bold"
+                        }
+                    ],
+                    "backgroundColor": "#111111"
+                }
+            },
+            {
+                "type": "bubble",
+                "size": "micro",
+                "hero": {
+                    "type": "image",
+                    "url": "https://imgur.com/GorqaKt.jpg",
+                    "size": "full",
+                    "aspectMode": "cover",
+                    "aspectRatio": "320:213"
+                },
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "奧利瓦V系列",
+                            "weight": "bold",
+                            "size": "sm",
+                            "wrap": true,
+                            "color": "#ffffff"
+                        },
+                        {
+                            "type": "text",
+                            "text": "米拉尼爾 羅布圖型",
+                            "weight": "bold",
+                            "size": "xs",
+                            "wrap": true,
+                            "color": "#F4CA82"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "text": "濃度：",
+                                    "size": "xs",
+                                    "color": "#8c8c8c",
+                                    "flex": 0
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "香草、可可、咖啡...",
+                                            "wrap": true,
+                                            "color": "#8c8c8c",
+                                            "size": "xs",
+                                            "flex": 5
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "spacing": "sm",
+                    "paddingAll": "13px",
+                    "backgroundColor": "#111111"
+                },
+                "footer": {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "88折/盒",
+                            "color": "#F4CA82",
+                            "align": "start",
+                            "size": "xs"
+                        },
+                        {
+                            "type": "text",
+                            "text": "$ 920/支",
+                            "color": "#ffffff",
+                            "align": "end",
+                            "size": "xs",
+                            "weight": "bold"
+                        }
+                    ],
+                    "backgroundColor": "#111111"
+                }
+            },
+            {
+                "type": "bubble",
+                "size": "micro",
+                "hero": {
+                    "type": "image",
+                    "url": "https://imgur.com/GorqaKt.jpg",
+                    "size": "full",
+                    "aspectMode": "cover",
+                    "aspectRatio": "320:213"
+                },
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "奧利瓦V系列",
+                            "weight": "bold",
+                            "size": "sm",
+                            "wrap": true,
+                            "color": "#ffffff"
+                        },
+                        {
+                            "type": "text",
+                            "text": "梅拉尼奧 橄欖型",
+                            "weight": "bold",
+                            "size": "xs",
+                            "wrap": true,
+                            "color": "#F4CA82"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "text": "濃度：",
+                                    "size": "xs",
+                                    "color": "#8c8c8c",
+                                    "flex": 0
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gray_star_28.png"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "2014年雪茄冠軍...",
+                                            "wrap": true,
+                                            "color": "#8c8c8c",
+                                            "size": "xs",
+                                            "flex": 5
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "spacing": "sm",
+                    "paddingAll": "13px",
+                    "backgroundColor": "#111111"
+                },
+                "footer": {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "88折/盒",
+                            "color": "#F4CA82",
+                            "align": "start",
+                            "size": "xs"
+                        },
+                        {
+                            "type": "text",
+                            "text": "$ 1200/支",
+                            "color": "#ffffff",
+                            "align": "end",
+                            "size": "xs",
+                            "weight": "bold"
+                        }
+                    ],
+                    "backgroundColor": "#111111"
+                }
+            }
+        ]
+    }
+}
