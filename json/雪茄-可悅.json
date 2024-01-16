@@ -49,32 +49,68 @@
                         },
                         {
                             "type": "box",
-                            "layout": "vertical",
+                            "layout": "horizontal",
                             "contents": [
                                 {
                                     "type": "box",
                                     "layout": "vertical",
                                     "contents": [
                                         {
-                                            "type": "button",
-                                            "action": {
-                                                "type": "uri",
-                                                "label": "分享好友",
-                                                "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=%e9%9b%aa%e8%8c%84-%e5%8f%af%e6%82%85"
-                                            },
-                                            "color": "#F4CA82"
+                                            "type": "text",
+                                            "text": "分享",
+                                            "color": "#F4CA82",
+                                            "align": "center",
+                                            "size": "md"
                                         }
                                     ],
                                     "borderColor": "#F4CA82",
                                     "borderWidth": "1px",
-                                    "cornerRadius": "sm"
+                                    "cornerRadius": "sm",
+                                    "action": {
+                                        "type": "uri",
+                                        "label": "分享好友",
+                                        "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=%e9%9b%aa%e8%8c%84-%e5%8f%af%e6%82%85"
+                                    },
+                                    "justifyContent": "center",
+                                    "height": "40px",
+                                    "margin": "md"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "詢問",
+                                            "color": "#F4CA82",
+                                            "align": "center",
+                                            "action": {
+                                                "type": "uri",
+                                                "label": "action聯絡可悅",
+                                                "uri": "https://lin.ee/pUnKOei"
+                                            },
+                                            "size": "md"
+                                        }
+                                    ],
+                                    "borderColor": "#F4CA82",
+                                    "borderWidth": "1px",
+                                    "cornerRadius": "sm",
+                                    "action": {
+                                        "type": "uri",
+                                        "label": "聯絡可悅",
+                                        "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=%e9%9b%aa%e8%8c%84-%e5%8f%af%e6%82%85"
+                                    },
+                                    "justifyContent": "center",
+                                    "height": "40px",
+                                    "margin": "md"
                                 }
                             ],
                             "position": "absolute",
-                            "alignItems": "center",
-                            "width": "100%",
+                            "alignItems": "flex-end",
+                            "width": "95%",
                             "height": "95%",
-                            "justifyContent": "flex-end"
+                            "justifyContent": "center",
+                            "paddingStart": "5%"
                         }
                     ],
                     "spacing": "sm",
