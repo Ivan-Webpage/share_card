@@ -1,0 +1,634 @@
+{
+    "type": "flex",
+    "altText": "威士忌-可悅",
+    "contents": {
+        "type": "carousel",
+        "contents": [
+            {
+                "type": "bubble",
+                "size": "deca",
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "image",
+                            "url": "https://imgur.com/9nH7Dcq.jpg",
+                            "size": "full",
+                            "aspectRatio": "3:4",
+                            "aspectMode": "cover",
+                            "gravity": "top"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "text": "威士忌 系列",
+                                    "weight": "bold",
+                                    "size": "lg",
+                                    "wrap": true,
+                                    "color": "#ffffff"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "可悅商業會所",
+                                    "weight": "bold",
+                                    "size": "xs",
+                                    "wrap": true,
+                                    "color": "#F4CA82"
+                                }
+                            ],
+                            "position": "absolute",
+                            "width": "100%",
+                            "height": "100%",
+                            "alignItems": "center",
+                            "justifyContent": "center",
+                            "backgroundColor": "#303628dd"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "horizontal",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "分享",
+                                            "color": "#F4CA82",
+                                            "align": "center",
+                                            "size": "md"
+                                        }
+                                    ],
+                                    "borderColor": "#F4CA82",
+                                    "borderWidth": "1px",
+                                    "cornerRadius": "sm",
+                                    "action": {
+                                        "type": "uri",
+                                        "label": "分享好友",
+                                        "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=%e9%9b%aa%e8%8c%84-%e5%8f%af%e6%82%85"
+                                    },
+                                    "justifyContent": "center",
+                                    "height": "40px",
+                                    "margin": "md"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "詢問",
+                                            "color": "#F4CA82",
+                                            "align": "center",
+                                            "action": {
+                                                "type": "uri",
+                                                "label": "action聯絡可悅",
+                                                "uri": "https://lin.ee/pUnKOei"
+                                            },
+                                            "size": "md"
+                                        }
+                                    ],
+                                    "borderColor": "#F4CA82",
+                                    "borderWidth": "1px",
+                                    "cornerRadius": "sm",
+                                    "action": {
+                                        "type": "uri",
+                                        "label": "聯絡可悅",
+                                        "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=%e9%9b%aa%e8%8c%84-%e5%8f%af%e6%82%85"
+                                    },
+                                    "justifyContent": "center",
+                                    "height": "40px",
+                                    "margin": "md"
+                                }
+                            ],
+                            "position": "absolute",
+                            "alignItems": "flex-end",
+                            "width": "95%",
+                            "height": "95%",
+                            "justifyContent": "center",
+                            "paddingStart": "5%"
+                        }
+                    ],
+                    "spacing": "sm",
+                    "paddingAll": "0px",
+                    "backgroundColor": "#111111"
+                }
+            },
+            {
+                "type": "bubble",
+                "size": "deca",
+                "hero": {
+                    "type": "image",
+                    "url": "https://imgur.com/9nH7Dcq.jpg",
+                    "size": "full",
+                    "aspectMode": "cover",
+                    "aspectRatio": "320:213"
+                },
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "Glenfiddich 格蘭菲迪",
+                            "weight": "bold",
+                            "size": "md",
+                            "wrap": true,
+                            "color": "#F4CA82"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "12年",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "$ 2,120",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5,
+                                            "align": "end"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "15年",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "$ 2,520",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5,
+                                            "align": "end"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "18年",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "$ 3,920",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5,
+                                            "align": "end"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "spacing": "md"
+                        }
+                    ],
+                    "spacing": "sm",
+                    "paddingAll": "13px",
+                    "backgroundColor": "#111111"
+                }
+            },
+            {
+                "type": "bubble",
+                "size": "deca",
+                "hero": {
+                    "type": "image",
+                    "url": "https://imgur.com/9nH7Dcq.jpg",
+                    "size": "full",
+                    "aspectMode": "cover",
+                    "aspectRatio": "320:213"
+                },
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "Mortlach 慕赫",
+                            "weight": "bold",
+                            "size": "md",
+                            "wrap": true,
+                            "color": "#F4CA82"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "12年",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "$ 2,800",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5,
+                                            "align": "end"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "16年",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "$ 4,800",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5,
+                                            "align": "end"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "spacing": "md"
+                        }
+                    ],
+                    "spacing": "sm",
+                    "paddingAll": "13px",
+                    "backgroundColor": "#111111"
+                }
+            },
+            {
+                "type": "bubble",
+                "size": "deca",
+                "hero": {
+                    "type": "image",
+                    "url": "https://imgur.com/9nH7Dcq.jpg",
+                    "size": "full",
+                    "aspectMode": "cover",
+                    "aspectRatio": "320:213"
+                },
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "Macallan 麥卡倫",
+                            "weight": "bold",
+                            "size": "md",
+                            "wrap": true,
+                            "color": "#F4CA82"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "12年 雪莉雙桶 ",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "$ 3,920",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5,
+                                            "align": "end"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "12年 雪莉單桶",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "$ 4,960",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5,
+                                            "align": "end"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "spacing": "md"
+                        }
+                    ],
+                    "spacing": "sm",
+                    "paddingAll": "13px",
+                    "backgroundColor": "#111111"
+                }
+            },
+            {
+                "type": "bubble",
+                "size": "deca",
+                "hero": {
+                    "type": "image",
+                    "url": "https://imgur.com/9nH7Dcq.jpg",
+                    "size": "full",
+                    "aspectMode": "cover",
+                    "aspectRatio": "320:213"
+                },
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "Dalmore 大摩",
+                            "weight": "bold",
+                            "size": "md",
+                            "wrap": true,
+                            "color": "#F4CA82"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "12年",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "$ 3,060",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5,
+                                            "align": "end"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "12年 雪莉雙桶",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "$ 3,740",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5,
+                                            "align": "end"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "15年",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "$ 5,580",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5,
+                                            "align": "end"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "18年",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "$ 18,000",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5,
+                                            "align": "end"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "spacing": "md"
+                        }
+                    ],
+                    "spacing": "sm",
+                    "paddingAll": "13px",
+                    "backgroundColor": "#111111"
+                }
+            },
+            {
+                "type": "bubble",
+                "size": "deca",
+                "hero": {
+                    "type": "image",
+                    "url": "https://imgur.com/9nH7Dcq.jpg",
+                    "size": "full",
+                    "aspectMode": "cover",
+                    "aspectRatio": "320:213"
+                },
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "Other 其他",
+                            "weight": "bold",
+                            "size": "md",
+                            "wrap": true,
+                            "color": "#F4CA82"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "百富12年",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "$ 3,220",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5,
+                                            "align": "end"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "約翰走路 XR21",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "$ 4,000",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5,
+                                            "align": "end"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "皇家禮炮 21年",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "$ 5,000",
+                                            "wrap": true,
+                                            "color": "#e4e4e4",
+                                            "size": "xs",
+                                            "flex": 5,
+                                            "align": "end"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "spacing": "md"
+                        }
+                    ],
+                    "spacing": "sm",
+                    "paddingAll": "13px",
+                    "backgroundColor": "#111111"
+                }
+            }
+        ]
+    }
+}
