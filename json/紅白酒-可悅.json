@@ -1,0 +1,898 @@
+{
+    "type": "flex",
+    "altText": "紅白酒-可悅",
+    "contents": {
+        "type": "carousel",
+        "contents": [
+            {
+                "type": "carousel",
+                "contents": [
+                    {
+                        "type": "bubble",
+                        "size": "kilo",
+                        "body": {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "image",
+                                    "url": "https://imgur.com/YmDFjGr.jpg",
+                                    "size": "full",
+                                    "aspectRatio": "3:7",
+                                    "aspectMode": "cover",
+                                    "gravity": "top"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "紅白酒 系列",
+                                            "weight": "bold",
+                                            "size": "lg",
+                                            "wrap": true,
+                                            "color": "#ffffff"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "可悅商業會所",
+                                            "weight": "bold",
+                                            "size": "xs",
+                                            "wrap": true,
+                                            "color": "#F4CA82"
+                                        }
+                                    ],
+                                    "position": "absolute",
+                                    "width": "100%",
+                                    "height": "100%",
+                                    "alignItems": "center",
+                                    "justifyContent": "center",
+                                    "backgroundColor": "#303628bb"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "horizontal",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "vertical",
+                                            "contents": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "分享",
+                                                    "color": "#F4CA82",
+                                                    "align": "center",
+                                                    "size": "md"
+                                                }
+                                            ],
+                                            "borderColor": "#F4CA82",
+                                            "borderWidth": "1px",
+                                            "cornerRadius": "sm",
+                                            "action": {
+                                                "type": "uri",
+                                                "label": "分享好友",
+                                                "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=%e9%9b%aa%e8%8c%84-%e5%8f%af%e6%82%85"
+                                            },
+                                            "justifyContent": "center",
+                                            "height": "40px",
+                                            "margin": "md"
+                                        },
+                                        {
+                                            "type": "box",
+                                            "layout": "vertical",
+                                            "contents": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "詢問",
+                                                    "color": "#F4CA82",
+                                                    "align": "center",
+                                                    "action": {
+                                                        "type": "uri",
+                                                        "label": "action聯絡可悅",
+                                                        "uri": "https://lin.ee/pUnKOei"
+                                                    },
+                                                    "size": "md"
+                                                }
+                                            ],
+                                            "borderColor": "#F4CA82",
+                                            "borderWidth": "1px",
+                                            "cornerRadius": "sm",
+                                            "action": {
+                                                "type": "uri",
+                                                "label": "聯絡可悅",
+                                                "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=%e9%9b%aa%e8%8c%84-%e5%8f%af%e6%82%85"
+                                            },
+                                            "justifyContent": "center",
+                                            "height": "40px",
+                                            "margin": "md"
+                                        }
+                                    ],
+                                    "position": "absolute",
+                                    "alignItems": "flex-end",
+                                    "width": "95%",
+                                    "height": "95%",
+                                    "justifyContent": "center",
+                                    "paddingStart": "5%"
+                                }
+                            ],
+                            "spacing": "sm",
+                            "paddingAll": "0px",
+                            "backgroundColor": "#111111"
+                        }
+                    },
+                    {
+                        "type": "bubble",
+                        "size": "kilo",
+                        "hero": {
+                            "type": "image",
+                            "url": "https://imgur.com/YmDFjGr.jpg",
+                            "size": "full",
+                            "aspectMode": "cover",
+                            "aspectRatio": "320:213"
+                        },
+                        "body": {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "text": "白酒",
+                                    "weight": "bold",
+                                    "size": "md",
+                                    "wrap": true,
+                                    "color": "#F4CA82"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "horizontal",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "vertical",
+                                                    "contents": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "美國瑞吉海岸",
+                                                            "wrap": true,
+                                                            "color": "#8e8e8e",
+                                                            "size": "xs"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "夏多內",
+                                                            "wrap": true,
+                                                            "color": "#e4e4e4",
+                                                            "size": "sm"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "$ 3,920",
+                                                    "wrap": true,
+                                                    "color": "#e4e4e4",
+                                                    "size": "xs",
+                                                    "align": "end"
+                                                }
+                                            ],
+                                            "alignItems": "center"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Coastal Ridge Chardonnay",
+                                            "wrap": true,
+                                            "color": "#F4CA82",
+                                            "size": "xxs"
+                                        }
+                                    ],
+                                    "margin": "md"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "horizontal",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "vertical",
+                                                    "contents": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "紐西蘭帖帕酒莊",
+                                                            "wrap": true,
+                                                            "color": "#8e8e8e",
+                                                            "size": "xs"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "灰皮諾",
+                                                            "wrap": true,
+                                                            "color": "#e4e4e4",
+                                                            "size": "sm"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "$ 1,800",
+                                                    "wrap": true,
+                                                    "color": "#e4e4e4",
+                                                    "size": "xs",
+                                                    "align": "end"
+                                                }
+                                            ],
+                                            "alignItems": "center"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Te Pa Pinot Gris",
+                                            "wrap": true,
+                                            "color": "#F4CA82",
+                                            "size": "xxs"
+                                        }
+                                    ],
+                                    "margin": "md"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "horizontal",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "vertical",
+                                                    "contents": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "紐西蘭瑪莉亞莊園",
+                                                            "wrap": true,
+                                                            "color": "#8e8e8e",
+                                                            "size": "xs"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "極致典藏白蘇維翁",
+                                                            "wrap": true,
+                                                            "color": "#e4e4e4",
+                                                            "size": "sm"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "$ 2,550",
+                                                    "wrap": true,
+                                                    "color": "#e4e4e4",
+                                                    "size": "xs",
+                                                    "align": "end"
+                                                }
+                                            ],
+                                            "alignItems": "center"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Villa Maria Wairau Valley Reserve Sauvignon Blanc",
+                                            "wrap": true,
+                                            "color": "#F4CA82",
+                                            "size": "xxs"
+                                        }
+                                    ],
+                                    "margin": "md"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "horizontal",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "vertical",
+                                                    "contents": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "紐西蘭瑪莉亞莊園",
+                                                            "wrap": true,
+                                                            "color": "#8e8e8e",
+                                                            "size": "xs"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "單一葡萄園系列泰勒帕斯白蘇維翁",
+                                                            "wrap": true,
+                                                            "color": "#e4e4e4",
+                                                            "size": "sm"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "$ 2,900",
+                                                    "wrap": true,
+                                                    "color": "#e4e4e4",
+                                                    "size": "xs",
+                                                    "align": "end"
+                                                }
+                                            ],
+                                            "alignItems": "center"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Villa Maria Single Vineyard Taylors Pass Sauvignon Blanc",
+                                            "wrap": true,
+                                            "color": "#F4CA82",
+                                            "size": "xxs"
+                                        }
+                                    ],
+                                    "margin": "md"
+                                }
+                            ],
+                            "spacing": "sm",
+                            "paddingAll": "13px",
+                            "backgroundColor": "#111111"
+                        }
+                    },
+                    {
+                        "type": "bubble",
+                        "size": "kilo",
+                        "hero": {
+                            "type": "image",
+                            "url": "https://imgur.com/YmDFjGr.jpg",
+                            "size": "full",
+                            "aspectMode": "cover",
+                            "aspectRatio": "320:213"
+                        },
+                        "body": {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "text": "甜白酒",
+                                    "weight": "bold",
+                                    "size": "md",
+                                    "wrap": true,
+                                    "color": "#F4CA82"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "horizontal",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "vertical",
+                                                    "contents": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "德國萊納德莊園",
+                                                            "wrap": true,
+                                                            "color": "#8e8e8e",
+                                                            "size": "xs"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "綠寶石晚摘麗絲玲",
+                                                            "wrap": true,
+                                                            "color": "#e4e4e4",
+                                                            "size": "sm"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "$ 1,650",
+                                                    "wrap": true,
+                                                    "color": "#e4e4e4",
+                                                    "size": "xs",
+                                                    "align": "end"
+                                                }
+                                            ],
+                                            "alignItems": "center"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Leonard Kreusch Piesporter Michelsberg Riesling Spatlese",
+                                            "wrap": true,
+                                            "color": "#F4CA82",
+                                            "size": "xxs"
+                                        }
+                                    ],
+                                    "margin": "md"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "horizontal",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "vertical",
+                                                    "contents": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "德國馬庫斯梅特",
+                                                            "wrap": true,
+                                                            "color": "#8e8e8e",
+                                                            "size": "xs"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "金海姆玫瑰園珍藏麗絲玲",
+                                                            "wrap": true,
+                                                            "color": "#e4e4e4",
+                                                            "size": "sm"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "$ 2,160",
+                                                    "wrap": true,
+                                                    "color": "#e4e4e4",
+                                                    "size": "xs",
+                                                    "align": "end"
+                                                }
+                                            ],
+                                            "alignItems": "center"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Markus Molitor kinheimor Rosenberg Riesling Kabinett",
+                                            "wrap": true,
+                                            "color": "#F4CA82",
+                                            "size": "xxs"
+                                        }
+                                    ],
+                                    "margin": "md"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "horizontal",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "vertical",
+                                                    "contents": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "德國馬庫斯梅特",
+                                                            "wrap": true,
+                                                            "color": "#8e8e8e",
+                                                            "size": "xs"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "威爾利勒特級日晷園晚摘麗絲玲",
+                                                            "wrap": true,
+                                                            "color": "#e4e4e4",
+                                                            "size": "sm"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "$ 2,850",
+                                                    "wrap": true,
+                                                    "color": "#e4e4e4",
+                                                    "size": "xs",
+                                                    "align": "end"
+                                                }
+                                            ],
+                                            "alignItems": "center"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Villa Maria Wehlener Sonnenuhr Riesling Spatlese",
+                                            "wrap": true,
+                                            "color": "#F4CA82",
+                                            "size": "xxs"
+                                        }
+                                    ],
+                                    "margin": "md"
+                                }
+                            ],
+                            "spacing": "sm",
+                            "paddingAll": "13px",
+                            "backgroundColor": "#111111"
+                        }
+                    },
+                    {
+                        "type": "bubble",
+                        "size": "kilo",
+                        "hero": {
+                            "type": "image",
+                            "url": "https://imgur.com/YmDFjGr.jpg",
+                            "size": "full",
+                            "aspectMode": "cover",
+                            "aspectRatio": "320:213"
+                        },
+                        "body": {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "text": "紅酒",
+                                    "weight": "bold",
+                                    "size": "md",
+                                    "wrap": true,
+                                    "color": "#F4CA82"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "horizontal",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "vertical",
+                                                    "contents": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "葡萄牙桑托斯利馬莊園",
+                                                            "wrap": true,
+                                                            "color": "#8e8e8e",
+                                                            "size": "xs"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "昆塔維斯塔卡本內蘇維翁精選紅酒",
+                                                            "wrap": true,
+                                                            "color": "#e4e4e4",
+                                                            "size": "sm"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "$ 1,600",
+                                                    "wrap": true,
+                                                    "color": "#e4e4e4",
+                                                    "size": "xs",
+                                                    "align": "end"
+                                                }
+                                            ],
+                                            "alignItems": "center"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Terra d'alter Alicante Bouschet",
+                                            "wrap": true,
+                                            "color": "#F4CA82",
+                                            "size": "xxs"
+                                        }
+                                    ],
+                                    "margin": "md"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "horizontal",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "vertical",
+                                                    "contents": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "法國",
+                                                            "wrap": true,
+                                                            "color": "#8e8e8e",
+                                                            "size": "xs"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "迪生內特釀黑皮諾",
+                                                            "wrap": true,
+                                                            "color": "#e4e4e4",
+                                                            "size": "sm"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "$ 1,650",
+                                                    "wrap": true,
+                                                    "color": "#e4e4e4",
+                                                    "size": "xs",
+                                                    "align": "end"
+                                                }
+                                            ],
+                                            "alignItems": "center"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Cuvee Dissenay Pinot Noir",
+                                            "wrap": true,
+                                            "color": "#F4CA82",
+                                            "size": "xxs"
+                                        }
+                                    ],
+                                    "margin": "md"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "horizontal",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "vertical",
+                                                    "contents": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "葡萄牙泰瑞德特酒莊",
+                                                            "wrap": true,
+                                                            "color": "#8e8e8e",
+                                                            "size": "xs"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "阿利坎特布歇紅酒",
+                                                            "wrap": true,
+                                                            "color": "#e4e4e4",
+                                                            "size": "sm"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "$ 1,700",
+                                                    "wrap": true,
+                                                    "color": "#e4e4e4",
+                                                    "size": "xs",
+                                                    "align": "end"
+                                                }
+                                            ],
+                                            "alignItems": "center"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Terra d'alter Alicante Bouschet",
+                                            "wrap": true,
+                                            "color": "#F4CA82",
+                                            "size": "xxs"
+                                        }
+                                    ],
+                                    "margin": "md"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "horizontal",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "vertical",
+                                                    "contents": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "葡萄牙維迪加爾酒莊",
+                                                            "wrap": true,
+                                                            "color": "#8e8e8e",
+                                                            "size": "xs"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "wrap": true,
+                                                            "color": "#e4e4e4",
+                                                            "size": "sm",
+                                                            "text": "勇氣系列窖藏紅酒"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "$ 1,700",
+                                                    "wrap": true,
+                                                    "color": "#e4e4e4",
+                                                    "size": "xs",
+                                                    "align": "end"
+                                                }
+                                            ],
+                                            "alignItems": "center"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Vidigal Coragem Reserva",
+                                            "wrap": true,
+                                            "color": "#F4CA82",
+                                            "size": "xxs"
+                                        }
+                                    ],
+                                    "margin": "md"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "horizontal",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "vertical",
+                                                    "contents": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "法國格拉瓦酒莊",
+                                                            "wrap": true,
+                                                            "color": "#8e8e8e",
+                                                            "size": "xs"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "梅多克中級酒莊紅酒",
+                                                            "wrap": true,
+                                                            "color": "#e4e4e4",
+                                                            "size": "sm"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "$ 1,800",
+                                                    "wrap": true,
+                                                    "color": "#e4e4e4",
+                                                    "size": "xs",
+                                                    "align": "end"
+                                                }
+                                            ],
+                                            "alignItems": "center"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Chateau Gravat 2016 MDC Medoc Aoc Cru Bourgeois ROUGE",
+                                            "wrap": true,
+                                            "color": "#F4CA82",
+                                            "size": "xxs"
+                                        }
+                                    ],
+                                    "margin": "md"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "horizontal",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "vertical",
+                                                    "contents": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "西班牙萊達莊園",
+                                                            "wrap": true,
+                                                            "color": "#8e8e8e",
+                                                            "size": "xs"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "極致窖藏紅酒",
+                                                            "wrap": true,
+                                                            "color": "#e4e4e4",
+                                                            "size": "sm"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "$ 2,200",
+                                                    "wrap": true,
+                                                    "color": "#e4e4e4",
+                                                    "size": "xs",
+                                                    "align": "end"
+                                                }
+                                            ],
+                                            "alignItems": "center"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Mas De Leda Red",
+                                            "wrap": true,
+                                            "color": "#F4CA82",
+                                            "size": "xxs"
+                                        }
+                                    ],
+                                    "margin": "md"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "horizontal",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "vertical",
+                                                    "contents": [
+                                                        {
+                                                            "type": "text",
+                                                            "text": "美國達歐莊園",
+                                                            "wrap": true,
+                                                            "color": "#8e8e8e",
+                                                            "size": "xs"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "wrap": true,
+                                                            "color": "#e4e4e4",
+                                                            "size": "sm",
+                                                            "text": "帕索羅布懸月之歌"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "$ 3,050",
+                                                    "wrap": true,
+                                                    "color": "#e4e4e4",
+                                                    "size": "xs",
+                                                    "align": "end"
+                                                }
+                                            ],
+                                            "alignItems": "center"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "DAOU Paso Robles Pessimist",
+                                            "wrap": true,
+                                            "color": "#F4CA82",
+                                            "size": "xxs"
+                                        }
+                                    ],
+                                    "margin": "md"
+                                }
+                            ],
+                            "spacing": "sm",
+                            "paddingAll": "13px",
+                            "backgroundColor": "#111111"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
