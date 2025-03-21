@@ -1,0 +1,971 @@
+{
+  "type": "flex",
+  "altText": "GalaxyHouse-飲品菜單",
+  "contents": 
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://imgur.com/o9RDUtA.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://line.me/"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "md",
+        "action": {
+          "type": "uri",
+          "uri": "https://line.me/"
+        },
+        "contents": [
+          {
+            "type": "text",
+            "text": "咖啡 Coffee",
+            "size": "xl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "icon",
+                    "url": "https://imgur.com/qFIdPh0.png"
+                  },
+                  {
+                    "type": "text",
+                    "text": "美式咖啡",
+                    "weight": "bold",
+                    "margin": "sm",
+                    "flex": 0
+                  },
+                  {
+                    "type": "text",
+                    "text": "H / I",
+                    "size": "sm",
+                    "align": "end",
+                    "color": "#aaaaaa"
+                  },
+                  {
+                    "type": "text",
+                    "text": "$180",
+                    "align": "end"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "icon",
+                        "url": "https://imgur.com/qFIdPh0.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "拿鐵　　",
+                        "weight": "bold",
+                        "margin": "sm",
+                        "flex": 0
+                      },
+                      {
+                        "type": "text",
+                        "text": "H / I",
+                        "size": "sm",
+                        "align": "end",
+                        "color": "#aaaaaa"
+                      },
+                      {
+                        "type": "text",
+                        "text": "$240",
+                        "align": "end"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "icon",
+                        "url": "https://imgur.com/qFIdPh0.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "熱可可　",
+                        "weight": "bold",
+                        "margin": "sm",
+                        "flex": 0
+                      },
+                      {
+                        "type": "text",
+                        "text": "H / I",
+                        "size": "sm",
+                        "align": "end",
+                        "color": "#aaaaaa"
+                      },
+                      {
+                        "type": "text",
+                        "text": "$200",
+                        "align": "end"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "分享好友",
+              "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=GalaxyHouse-%e9%a3%b2%e5%93%81%e8%8f%9c%e5%96%ae"
+            },
+            "margin": "xxl",
+            "height": "md",
+            "style": "primary",
+            "color": "#8C4F28",
+            "offsetBottom": "-40%"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://imgur.com/GF2mwz0.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://line.me/"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "md",
+        "action": {
+          "type": "uri",
+          "uri": "https://line.me/"
+        },
+        "contents": [
+          {
+            "type": "text",
+            "text": "茶 Tea",
+            "size": "xl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "icon",
+                    "url": "https://imgur.com/qFIdPh0.png"
+                  },
+                  {
+                    "type": "text",
+                    "text": "蜜香鮮奶綠",
+                    "weight": "bold",
+                    "margin": "sm",
+                    "flex": 0
+                  },
+                  {
+                    "type": "text",
+                    "text": "H / I",
+                    "size": "sm",
+                    "align": "end",
+                    "color": "#aaaaaa"
+                  },
+                  {
+                    "type": "text",
+                    "text": "$200",
+                    "align": "end"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "icon",
+                        "url": "https://imgur.com/qFIdPh0.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "銀河鮮奶茶",
+                        "weight": "bold",
+                        "margin": "sm",
+                        "flex": 0
+                      },
+                      {
+                        "type": "text",
+                        "text": "H / I",
+                        "size": "sm",
+                        "align": "end",
+                        "color": "#aaaaaa"
+                      },
+                      {
+                        "type": "text",
+                        "text": "$200",
+                        "align": "end"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "icon",
+                        "url": "https://imgur.com/qFIdPh0.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "抹茶拿鐵　",
+                        "weight": "bold",
+                        "margin": "sm",
+                        "flex": 0
+                      },
+                      {
+                        "type": "text",
+                        "text": "H / I",
+                        "size": "sm",
+                        "align": "end",
+                        "color": "#aaaaaa"
+                      },
+                      {
+                        "type": "text",
+                        "text": "$240",
+                        "align": "end"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "spacing": "sm",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "icon",
+                            "url": "https://imgur.com/qFIdPh0.png"
+                          },
+                          {
+                            "type": "text",
+                            "text": "皇家伯爵茶",
+                            "weight": "bold",
+                            "margin": "sm",
+                            "flex": 0
+                          },
+                          {
+                            "type": "text",
+                            "text": "Hot",
+                            "size": "sm",
+                            "align": "end",
+                            "color": "#aaaaaa"
+                          },
+                          {
+                            "type": "text",
+                            "text": "$220",
+                            "align": "end"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "spacing": "sm",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "icon",
+                            "url": "https://imgur.com/qFIdPh0.png"
+                          },
+                          {
+                            "type": "text",
+                            "text": "桂花烏龍茶",
+                            "weight": "bold",
+                            "margin": "sm",
+                            "flex": 0
+                          },
+                          {
+                            "type": "text",
+                            "text": "Hot",
+                            "size": "sm",
+                            "align": "end",
+                            "color": "#aaaaaa"
+                          },
+                          {
+                            "type": "text",
+                            "text": "$220",
+                            "align": "end"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "spacing": "sm",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "icon",
+                            "url": "https://imgur.com/qFIdPh0.png"
+                          },
+                          {
+                            "type": "text",
+                            "text": "水果伯爵茶",
+                            "weight": "bold",
+                            "margin": "sm",
+                            "flex": 0
+                          },
+                          {
+                            "type": "text",
+                            "text": "Hot",
+                            "size": "sm",
+                            "align": "end",
+                            "color": "#aaaaaa"
+                          },
+                          {
+                            "type": "text",
+                            "text": "$230",
+                            "align": "end"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "spacing": "sm",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "icon",
+                            "url": "https://imgur.com/qFIdPh0.png"
+                          },
+                          {
+                            "type": "text",
+                            "text": "香柚蜜茶　",
+                            "weight": "bold",
+                            "margin": "sm",
+                            "flex": 0
+                          },
+                          {
+                            "type": "text",
+                            "text": "Iced",
+                            "size": "sm",
+                            "align": "end",
+                            "color": "#aaaaaa"
+                          },
+                          {
+                            "type": "text",
+                            "text": "$150",
+                            "align": "end"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "spacing": "sm",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "icon",
+                            "url": "https://imgur.com/qFIdPh0.png"
+                          },
+                          {
+                            "type": "text",
+                            "text": "蜜香綠茶　",
+                            "weight": "bold",
+                            "margin": "sm",
+                            "flex": 0
+                          },
+                          {
+                            "type": "text",
+                            "text": "Iced",
+                            "size": "sm",
+                            "align": "end",
+                            "color": "#aaaaaa"
+                          },
+                          {
+                            "type": "text",
+                            "text": "$150",
+                            "align": "end"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "　　　",
+            "wrap": true,
+            "color": "#aaaaaa",
+            "size": "xxs"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://imgur.com/8tnUzc2.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://line.me/"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "md",
+        "action": {
+          "type": "uri",
+          "uri": "https://line.me/"
+        },
+        "contents": [
+          {
+            "type": "text",
+            "text": "奶昔 Milk Shake",
+            "size": "xl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "icon",
+                    "url": "https://imgur.com/qFIdPh0.png"
+                  },
+                  {
+                    "type": "text",
+                    "text": "焦糖堅果奶昔",
+                    "weight": "bold",
+                    "margin": "sm",
+                    "flex": 0
+                  },
+                  {
+                    "type": "text",
+                    "text": "$250",
+                    "align": "end"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "icon",
+                    "url": "https://imgur.com/qFIdPh0.png"
+                  },
+                  {
+                    "type": "text",
+                    "text": "香蕉餅乾奶昔",
+                    "weight": "bold",
+                    "margin": "sm",
+                    "flex": 0
+                  },
+                  {
+                    "type": "text",
+                    "text": "$250",
+                    "align": "end"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "icon",
+                    "url": "https://imgur.com/qFIdPh0.png"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Oreo脆餅奶昔",
+                    "weight": "bold",
+                    "margin": "sm",
+                    "flex": 0
+                  },
+                  {
+                    "type": "text",
+                    "text": "$250",
+                    "align": "end"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "icon",
+                    "url": "https://imgur.com/qFIdPh0.png"
+                  },
+                  {
+                    "type": "text",
+                    "text": "香草奶昔",
+                    "weight": "bold",
+                    "margin": "sm",
+                    "flex": 0
+                  },
+                  {
+                    "type": "text",
+                    "text": "$250",
+                    "align": "end"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "icon",
+                    "url": "https://imgur.com/qFIdPh0.png"
+                  },
+                  {
+                    "type": "text",
+                    "text": "草莓奶昔",
+                    "weight": "bold",
+                    "margin": "sm",
+                    "flex": 0
+                  },
+                  {
+                    "type": "text",
+                    "text": "$250",
+                    "align": "end"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "　　　",
+            "wrap": true,
+            "color": "#aaaaaa",
+            "size": "xxs"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://imgur.com/rIoOGP1.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://line.me/"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "md",
+        "action": {
+          "type": "uri",
+          "uri": "https://line.me/"
+        },
+        "contents": [
+          {
+            "type": "text",
+            "text": "氣泡飲料 Pops",
+            "size": "xl",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "icon",
+                    "url": "https://imgur.com/qFIdPh0.png"
+                  },
+                  {
+                    "type": "text",
+                    "text": "可樂",
+                    "weight": "bold",
+                    "margin": "sm",
+                    "flex": 0
+                  },
+                  {
+                    "type": "text",
+                    "text": "$120",
+                    "align": "end"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "icon",
+                        "url": "https://imgur.com/qFIdPh0.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "雪碧",
+                        "weight": "bold",
+                        "margin": "sm",
+                        "flex": 0
+                      },
+                      {
+                        "type": "text",
+                        "text": "$120",
+                        "align": "end"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "icon",
+                        "url": "https://imgur.com/qFIdPh0.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "通寧水",
+                        "weight": "bold",
+                        "margin": "sm",
+                        "flex": 0
+                      },
+                      {
+                        "type": "text",
+                        "text": "$120",
+                        "align": "end"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "icon",
+                        "url": "https://imgur.com/qFIdPh0.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "檸檬氣泡飲",
+                        "weight": "bold",
+                        "margin": "sm",
+                        "flex": 0
+                      },
+                      {
+                        "type": "text",
+                        "text": "$120",
+                        "align": "end"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "icon",
+                        "url": "https://imgur.com/qFIdPh0.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "柚香檸檬氣泡飲",
+                        "weight": "bold",
+                        "margin": "sm",
+                        "flex": 0
+                      },
+                      {
+                        "type": "text",
+                        "text": "$180",
+                        "align": "end"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "icon",
+                        "url": "https://imgur.com/qFIdPh0.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "芒果蜜香氣泡飲",
+                        "weight": "bold",
+                        "margin": "sm",
+                        "flex": 0
+                      },
+                      {
+                        "type": "text",
+                        "text": "$180",
+                        "align": "end"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "icon",
+                        "url": "https://imgur.com/qFIdPh0.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "洛神花釀氣泡飲",
+                        "weight": "bold",
+                        "margin": "sm",
+                        "flex": 0
+                      },
+                      {
+                        "type": "text",
+                        "text": "$180",
+                        "align": "end"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "icon",
+                        "url": "https://imgur.com/qFIdPh0.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "玫瑰花釀氣泡飲",
+                        "weight": "bold",
+                        "margin": "sm",
+                        "flex": 0
+                      },
+                      {
+                        "type": "text",
+                        "text": "$180",
+                        "align": "end"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "icon",
+                        "url": "https://imgur.com/qFIdPh0.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "富士蘋果氣泡飲",
+                        "weight": "bold",
+                        "margin": "sm",
+                        "flex": 0
+                      },
+                      {
+                        "type": "text",
+                        "text": "$200",
+                        "align": "end"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "icon",
+                        "url": "https://imgur.com/qFIdPh0.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "純香鳳梨氣泡飲",
+                        "weight": "bold",
+                        "margin": "sm",
+                        "flex": 0
+                      },
+                      {
+                        "type": "text",
+                        "text": "$200",
+                        "align": "end"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "　　　",
+            "wrap": true,
+            "color": "#aaaaaa",
+            "size": "xxs"
+          }
+        ]
+      }
+    }
+  ]
+}
+}
