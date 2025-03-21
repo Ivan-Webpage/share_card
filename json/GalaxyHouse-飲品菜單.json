@@ -12,20 +12,12 @@
         "url": "https://imgur.com/o9RDUtA.jpg",
         "size": "full",
         "aspectRatio": "20:13",
-        "aspectMode": "cover",
-        "action": {
-          "type": "uri",
-          "uri": "https://line.me/"
-        }
+        "aspectMode": "cover"
       },
       "body": {
         "type": "box",
         "layout": "vertical",
         "spacing": "md",
-        "action": {
-          "type": "uri",
-          "uri": "https://line.me/"
-        },
         "contents": [
           {
             "type": "text",
