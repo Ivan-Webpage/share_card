@@ -156,20 +156,12 @@
         "url": "https://imgur.com/GF2mwz0.jpg",
         "size": "full",
         "aspectRatio": "20:13",
-        "aspectMode": "cover",
-        "action": {
-          "type": "uri",
-          "uri": "https://line.me/"
-        }
+        "aspectMode": "cover"
       },
       "body": {
         "type": "box",
         "layout": "vertical",
         "spacing": "md",
-        "action": {
-          "type": "uri",
-          "uri": "https://line.me/"
-        },
         "contents": [
           {
             "type": "text",
@@ -482,20 +474,12 @@
         "url": "https://imgur.com/8tnUzc2.jpg",
         "size": "full",
         "aspectRatio": "20:13",
-        "aspectMode": "cover",
-        "action": {
-          "type": "uri",
-          "uri": "https://line.me/"
-        }
+        "aspectMode": "cover"
       },
       "body": {
         "type": "box",
         "layout": "vertical",
         "spacing": "md",
-        "action": {
-          "type": "uri",
-          "uri": "https://line.me/"
-        },
         "contents": [
           {
             "type": "text",
@@ -637,20 +621,12 @@
         "url": "https://imgur.com/rIoOGP1.jpg",
         "size": "full",
         "aspectRatio": "20:13",
-        "aspectMode": "cover",
-        "action": {
-          "type": "uri",
-          "uri": "https://line.me/"
-        }
+        "aspectMode": "cover"
       },
       "body": {
         "type": "box",
         "layout": "vertical",
         "spacing": "md",
-        "action": {
-          "type": "uri",
-          "uri": "https://line.me/"
-        },
         "contents": [
           {
             "type": "text",
