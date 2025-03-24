@@ -23,7 +23,8 @@
             "type": "text",
             "text": "咖啡 Coffee",
             "size": "xl",
-            "weight": "bold"
+            "weight": "bold",
+            "color": "#8C4F28"
           },
           {
             "type": "box",
@@ -167,7 +168,8 @@
             "type": "text",
             "text": "茶 Tea",
             "size": "xl",
-            "weight": "bold"
+            "weight": "bold",
+            "color": "#8C4F28"
           },
           {
             "type": "box",
@@ -485,7 +487,8 @@
             "type": "text",
             "text": "奶昔 Milk Shake",
             "size": "xl",
-            "weight": "bold"
+            "weight": "bold",
+            "color": "#8C4F28"
           },
           {
             "type": "box",
@@ -632,7 +635,8 @@
             "type": "text",
             "text": "氣泡飲料 Pops",
             "size": "xl",
-            "weight": "bold"
+            "weight": "bold",
+            "color": "#8C4F28"
           },
           {
             "type": "box",
@@ -935,5 +939,4 @@
       }
     }
   ]
-}
 }
