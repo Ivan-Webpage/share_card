@@ -10,6 +10,7 @@ body {
     height: 100%;
     width: 100%;
     font-family: Microsoft JhengHei, DFKai-sb, Arial, '新細明體', sans-serif;
+    background-color: #000000;
 }
 
 ::-webkit-scrollbar {
@@ -37,16 +38,17 @@ h1, h2, h3, h4, h5, h6 {
     cursor: pointer;
     outline: none;
     color: #fff;
-    background-color: #5d82bb;
+    background-color: #8C4F28;
     border: none;
     border-radius: 15px;
+
     box-shadow: 0 9px #999;
   }
   
-  .share_button:hover {background-color: #6d8ec1}
+  .share_button:hover {background-color: #efd07f}
   
   .share_button:active {
-    background-color: #6d8ec1;
+    background-color: #efd07f;
     box-shadow: 0 5px #666;
     transform: translateY(4px);
   }
