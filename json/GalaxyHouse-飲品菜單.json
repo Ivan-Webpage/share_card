@@ -77,7 +77,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "拿鐵　　",
+                        "text": "拿鐵    ",
                         "weight": "bold",
                         "margin": "sm",
                         "flex": 0,
@@ -115,7 +115,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "熱可可　",
+                        "text": "熱可可  ",
                         "weight": "bold",
                         "margin": "sm",
                         "flex": 0,
@@ -285,7 +285,7 @@
                       },
                       {
                         "type": "text",
-                        "text": "抹茶拿鐵　",
+                        "text": "抹茶拿鐵  ",
                         "weight": "bold",
                         "margin": "sm",
                         "flex": 0,
@@ -435,7 +435,7 @@
                           },
                           {
                             "type": "text",
-                            "text": "香柚蜜茶　",
+                            "text": "香柚蜜茶  ",
                             "weight": "bold",
                             "margin": "sm",
                             "flex": 0,
