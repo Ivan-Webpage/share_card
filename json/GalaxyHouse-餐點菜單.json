@@ -422,8 +422,8 @@
                 "color": "#aaaaaa"
               },
               {
-                "type": "text",
-                "text": "　　　"
+                "type": "separator",
+                "margin": "xxl"
               },
               {
                 "type": "box",
@@ -1164,7 +1164,7 @@
                 "action": {
                   "type": "uri",
                   "label": "action",
-                  "uri": "https://line.me/R/ti/p/@392kgxba"
+                  "uri": "https://lin.ee/PekoNpN"
                 }
               }
             ],
