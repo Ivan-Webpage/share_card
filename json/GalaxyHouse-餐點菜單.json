@@ -1,0 +1,977 @@
+{
+  "type": "flex",
+  "altText": "GalaxyHouse-飲品菜單",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "image",
+                  "url": "https://imgur.com/L3w3r7Z.jpg",
+                  "flex": 1,
+                  "size": "full",
+                  "aspectRatio": "150:196",
+                  "aspectMode": "cover",
+                  "gravity": "center"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://imgur.com/uqabgUq.jpg",
+                      "flex": 1,
+                      "size": "full",
+                      "aspectRatio": "150:196",
+                      "aspectMode": "cover",
+                      "gravity": "center"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ]
+            }
+          ],
+          "paddingAll": "0px"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "輕食 Light Meal",
+              "size": "xl",
+              "weight": "bold",
+              "offsetTop": "-4%",
+              "color": "#8C4F28"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://imgur.com/qFIdPh0.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "銀河楓糖炸雞可頌",
+                      "weight": "bold",
+                      "margin": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "$260",
+                      "align": "end"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "icon",
+                          "url": "https://imgur.com/qFIdPh0.png"
+                        },
+                        {
+                          "type": "text",
+                          "text": "原味奶油可頌",
+                          "weight": "bold",
+                          "margin": "sm",
+                          "flex": 0
+                        },
+                        {
+                          "type": "text",
+                          "text": "$200",
+                          "align": "end"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "spacing": "sm",
+                      "contents": [
+                        {
+                          "type": "box",
+                          "layout": "baseline",
+                          "contents": [
+                            {
+                              "type": "icon",
+                              "url": "https://imgur.com/qFIdPh0.png"
+                            },
+                            {
+                              "type": "text",
+                              "text": "藍莓奶油可頌",
+                              "weight": "bold",
+                              "margin": "sm",
+                              "flex": 0
+                            },
+                            {
+                              "type": "text",
+                              "text": "$230",
+                              "align": "end"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "box",
+                          "layout": "vertical",
+                          "spacing": "sm",
+                          "contents": [
+                            {
+                              "type": "box",
+                              "layout": "baseline",
+                              "contents": [
+                                {
+                                  "type": "icon",
+                                  "url": "https://imgur.com/qFIdPh0.png"
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "焦糖奶油可頌",
+                                  "weight": "bold",
+                                  "margin": "sm",
+                                  "flex": 0
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "$230",
+                                  "align": "end"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "offsetTop": "-4%"
+            },
+            {
+              "type": "text",
+              "text": "上述餐點包含沙拉、法國蛋"
+            },
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "分享好友",
+                "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=GalaxyHouse-%e9%a4%90%e9%bb%9e%e8%8f%9c%e5%96%ae"
+              },
+              "margin": "xxl",
+              "height": "md",
+              "style": "primary",
+              "color": "#8C4F28",
+              "offsetBottom": "-90px"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "image",
+                  "url": "https://imgur.com/quVYf4Z.jpg",
+                  "flex": 1,
+                  "size": "full",
+                  "aspectRatio": "150:196",
+                  "aspectMode": "cover",
+                  "gravity": "center"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://imgur.com/iWZogiO.jpg",
+                      "gravity": "center",
+                      "aspectRatio": "150:98",
+                      "aspectMode": "cover",
+                      "size": "full"
+                    },
+                    {
+                      "type": "image",
+                      "url": "https://imgur.com/rlZk7VF.jpg",
+                      "gravity": "center",
+                      "size": "full",
+                      "aspectRatio": "150:98",
+                      "aspectMode": "cover"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ]
+            }
+          ],
+          "paddingAll": "0px"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "主食 Main",
+              "size": "xl",
+              "weight": "bold",
+              "offsetTop": "-4%",
+              "color": "#8C4F28"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://imgur.com/qFIdPh0.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "銀河辣雞丁蓋飯",
+                      "weight": "bold",
+                      "margin": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "$290",
+                      "align": "end"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://imgur.com/qFIdPh0.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "桂花釀糖醋魚飯",
+                      "weight": "bold",
+                      "margin": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "$290",
+                      "align": "end"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://imgur.com/qFIdPh0.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "麻油猴頭菇燴飯",
+                      "weight": "bold",
+                      "margin": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "$320",
+                      "align": "end"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "icon",
+                          "url": "https://imgur.com/qFIdPh0.png"
+                        },
+                        {
+                          "type": "text",
+                          "text": "匈牙利牛肉飯",
+                          "weight": "bold",
+                          "margin": "sm",
+                          "flex": 0
+                        },
+                        {
+                          "type": "text",
+                          "text": "$340",
+                          "align": "end"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://imgur.com/qFIdPh0.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "紅燒牛肉燴飯",
+                      "weight": "bold",
+                      "margin": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "$350",
+                      "align": "end"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "上述餐點包含法國蛋、湯品"
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://imgur.com/qFIdPh0.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "嫩煎豬排",
+                      "weight": "bold",
+                      "margin": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "$350",
+                      "align": "end"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://imgur.com/qFIdPh0.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "嫩煎牛排",
+                      "weight": "bold",
+                      "margin": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "$480",
+                      "align": "end"
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "上述餐點包含沙拉"
+                }
+              ],
+              "offsetTop": "-4%"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "image",
+                  "url": "https://imgur.com/rMYQ6yo.jpg",
+                  "flex": 1,
+                  "size": "full",
+                  "aspectRatio": "150:196",
+                  "aspectMode": "cover",
+                  "gravity": "center"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://imgur.com/kxQFXep.jpg",
+                      "flex": 1,
+                      "size": "full",
+                      "aspectRatio": "150:196",
+                      "aspectMode": "cover",
+                      "gravity": "center"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ]
+            }
+          ],
+          "paddingAll": "0px"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "小食 Snack",
+              "size": "xl",
+              "weight": "bold",
+              "offsetTop": "-4%",
+              "color": "#8C4F28"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://imgur.com/qFIdPh0.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "綜合零嘴",
+                      "weight": "bold",
+                      "margin": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "$220",
+                      "align": "end"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://imgur.com/qFIdPh0.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "銀河鹹豬肉",
+                      "weight": "bold",
+                      "margin": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "$230",
+                      "align": "end"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://imgur.com/qFIdPh0.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "高麗菜手工水餃",
+                      "weight": "bold",
+                      "margin": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "$250",
+                      "align": "end"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "icon",
+                          "url": "https://imgur.com/qFIdPh0.png"
+                        },
+                        {
+                          "type": "text",
+                          "text": "韭菜手工水餃",
+                          "weight": "bold",
+                          "margin": "sm",
+                          "flex": 0
+                        },
+                        {
+                          "type": "text",
+                          "text": "$280",
+                          "align": "end"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://imgur.com/qFIdPh0.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "鮮蝦手工水餃",
+                      "weight": "bold",
+                      "margin": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "$300",
+                      "align": "end"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://imgur.com/qFIdPh0.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "風味起司火腿拼盤",
+                      "weight": "bold",
+                      "margin": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "$560",
+                      "align": "end"
+                    }
+                  ]
+                }
+              ],
+              "offsetTop": "-4%"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "image",
+                  "url": "https://imgur.com/B5BZ8NN.jpg",
+                  "flex": 1,
+                  "size": "full",
+                  "aspectRatio": "150:196",
+                  "aspectMode": "cover",
+                  "gravity": "center"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "image",
+                      "url": "https://imgur.com/StRWBP8.jpg",
+                      "gravity": "center",
+                      "aspectRatio": "150:98",
+                      "aspectMode": "cover",
+                      "size": "full"
+                    },
+                    {
+                      "type": "image",
+                      "url": "https://imgur.com/YI6kbTs.jpg",
+                      "gravity": "center",
+                      "size": "full",
+                      "aspectRatio": "150:98",
+                      "aspectMode": "cover"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ]
+            }
+          ],
+          "paddingAll": "0px"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "spacing": "md",
+          "contents": [
+            {
+              "type": "text",
+              "text": "炸物 Fried Food",
+              "size": "xl",
+              "weight": "bold",
+              "offsetTop": "-4%",
+              "color": "#8C4F28"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://imgur.com/qFIdPh0.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "洋蔥圈",
+                      "weight": "bold",
+                      "margin": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "$120",
+                      "align": "end"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://imgur.com/qFIdPh0.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "起司條",
+                      "weight": "bold",
+                      "margin": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "$130",
+                      "align": "end"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://imgur.com/qFIdPh0.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "唐揚雞塊",
+                      "weight": "bold",
+                      "margin": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "$130",
+                      "align": "end"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://imgur.com/qFIdPh0.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "檸檬香雞柳",
+                      "weight": "bold",
+                      "margin": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "$160",
+                      "align": "end"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://imgur.com/qFIdPh0.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "原味薯條",
+                      "weight": "bold",
+                      "margin": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "$200",
+                      "align": "end"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://imgur.com/qFIdPh0.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "松露薯條",
+                      "weight": "bold",
+                      "margin": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "$280",
+                      "align": "end"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://imgur.com/qFIdPh0.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "紐澳良雞翅",
+                      "weight": "bold",
+                      "margin": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "$240",
+                      "align": "end"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://imgur.com/qFIdPh0.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "炸魚",
+                      "weight": "bold",
+                      "margin": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "$230",
+                      "align": "end"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://imgur.com/qFIdPh0.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "炸蝦",
+                      "weight": "bold",
+                      "margin": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "$230",
+                      "align": "end"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://imgur.com/qFIdPh0.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "炸魷魚圈",
+                      "weight": "bold",
+                      "margin": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "$230",
+                      "align": "end"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://imgur.com/qFIdPh0.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "銀河炸物拼盤",
+                      "weight": "bold",
+                      "margin": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "$400",
+                      "align": "end"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "contents": [
+                    {
+                      "type": "icon",
+                      "url": "https://imgur.com/qFIdPh0.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "海鮮炸物拼盤",
+                      "weight": "bold",
+                      "margin": "sm",
+                      "flex": 0
+                    },
+                    {
+                      "type": "text",
+                      "text": "$500",
+                      "align": "end"
+                    }
+                  ]
+                }
+              ],
+              "offsetTop": "-4%"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
