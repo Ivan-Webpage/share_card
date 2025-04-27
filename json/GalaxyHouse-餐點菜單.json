@@ -1,6 +1,6 @@
 {
   "type": "flex",
-  "altText": "GalaxyHouse-飲品菜單",
+  "altText": "GalaxyHouse-餐點菜單",
   "contents": {
     "type": "carousel",
     "contents": [
@@ -55,7 +55,8 @@
               "size": "xl",
               "weight": "bold",
               "offsetTop": "-4%",
-              "color": "#8C4F28"
+              "color": "#efd07f",
+              "margin": "lg"
             },
             {
               "type": "box",
@@ -75,12 +76,14 @@
                       "text": "銀河楓糖炸雞可頌",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$260",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -102,12 +105,14 @@
                           "text": "原味奶油可頌",
                           "weight": "bold",
                           "margin": "sm",
-                          "flex": 0
+                          "flex": 0,
+                          "color": "#ffffff"
                         },
                         {
                           "type": "text",
                           "text": "$200",
-                          "align": "end"
+                          "align": "end",
+                          "color": "#ffffff"
                         }
                       ]
                     },
@@ -129,12 +134,14 @@
                               "text": "藍莓奶油可頌",
                               "weight": "bold",
                               "margin": "sm",
-                              "flex": 0
+                              "flex": 0,
+                              "color": "#ffffff"
                             },
                             {
                               "type": "text",
                               "text": "$230",
-                              "align": "end"
+                              "align": "end",
+                              "color": "#ffffff"
                             }
                           ]
                         },
@@ -156,12 +163,14 @@
                                   "text": "焦糖奶油可頌",
                                   "weight": "bold",
                                   "margin": "sm",
-                                  "flex": 0
+                                  "flex": 0,
+                                  "color": "#ffffff"
                                 },
                                 {
                                   "type": "text",
                                   "text": "$230",
-                                  "align": "end"
+                                  "align": "end",
+                                  "color": "#ffffff"
                                 }
                               ]
                             }
@@ -176,22 +185,42 @@
             },
             {
               "type": "text",
-              "text": "上述餐點包含沙拉、法國蛋"
+              "text": "上述餐點包含沙拉、法國蛋",
+              "color": "#aaaaaa"
             },
             {
-              "type": "button",
-              "action": {
-                "type": "uri",
-                "label": "分享好友",
-                "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=GalaxyHouse-%e9%a4%90%e9%bb%9e%e8%8f%9c%e5%96%ae"
-              },
-              "margin": "xxl",
-              "height": "md",
-              "style": "primary",
-              "color": "#8C4F28",
-              "offsetBottom": "-90px"
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "分享好友",
+                    "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=GalaxyHouse-%e9%a4%90%e9%bb%9e%e8%8f%9c%e5%96%ae"
+                  },
+                  "margin": "xxl",
+                  "height": "md",
+                  "style": "primary",
+                  "color": "#8C4F28"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "馬上訂位",
+                    "uri": "https://shop.ichefpos.com/store/as6CWxam/reserve"
+                  },
+                  "margin": "md",
+                  "height": "md",
+                  "style": "secondary",
+                  "color": "#efd07f"
+                }
+              ],
+              "offsetBottom": "-10%"
             }
-          ]
+          ],
+          "backgroundColor": "#000000"
         }
       },
       {
@@ -252,7 +281,8 @@
               "size": "xl",
               "weight": "bold",
               "offsetTop": "-4%",
-              "color": "#8C4F28"
+              "color": "#efd07f",
+              "margin": "lg"
             },
             {
               "type": "box",
@@ -272,12 +302,14 @@
                       "text": "銀河辣雞丁蓋飯",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$290",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -294,12 +326,14 @@
                       "text": "桂花釀糖醋魚飯",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$290",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -316,12 +350,14 @@
                       "text": "麻油猴頭菇燴飯",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$320",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -343,12 +379,14 @@
                           "text": "匈牙利牛肉飯",
                           "weight": "bold",
                           "margin": "sm",
-                          "flex": 0
+                          "flex": 0,
+                          "color": "#ffffff"
                         },
                         {
                           "type": "text",
                           "text": "$340",
-                          "align": "end"
+                          "align": "end",
+                          "color": "#ffffff"
                         }
                       ]
                     }
@@ -367,18 +405,25 @@
                       "text": "紅燒牛肉燴飯",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$350",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
                 {
                   "type": "text",
-                  "text": "上述餐點包含法國蛋、湯品"
+                  "text": "上述餐點包含法國蛋、湯品",
+                  "color": "#aaaaaa"
+                },
+                {
+                  "type": "text",
+                  "text": "　　　"
                 },
                 {
                   "type": "box",
@@ -393,12 +438,14 @@
                       "text": "嫩煎豬排",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$350",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -415,23 +462,27 @@
                       "text": "嫩煎牛排",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$480",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
                 {
                   "type": "text",
-                  "text": "上述餐點包含沙拉"
+                  "text": "上述餐點包含沙拉",
+                  "color": "#aaaaaa"
                 }
               ],
               "offsetTop": "-4%"
             }
-          ]
+          ],
+          "backgroundColor": "#000000"
         }
       },
       {
@@ -485,7 +536,8 @@
               "size": "xl",
               "weight": "bold",
               "offsetTop": "-4%",
-              "color": "#8C4F28"
+              "color": "#efd07f",
+              "margin": "lg"
             },
             {
               "type": "box",
@@ -505,12 +557,14 @@
                       "text": "綜合零嘴",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$220",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -527,12 +581,14 @@
                       "text": "銀河鹹豬肉",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$230",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -549,12 +605,14 @@
                       "text": "高麗菜手工水餃",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$250",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -576,12 +634,14 @@
                           "text": "韭菜手工水餃",
                           "weight": "bold",
                           "margin": "sm",
-                          "flex": 0
+                          "flex": 0,
+                          "color": "#ffffff"
                         },
                         {
                           "type": "text",
                           "text": "$280",
-                          "align": "end"
+                          "align": "end",
+                          "color": "#ffffff"
                         }
                       ]
                     }
@@ -600,12 +660,14 @@
                       "text": "鮮蝦手工水餃",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$300",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -622,19 +684,22 @@
                       "text": "風味起司火腿拼盤",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$560",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 }
               ],
               "offsetTop": "-4%"
             }
-          ]
+          ],
+          "backgroundColor": "#000000"
         }
       },
       {
@@ -695,7 +760,8 @@
               "size": "xl",
               "weight": "bold",
               "offsetTop": "-4%",
-              "color": "#8C4F28"
+              "color": "#efd07f",
+              "margin": "lg"
             },
             {
               "type": "box",
@@ -715,12 +781,14 @@
                       "text": "洋蔥圈",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$120",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -737,12 +805,14 @@
                       "text": "起司條",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$130",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -759,12 +829,14 @@
                       "text": "唐揚雞塊",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$130",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -781,12 +853,14 @@
                       "text": "檸檬香雞柳",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$160",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -803,12 +877,14 @@
                       "text": "原味薯條",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$200",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -825,12 +901,14 @@
                       "text": "松露薯條",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$280",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -847,12 +925,14 @@
                       "text": "紐澳良雞翅",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$240",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -869,12 +949,14 @@
                       "text": "炸魚",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$230",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -891,12 +973,14 @@
                       "text": "炸蝦",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$230",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -913,12 +997,14 @@
                       "text": "炸魷魚圈",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$230",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -935,12 +1021,14 @@
                       "text": "銀河炸物拼盤",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$400",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -957,19 +1045,128 @@
                       "text": "海鮮炸物拼盤",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$500",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 }
               ],
               "offsetTop": "-4%"
             }
-          ]
+          ],
+          "backgroundColor": "#000000"
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://imgur.com/sy7NHLi.jpg",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "1:2",
+              "gravity": "top"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "text",
+                          "text": "官方帳號",
+                          "color": "#ffffff",
+                          "flex": 0,
+                          "offsetTop": "-2px"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "spacing": "sm"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "borderWidth": "1px",
+                  "cornerRadius": "4px",
+                  "spacing": "sm",
+                  "borderColor": "#ffffff",
+                  "margin": "xxl",
+                  "height": "40px"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "text",
+                          "text": "官方網站",
+                          "color": "#ffffff",
+                          "flex": 0,
+                          "offsetTop": "-2px"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "spacing": "sm"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "borderWidth": "1px",
+                  "cornerRadius": "4px",
+                  "spacing": "sm",
+                  "borderColor": "#ffffff",
+                  "margin": "xxl",
+                  "height": "40px"
+                }
+              ],
+              "position": "absolute",
+              "offsetBottom": "0px",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "paddingAll": "20px",
+              "paddingTop": "18px"
+            }
+          ],
+          "paddingAll": "0px"
         }
       }
     ]
