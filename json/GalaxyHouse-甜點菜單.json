@@ -2,452 +2,466 @@
   "type": "flex",
   "altText": "GalaxyHouse-甜點菜單",
   "contents": {
-    "type": "carousel",
-    "contents": [
-      {
-        "type": "bubble",
-        "header": {
-          "type": "box",
-          "layout": "vertical",
-          "contents": [
-            {
-              "type": "box",
-              "layout": "horizontal",
-              "contents": [
-                {
-                  "type": "image",
-                  "url": "https://imgur.com/b8jHfut.jpg",
-                  "flex": 1,
-                  "size": "full",
-                  "aspectRatio": "150:196",
-                  "aspectMode": "cover",
-                  "gravity": "center"
-                },
-                {
-                  "type": "box",
-                  "layout": "vertical",
-                  "contents": [
-                    {
-                      "type": "image",
-                      "url": "https://imgur.com/IAxup9C.jpg",
-                      "gravity": "center",
-                      "aspectRatio": "150:98",
-                      "aspectMode": "cover",
-                      "size": "full"
-                    },
-                    {
-                      "type": "image",
-                      "url": "https://imgur.com/Dz6yOOR.jpg",
-                      "gravity": "center",
-                      "size": "full",
-                      "aspectRatio": "150:98",
-                      "aspectMode": "cover"
-                    }
-                  ],
-                  "flex": 1
-                }
-              ]
-            }
-          ],
-          "paddingAll": "0px"
-        },
-        "body": {
-          "type": "box",
-          "layout": "vertical",
-          "spacing": "md",
-          "contents": [
-            {
-              "type": "text",
-              "text": "甜點 Dessert",
-              "size": "xl",
-              "weight": "bold",
-              "offsetTop": "-4%",
-              "color": "#efd07f",
-              "margin": "lg"
-            },
-            {
-              "type": "box",
-              "layout": "vertical",
-              "spacing": "sm",
-              "contents": [
-                {
-                  "type": "box",
-                  "layout": "baseline",
-                  "contents": [
-                    {
-                      "type": "icon",
-                      "url": "https://imgur.com/qFIdPh0.png"
-                    },
-                    {
-                      "type": "text",
-                      "text": "特選布朗尼",
-                      "weight": "bold",
-                      "margin": "sm",
-                      "flex": 0,
-                      "color": "#ffffff"
-                    },
-                    {
-                      "type": "text",
-                      "text": "$150",
-                      "align": "end",
-                      "color": "#ffffff"
-                    }
-                  ]
-                },
-                {
-                  "type": "box",
-                  "layout": "vertical",
-                  "spacing": "sm",
-                  "contents": [
-                    {
-                      "type": "box",
-                      "layout": "baseline",
-                      "contents": [
-                        {
-                          "type": "icon",
-                          "url": "https://imgur.com/qFIdPh0.png"
-                        },
-                        {
-                          "type": "text",
-                          "text": "OREO提拉米蘇",
-                          "weight": "bold",
-                          "margin": "sm",
-                          "flex": 0,
-                          "color": "#ffffff"
-                        },
-                        {
-                          "type": "text",
-                          "text": "$150",
-                          "align": "end",
-                          "color": "#ffffff"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "box",
-                      "layout": "vertical",
-                      "spacing": "sm",
-                      "contents": [
-                        {
-                          "type": "box",
-                          "layout": "baseline",
-                          "contents": [
-                            {
-                              "type": "icon",
-                              "url": "https://imgur.com/qFIdPh0.png"
-                            },
-                            {
-                              "type": "text",
-                              "text": "巴斯克乳酪蛋糕",
-                              "weight": "bold",
-                              "margin": "sm",
-                              "flex": 0,
-                              "color": "#ffffff"
-                            },
-                            {
-                              "type": "text",
-                              "text": "$150",
-                              "align": "end",
-                              "color": "#ffffff"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "box",
-                          "layout": "vertical",
-                          "spacing": "sm",
-                          "contents": [
-                            {
-                              "type": "box",
-                              "layout": "baseline",
-                              "contents": [
-                                {
-                                  "type": "icon",
-                                  "url": "https://imgur.com/qFIdPh0.png"
-                                },
-                                {
-                                  "type": "text",
-                                  "text": "銀河檸檬塔",
-                                  "weight": "bold",
-                                  "margin": "sm",
-                                  "flex": 0,
-                                  "color": "#ffffff"
-                                },
-                                {
-                                  "type": "text",
-                                  "text": "$170",
-                                  "align": "end",
-                                  "color": "#ffffff"
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "type": "box",
-                          "layout": "vertical",
-                          "spacing": "sm",
-                          "contents": [
-                            {
-                              "type": "box",
-                              "layout": "baseline",
-                              "contents": [
-                                {
-                                  "type": "icon",
-                                  "url": "https://imgur.com/qFIdPh0.png"
-                                },
-                                {
-                                  "type": "text",
-                                  "text": "香濃奶油泡芙",
-                                  "weight": "bold",
-                                  "margin": "sm",
-                                  "flex": 0,
-                                  "color": "#ffffff"
-                                },
-                                {
-                                  "type": "text",
-                                  "text": "$170",
-                                  "align": "end",
-                                  "color": "#ffffff"
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "type": "box",
-                          "layout": "vertical",
-                          "spacing": "sm",
-                          "contents": [
-                            {
-                              "type": "box",
-                              "layout": "baseline",
-                              "contents": [
-                                {
-                                  "type": "icon",
-                                  "url": "https://imgur.com/qFIdPh0.png"
-                                },
-                                {
-                                  "type": "text",
-                                  "text": "可麗露",
-                                  "weight": "bold",
-                                  "margin": "sm",
-                                  "flex": 0,
-                                  "color": "#ffffff"
-                                },
-                                {
-                                  "type": "text",
-                                  "text": "$170",
-                                  "align": "end",
-                                  "color": "#ffffff"
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "type": "box",
-                          "layout": "vertical",
-                          "spacing": "sm",
-                          "contents": [
-                            {
-                              "type": "box",
-                              "layout": "baseline",
-                              "contents": [
-                                {
-                                  "type": "icon",
-                                  "url": "https://imgur.com/qFIdPh0.png"
-                                },
-                                {
-                                  "type": "text",
-                                  "text": "瑪德蓮",
-                                  "weight": "bold",
-                                  "margin": "sm",
-                                  "flex": 0,
-                                  "color": "#ffffff"
-                                },
-                                {
-                                  "type": "text",
-                                  "text": "$200",
-                                  "align": "end",
-                                  "color": "#ffffff"
-                                }
-                              ]
-                            },
-                            {
-                              "type": "box",
-                              "layout": "vertical",
-                              "spacing": "sm",
-                              "contents": [
-                                {
-                                  "type": "box",
-                                  "layout": "baseline",
-                                  "contents": [
-                                    {
-                                      "type": "icon",
-                                      "url": "https://imgur.com/qFIdPh0.png"
-                                    },
-                                    {
-                                      "type": "text",
-                                      "text": "冰淇淋聖代",
-                                      "weight": "bold",
-                                      "margin": "sm",
-                                      "flex": 0,
-                                      "color": "#ffffff"
-                                    },
-                                    {
-                                      "type": "text",
-                                      "text": "$230",
-                                      "align": "end",
-                                      "color": "#ffffff"
-                                    }
-                                  ]
-                                }
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "offsetTop": "-4%"
-            },
-            {
-              "type": "button",
-              "action": {
-                "type": "uri",
-                "label": "分享好友",
-                "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=GalaxyHouse-%e7%94%9c%e9%bb%9e%e8%8f%9c%e5%96%ae"
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://imgur.com/b8jHfut.jpg",
+                "flex": 1,
+                "size": "full",
+                "aspectRatio": "150:196",
+                "aspectMode": "cover",
+                "gravity": "center"
               },
-              "margin": "xxl",
-              "height": "md",
-              "style": "primary",
-              "color": "#8C4F28"
-            },
-            {
-              "type": "button",
-              "action": {
-                "type": "uri",
-                "label": "馬上訂位",
-                "uri": "https://shop.ichefpos.com/store/as6CWxam/reserve"
-              },
-              "margin": "md",
-              "height": "md",
-              "style": "secondary",
-              "color": "#efd07f"
-            }
-          ],
-          "backgroundColor": "#000000"
-        }
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://imgur.com/IAxup9C.jpg",
+                    "gravity": "center",
+                    "aspectRatio": "150:98",
+                    "aspectMode": "cover",
+                    "size": "full"
+                  },
+                  {
+                    "type": "image",
+                    "url": "https://imgur.com/Dz6yOOR.jpg",
+                    "gravity": "center",
+                    "size": "full",
+                    "aspectRatio": "150:98",
+                    "aspectMode": "cover"
+                  }
+                ],
+                "flex": 1
+              }
+            ]
+          }
+        ],
+        "paddingAll": "0px"
       },
-      {
-        "type": "bubble",
-        "body": {
-          "type": "box",
-          "layout": "vertical",
-          "contents": [
-            {
-              "type": "image",
-              "url": "https://imgur.com/ZqpEerr.jpg",
-              "size": "full",
-              "aspectMode": "cover",
-              "aspectRatio": "1:2.1",
-              "gravity": "top"
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "md",
+        "contents": [
+          {
+            "type": "text",
+            "text": "甜點 Dessert",
+            "size": "xl",
+            "weight": "bold",
+            "offsetTop": "-4%",
+            "color": "#efd07f",
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "icon",
+                    "url": "https://imgur.com/qFIdPh0.png"
+                  },
+                  {
+                    "type": "text",
+                    "text": "特選布朗尼",
+                    "weight": "bold",
+                    "margin": "sm",
+                    "flex": 0,
+                    "color": "#ffffff"
+                  },
+                  {
+                    "type": "text",
+                    "text": "$150",
+                    "align": "end",
+                    "color": "#ffffff"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "icon",
+                        "url": "https://imgur.com/qFIdPh0.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "OREO提拉米蘇",
+                        "weight": "bold",
+                        "margin": "sm",
+                        "flex": 0,
+                        "color": "#ffffff"
+                      },
+                      {
+                        "type": "text",
+                        "text": "$150",
+                        "align": "end",
+                        "color": "#ffffff"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "spacing": "sm",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "icon",
+                            "url": "https://imgur.com/qFIdPh0.png"
+                          },
+                          {
+                            "type": "text",
+                            "text": "巴斯克乳酪蛋糕",
+                            "weight": "bold",
+                            "margin": "sm",
+                            "flex": 0,
+                            "color": "#ffffff"
+                          },
+                          {
+                            "type": "text",
+                            "text": "$150",
+                            "align": "end",
+                            "color": "#ffffff"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "spacing": "sm",
+                        "contents": [
+                          {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                              {
+                                "type": "icon",
+                                "url": "https://imgur.com/qFIdPh0.png"
+                              },
+                              {
+                                "type": "text",
+                                "text": "銀河檸檬塔",
+                                "weight": "bold",
+                                "margin": "sm",
+                                "flex": 0,
+                                "color": "#ffffff"
+                              },
+                              {
+                                "type": "text",
+                                "text": "$170",
+                                "align": "end",
+                                "color": "#ffffff"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "spacing": "sm",
+                        "contents": [
+                          {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                              {
+                                "type": "icon",
+                                "url": "https://imgur.com/qFIdPh0.png"
+                              },
+                              {
+                                "type": "text",
+                                "text": "香濃奶油泡芙",
+                                "weight": "bold",
+                                "margin": "sm",
+                                "flex": 0,
+                                "color": "#ffffff"
+                              },
+                              {
+                                "type": "text",
+                                "text": "$170",
+                                "align": "end",
+                                "color": "#ffffff"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "spacing": "sm",
+                        "contents": [
+                          {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                              {
+                                "type": "icon",
+                                "url": "https://imgur.com/qFIdPh0.png"
+                              },
+                              {
+                                "type": "text",
+                                "text": "可麗露",
+                                "weight": "bold",
+                                "margin": "sm",
+                                "flex": 0,
+                                "color": "#ffffff"
+                              },
+                              {
+                                "type": "text",
+                                "text": "$170",
+                                "align": "end",
+                                "color": "#ffffff"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "box",
+                        "layout": "vertical",
+                        "spacing": "sm",
+                        "contents": [
+                          {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                              {
+                                "type": "icon",
+                                "url": "https://imgur.com/qFIdPh0.png"
+                              },
+                              {
+                                "type": "text",
+                                "text": "瑪德蓮",
+                                "weight": "bold",
+                                "margin": "sm",
+                                "flex": 0,
+                                "color": "#ffffff"
+                              },
+                              {
+                                "type": "text",
+                                "text": "$200",
+                                "align": "end",
+                                "color": "#ffffff"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "box",
+                            "layout": "vertical",
+                            "spacing": "sm",
+                            "contents": [
+                              {
+                                "type": "box",
+                                "layout": "baseline",
+                                "contents": [
+                                  {
+                                    "type": "icon",
+                                    "url": "https://imgur.com/qFIdPh0.png"
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "冰淇淋聖代",
+                                    "weight": "bold",
+                                    "margin": "sm",
+                                    "flex": 0,
+                                    "color": "#ffffff"
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "$230",
+                                    "align": "end",
+                                    "color": "#ffffff"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "offsetTop": "-4%"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "分享好友",
+              "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=GalaxyHouse-%e7%94%9c%e9%bb%9e%e8%8f%9c%e5%96%ae"
             },
-            {
-              "type": "box",
-              "layout": "vertical",
-              "contents": [
-                {
-                  "type": "box",
-                  "layout": "vertical",
-                  "contents": [
-                    {
-                      "type": "filler"
-                    },
-                    {
-                      "type": "box",
-                      "layout": "baseline",
-                      "contents": [
-                        {
-                          "type": "filler"
-                        },
-                        {
-                          "type": "text",
-                          "text": "官方帳號",
-                          "color": "#ffffff",
-                          "flex": 0,
-                          "offsetTop": "-2px"
-                        },
-                        {
-                          "type": "filler"
-                        }
-                      ],
-                      "spacing": "sm"
-                    },
-                    {
-                      "type": "filler"
-                    }
-                  ],
-                  "borderWidth": "1px",
-                  "cornerRadius": "4px",
-                  "spacing": "sm",
-                  "borderColor": "#ffffff",
-                  "margin": "xxl",
-                  "height": "40px"
-                },
-                {
-                  "type": "box",
-                  "layout": "vertical",
-                  "contents": [
-                    {
-                      "type": "filler"
-                    },
-                    {
-                      "type": "box",
-                      "layout": "baseline",
-                      "contents": [
-                        {
-                          "type": "filler"
-                        },
-                        {
-                          "type": "text",
-                          "text": "官方網站",
-                          "color": "#ffffff",
-                          "flex": 0,
-                          "offsetTop": "-2px"
-                        },
-                        {
-                          "type": "filler"
-                        }
-                      ],
-                      "spacing": "sm"
-                    },
-                    {
-                      "type": "filler"
-                    }
-                  ],
-                  "borderWidth": "1px",
-                  "cornerRadius": "4px",
-                  "spacing": "sm",
-                  "borderColor": "#ffffff",
-                  "margin": "xxl",
-                  "height": "40px"
-                }
-              ],
-              "position": "absolute",
-              "offsetBottom": "0px",
-              "offsetStart": "0px",
-              "offsetEnd": "0px",
-              "paddingAll": "20px",
-              "paddingTop": "18px"
-            }
-          ],
-          "paddingAll": "0px"
-        }
+            "margin": "xxl",
+            "height": "md",
+            "style": "primary",
+            "color": "#8C4F28"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "馬上訂位",
+              "uri": "https://shop.ichefpos.com/store/as6CWxam/reserve"
+            },
+            "margin": "md",
+            "height": "md",
+            "style": "secondary",
+            "color": "#efd07f"
+          }
+        ],
+        "backgroundColor": "#000000"
       }
-    ]
-  }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://imgur.com/ZqpEerr.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "1:2.1"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "text",
+                        "text": "官方網站",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "4px",
+                "spacing": "sm",
+                "borderColor": "#ffffff",
+                "margin": "xxl",
+                "height": "40px",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://www.instagram.com/thegalaxyhouse.3"
+                }
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "text",
+                        "text": "Line官方",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px",
+                        "action": {
+                          "type": "uri",
+                          "label": "action",
+                          "uri": "http://linecorp.com/"
+                        }
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "4px",
+                "spacing": "sm",
+                "borderColor": "#ffffff",
+                "margin": "xxl",
+                "height": "40px",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://lin.ee/PekoNpN"
+                }
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "paddingAll": "20px",
+            "paddingTop": "18px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    }
+  ]
+}
 }
