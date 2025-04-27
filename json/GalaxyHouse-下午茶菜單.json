@@ -1,0 +1,279 @@
+{
+  "type": "flex",
+  "altText": "GalaxyHouse-下午茶菜單",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://imgur.com/cmniAQj.jpg",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "2:3",
+              "gravity": "top"
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "分享好友",
+                    "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=GalaxyHouse-%e4%b8%8b%e5%8d%88%e8%8c%b6%e8%8f%9c%e5%96%ae"
+                  },
+                  "color": "#efd07f",
+                  "style": "secondary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "馬上訂位",
+                    "uri": "https://shop.ichefpos.com/store/as6CWxam/reserve"
+                  },
+                  "style": "primary",
+                  "color": "#8c4f28"
+                }
+              ]
+            }
+          ],
+          "paddingAll": "0px",
+          "backgroundColor": "#000000"
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://imgur.com/euAOMdK.jpg",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "2:3",
+              "gravity": "top"
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "分享好友",
+                    "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=GalaxyHouse-%e4%b8%8b%e5%8d%88%e8%8c%b6%e8%8f%9c%e5%96%ae"
+                  },
+                  "color": "#efd07f",
+                  "style": "secondary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "馬上訂位",
+                    "uri": "https://shop.ichefpos.com/store/as6CWxam/reserve"
+                  },
+                  "style": "primary",
+                  "color": "#8c4f28"
+                }
+              ]
+            }
+          ],
+          "paddingAll": "0px",
+          "backgroundColor": "#000000"
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://imgur.com/z55zSzE.jpg",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "2:3",
+              "gravity": "top"
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "分享好友",
+                    "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=GalaxyHouse-%e4%b8%8b%e5%8d%88%e8%8c%b6%e8%8f%9c%e5%96%ae"
+                  },
+                  "color": "#efd07f",
+                  "style": "secondary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "馬上訂位",
+                    "uri": "https://shop.ichefpos.com/store/as6CWxam/reserve"
+                  },
+                  "style": "primary",
+                  "color": "#8c4f28"
+                }
+              ]
+            }
+          ],
+          "paddingAll": "0px",
+          "backgroundColor": "#000000"
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://imgur.com/IO1mBOX.jpg",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "2:3",
+              "gravity": "top"
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "分享好友",
+                    "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=GalaxyHouse-%e4%b8%8b%e5%8d%88%e8%8c%b6%e8%8f%9c%e5%96%ae"
+                  },
+                  "color": "#efd07f",
+                  "style": "secondary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "馬上訂位",
+                    "uri": "https://shop.ichefpos.com/store/as6CWxam/reserve"
+                  },
+                  "style": "primary",
+                  "color": "#8c4f28"
+                }
+              ]
+            }
+          ],
+          "paddingAll": "0px",
+          "backgroundColor": "#000000"
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://imgur.com/siEP557.jpg",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "2:3",
+              "gravity": "top"
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "分享好友",
+                    "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=GalaxyHouse-%e4%b8%8b%e5%8d%88%e8%8c%b6%e8%8f%9c%e5%96%ae"
+                  },
+                  "color": "#efd07f",
+                  "style": "secondary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "馬上訂位",
+                    "uri": "https://shop.ichefpos.com/store/as6CWxam/reserve"
+                  },
+                  "style": "primary",
+                  "color": "#8c4f28"
+                }
+              ]
+            }
+          ],
+          "paddingAll": "0px",
+          "backgroundColor": "#000000"
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://imgur.com/uBORdzT.jpg",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "2:3",
+              "gravity": "top"
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "分享好友",
+                    "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=GalaxyHouse-%e4%b8%8b%e5%8d%88%e8%8c%b6%e8%8f%9c%e5%96%ae"
+                  },
+                  "color": "#efd07f",
+                  "style": "secondary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "馬上訂位",
+                    "uri": "https://shop.ichefpos.com/store/as6CWxam/reserve"
+                  },
+                  "style": "primary",
+                  "color": "#8c4f28"
+                }
+              ]
+            }
+          ],
+          "paddingAll": "0px",
+          "backgroundColor": "#000000"
+        }
+      }
+    ]
+  }
+}
