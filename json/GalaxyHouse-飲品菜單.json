@@ -23,7 +23,8 @@
               "text": "咖啡 Coffee",
               "size": "xl",
               "weight": "bold",
-              "color": "#8C4F28"
+              "color": "#efd07f",
+              "margin": "sm"
             },
             {
               "type": "box",
@@ -43,7 +44,8 @@
                       "text": "美式咖啡",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
@@ -55,7 +57,8 @@
                     {
                       "type": "text",
                       "text": "$180",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -77,7 +80,8 @@
                           "text": "拿鐵　　",
                           "weight": "bold",
                           "margin": "sm",
-                          "flex": 0
+                          "flex": 0,
+                          "color": "#ffffff"
                         },
                         {
                           "type": "text",
@@ -89,7 +93,8 @@
                         {
                           "type": "text",
                           "text": "$240",
-                          "align": "end"
+                          "align": "end",
+                          "color": "#ffffff"
                         }
                       ]
                     }
@@ -113,7 +118,8 @@
                           "text": "熱可可　",
                           "weight": "bold",
                           "margin": "sm",
-                          "flex": 0
+                          "flex": 0,
+                          "color": "#ffffff"
                         },
                         {
                           "type": "text",
@@ -125,7 +131,8 @@
                         {
                           "type": "text",
                           "text": "$200",
-                          "align": "end"
+                          "align": "end",
+                          "color": "#ffffff"
                         }
                       ]
                     }
@@ -134,19 +141,38 @@
               ]
             },
             {
-              "type": "button",
-              "action": {
-                "type": "uri",
-                "label": "分享好友",
-                "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=GalaxyHouse-%e9%a3%b2%e5%93%81%e8%8f%9c%e5%96%ae"
-              },
-              "margin": "xxl",
-              "height": "md",
-              "style": "primary",
-              "color": "#8C4F28",
-              "offsetBottom": "-40%"
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "分享好友",
+                    "uri": "https://liff.line.me/1657826069-OmEnqNJY/?card=GalaxyHouse-%e9%a3%b2%e5%93%81%e8%8f%9c%e5%96%ae"
+                  },
+                  "margin": "xxl",
+                  "height": "md",
+                  "style": "primary",
+                  "color": "#8C4F28"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "馬上訂位",
+                    "uri": "https://shop.ichefpos.com/store/as6CWxam/reserve"
+                  },
+                  "margin": "md",
+                  "height": "md",
+                  "style": "secondary",
+                  "color": "#efd07f"
+                }
+              ],
+              "offsetBottom": "-15%"
             }
-          ]
+          ],
+          "backgroundColor": "#000000"
         }
       },
       {
@@ -168,7 +194,7 @@
               "text": "茶 Tea",
               "size": "xl",
               "weight": "bold",
-              "color": "#8C4F28"
+              "color": "#efd07f"
             },
             {
               "type": "box",
@@ -188,7 +214,8 @@
                       "text": "蜜香鮮奶綠",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
@@ -200,7 +227,8 @@
                     {
                       "type": "text",
                       "text": "$200",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -222,7 +250,8 @@
                           "text": "銀河鮮奶茶",
                           "weight": "bold",
                           "margin": "sm",
-                          "flex": 0
+                          "flex": 0,
+                          "color": "#ffffff"
                         },
                         {
                           "type": "text",
@@ -234,7 +263,8 @@
                         {
                           "type": "text",
                           "text": "$200",
-                          "align": "end"
+                          "align": "end",
+                          "color": "#ffffff"
                         }
                       ]
                     }
@@ -258,7 +288,8 @@
                           "text": "抹茶拿鐵　",
                           "weight": "bold",
                           "margin": "sm",
-                          "flex": 0
+                          "flex": 0,
+                          "color": "#ffffff"
                         },
                         {
                           "type": "text",
@@ -270,7 +301,8 @@
                         {
                           "type": "text",
                           "text": "$240",
-                          "align": "end"
+                          "align": "end",
+                          "color": "#ffffff"
                         }
                       ]
                     },
@@ -292,7 +324,8 @@
                               "text": "皇家伯爵茶",
                               "weight": "bold",
                               "margin": "sm",
-                              "flex": 0
+                              "flex": 0,
+                              "color": "#ffffff"
                             },
                             {
                               "type": "text",
@@ -304,7 +337,8 @@
                             {
                               "type": "text",
                               "text": "$220",
-                              "align": "end"
+                              "align": "end",
+                              "color": "#ffffff"
                             }
                           ]
                         }
@@ -328,7 +362,8 @@
                               "text": "桂花烏龍茶",
                               "weight": "bold",
                               "margin": "sm",
-                              "flex": 0
+                              "flex": 0,
+                              "color": "#ffffff"
                             },
                             {
                               "type": "text",
@@ -340,7 +375,8 @@
                             {
                               "type": "text",
                               "text": "$220",
-                              "align": "end"
+                              "align": "end",
+                              "color": "#ffffff"
                             }
                           ]
                         }
@@ -364,7 +400,8 @@
                               "text": "水果伯爵茶",
                               "weight": "bold",
                               "margin": "sm",
-                              "flex": 0
+                              "flex": 0,
+                              "color": "#ffffff"
                             },
                             {
                               "type": "text",
@@ -376,7 +413,8 @@
                             {
                               "type": "text",
                               "text": "$230",
-                              "align": "end"
+                              "align": "end",
+                              "color": "#ffffff"
                             }
                           ]
                         }
@@ -400,7 +438,8 @@
                               "text": "香柚蜜茶　",
                               "weight": "bold",
                               "margin": "sm",
-                              "flex": 0
+                              "flex": 0,
+                              "color": "#ffffff"
                             },
                             {
                               "type": "text",
@@ -412,7 +451,8 @@
                             {
                               "type": "text",
                               "text": "$150",
-                              "align": "end"
+                              "align": "end",
+                              "color": "#ffffff"
                             }
                           ]
                         }
@@ -436,7 +476,8 @@
                               "text": "蜜香綠茶　",
                               "weight": "bold",
                               "margin": "sm",
-                              "flex": 0
+                              "flex": 0,
+                              "color": "#ffffff"
                             },
                             {
                               "type": "text",
@@ -448,7 +489,8 @@
                             {
                               "type": "text",
                               "text": "$150",
-                              "align": "end"
+                              "align": "end",
+                              "color": "#ffffff"
                             }
                           ]
                         }
@@ -457,15 +499,9 @@
                   ]
                 }
               ]
-            },
-            {
-              "type": "text",
-              "text": "　　　",
-              "wrap": true,
-              "color": "#aaaaaa",
-              "size": "xxs"
             }
-          ]
+          ],
+          "backgroundColor": "#000000"
         }
       },
       {
@@ -487,7 +523,7 @@
               "text": "奶昔 Milk Shake",
               "size": "xl",
               "weight": "bold",
-              "color": "#8C4F28"
+              "color": "#efd07f"
             },
             {
               "type": "box",
@@ -507,12 +543,14 @@
                       "text": "焦糖堅果奶昔",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$250",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -529,12 +567,14 @@
                       "text": "香蕉餅乾奶昔",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$250",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -551,12 +591,14 @@
                       "text": "Oreo脆餅奶昔",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$250",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -573,12 +615,14 @@
                       "text": "香草奶昔",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$250",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -595,25 +639,21 @@
                       "text": "草莓奶昔",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$250",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 }
               ]
-            },
-            {
-              "type": "text",
-              "text": "　　　",
-              "wrap": true,
-              "color": "#aaaaaa",
-              "size": "xxs"
             }
-          ]
+          ],
+          "backgroundColor": "#000000"
         }
       },
       {
@@ -635,7 +675,7 @@
               "text": "氣泡飲料 Pops",
               "size": "xl",
               "weight": "bold",
-              "color": "#8C4F28"
+              "color": "#efd07f"
             },
             {
               "type": "box",
@@ -655,12 +695,14 @@
                       "text": "可樂",
                       "weight": "bold",
                       "margin": "sm",
-                      "flex": 0
+                      "flex": 0,
+                      "color": "#ffffff"
                     },
                     {
                       "type": "text",
                       "text": "$120",
-                      "align": "end"
+                      "align": "end",
+                      "color": "#ffffff"
                     }
                   ]
                 },
@@ -682,12 +724,14 @@
                           "text": "雪碧",
                           "weight": "bold",
                           "margin": "sm",
-                          "flex": 0
+                          "flex": 0,
+                          "color": "#ffffff"
                         },
                         {
                           "type": "text",
                           "text": "$120",
-                          "align": "end"
+                          "align": "end",
+                          "color": "#ffffff"
                         }
                       ]
                     }
@@ -711,12 +755,14 @@
                           "text": "通寧水",
                           "weight": "bold",
                           "margin": "sm",
-                          "flex": 0
+                          "flex": 0,
+                          "color": "#ffffff"
                         },
                         {
                           "type": "text",
                           "text": "$120",
-                          "align": "end"
+                          "align": "end",
+                          "color": "#ffffff"
                         }
                       ]
                     }
@@ -740,12 +786,14 @@
                           "text": "檸檬氣泡飲",
                           "weight": "bold",
                           "margin": "sm",
-                          "flex": 0
+                          "flex": 0,
+                          "color": "#ffffff"
                         },
                         {
                           "type": "text",
                           "text": "$120",
-                          "align": "end"
+                          "align": "end",
+                          "color": "#ffffff"
                         }
                       ]
                     }
@@ -769,12 +817,14 @@
                           "text": "柚香檸檬氣泡飲",
                           "weight": "bold",
                           "margin": "sm",
-                          "flex": 0
+                          "flex": 0,
+                          "color": "#ffffff"
                         },
                         {
                           "type": "text",
                           "text": "$180",
-                          "align": "end"
+                          "align": "end",
+                          "color": "#ffffff"
                         }
                       ]
                     }
@@ -798,12 +848,14 @@
                           "text": "芒果蜜香氣泡飲",
                           "weight": "bold",
                           "margin": "sm",
-                          "flex": 0
+                          "flex": 0,
+                          "color": "#ffffff"
                         },
                         {
                           "type": "text",
                           "text": "$180",
-                          "align": "end"
+                          "align": "end",
+                          "color": "#ffffff"
                         }
                       ]
                     }
@@ -827,12 +879,14 @@
                           "text": "洛神花釀氣泡飲",
                           "weight": "bold",
                           "margin": "sm",
-                          "flex": 0
+                          "flex": 0,
+                          "color": "#ffffff"
                         },
                         {
                           "type": "text",
                           "text": "$180",
-                          "align": "end"
+                          "align": "end",
+                          "color": "#ffffff"
                         }
                       ]
                     }
@@ -856,12 +910,14 @@
                           "text": "玫瑰花釀氣泡飲",
                           "weight": "bold",
                           "margin": "sm",
-                          "flex": 0
+                          "flex": 0,
+                          "color": "#ffffff"
                         },
                         {
                           "type": "text",
                           "text": "$180",
-                          "align": "end"
+                          "align": "end",
+                          "color": "#ffffff"
                         }
                       ]
                     }
@@ -885,12 +941,14 @@
                           "text": "富士蘋果氣泡飲",
                           "weight": "bold",
                           "margin": "sm",
-                          "flex": 0
+                          "flex": 0,
+                          "color": "#ffffff"
                         },
                         {
                           "type": "text",
                           "text": "$200",
-                          "align": "end"
+                          "align": "end",
+                          "color": "#ffffff"
                         }
                       ]
                     }
@@ -914,27 +972,129 @@
                           "text": "純香鳳梨氣泡飲",
                           "weight": "bold",
                           "margin": "sm",
-                          "flex": 0
+                          "flex": 0,
+                          "color": "#ffffff"
                         },
                         {
                           "type": "text",
                           "text": "$200",
-                          "align": "end"
+                          "align": "end",
+                          "color": "#ffffff"
                         }
                       ]
                     }
                   ]
                 }
               ]
+            }
+          ],
+          "backgroundColor": "#000000"
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://imgur.com/sy7NHLi.jpg",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "2:3.6",
+              "gravity": "top"
             },
             {
-              "type": "text",
-              "text": "　　　",
-              "wrap": true,
-              "color": "#aaaaaa",
-              "size": "xxs"
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "text",
+                          "text": "官方帳號",
+                          "color": "#ffffff",
+                          "flex": 0,
+                          "offsetTop": "-2px"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "spacing": "sm"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "borderWidth": "1px",
+                  "cornerRadius": "4px",
+                  "spacing": "sm",
+                  "borderColor": "#ffffff",
+                  "margin": "xxl",
+                  "height": "40px"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "text",
+                          "text": "官方網站",
+                          "color": "#ffffff",
+                          "flex": 0,
+                          "offsetTop": "-2px"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "spacing": "sm"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "borderWidth": "1px",
+                  "cornerRadius": "4px",
+                  "spacing": "sm",
+                  "borderColor": "#ffffff",
+                  "margin": "xxl",
+                  "height": "40px"
+                }
+              ],
+              "position": "absolute",
+              "offsetBottom": "0px",
+              "offsetStart": "0px",
+              "offsetEnd": "0px",
+              "paddingAll": "20px",
+              "paddingTop": "18px"
             }
-          ]
+          ],
+          "paddingAll": "0px"
         }
       }
     ]
