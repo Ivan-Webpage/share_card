@@ -353,12 +353,7 @@
                         "text": "Line官方",
                         "color": "#ffffff",
                         "flex": 0,
-                        "offsetTop": "-2px",
-                        "action": {
-                          "type": "uri",
-                          "label": "action",
-                          "uri": "http://linecorp.com/"
-                        }
+                        "offsetTop": "-2px"
                       },
                       {
                         "type": "filler"
