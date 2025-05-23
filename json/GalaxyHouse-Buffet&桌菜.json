@@ -20,7 +20,7 @@
               "action": {
                 "type": "message",
                 "label": "action",
-                "text": "西式Buffet－說明"
+                "text": "西式Buffet-說明"
               }
             },
             {
@@ -135,7 +135,7 @@
               "action": {
                 "type": "message",
                 "label": "action",
-                "text": "中式桌菜－說明"
+                "text": "中式桌菜-說明"
               }
             },
             {
