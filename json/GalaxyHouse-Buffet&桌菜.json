@@ -1,6 +1,6 @@
 {
   "type": "flex",
-  "altText": "GalaxyHouse-排餐",
+  "altText": "GalaxyHouse-Buffet&桌菜",
   "contents": {
     "type": "carousel",
     "contents": [
@@ -65,7 +65,7 @@
                   "action": {
                     "type": "uri",
                     "label": "action",
-                    "uri": "https://liff.line.me/2007125128-DMPABz33/?card=GalaxyHouse-%e6%8e%92%e9%a4%90"
+                    "uri": "https://liff.line.me/2007125128-DMPABz33/?card=GalaxyHouse-Buffet%26%e6%a1%8c%e8%8f%9c"
                   }
                 },
                 {
@@ -127,7 +127,7 @@
           "contents": [
             {
               "type": "image",
-              "url": "https://i.ibb.co/XHdC8XJ/224-0.jpg",
+              "url": "https://i.ibb.co/gLpffrjh/230.jpg",
               "size": "full",
               "aspectMode": "cover",
               "aspectRatio": "2:3",
@@ -135,7 +135,7 @@
               "action": {
                 "type": "message",
                 "label": "action",
-                "text": "中式排餐－說明"
+                "text": "中式桌菜－說明"
               }
             },
             {
@@ -180,7 +180,7 @@
                   "action": {
                     "type": "uri",
                     "label": "action",
-                    "uri": "https://liff.line.me/2007125128-DMPABz33/?card=GalaxyHouse-%e6%8e%92%e9%a4%90"
+                    "uri": "https://liff.line.me/2007125128-DMPABz33/?card=GalaxyHouse-Buffet%26%e6%a1%8c%e8%8f%9c"
                   }
                 },
                 {
