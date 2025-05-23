@@ -1,6 +1,6 @@
 {
   "type": "flex",
-  "altText": "GalaxyHouse-Buffet&桌菜",
+  "altText": "GalaxyHouse-Buffet桌菜",
   "contents": {
     "type": "carousel",
     "contents": [
@@ -65,7 +65,7 @@
                   "action": {
                     "type": "uri",
                     "label": "action",
-                    "uri": "https://liff.line.me/2007125128-DMPABz33/?card=GalaxyHouse-Buffet%26%e6%a1%8c%e8%8f%9c"
+                    "uri": "https://liff.line.me/2007125128-DMPABz33/?card=GalaxyHouse-Buffet%e6%a1%8c%e8%8f%9c"
                   }
                 },
                 {
@@ -180,7 +180,7 @@
                   "action": {
                     "type": "uri",
                     "label": "action",
-                    "uri": "https://liff.line.me/2007125128-DMPABz33/?card=GalaxyHouse-Buffet%26%e6%a1%8c%e8%8f%9c"
+                    "uri": "https://liff.line.me/2007125128-DMPABz33/?card=GalaxyHouse-Buffet%e6%a1%8c%e8%8f%9c"
                   }
                 },
                 {
