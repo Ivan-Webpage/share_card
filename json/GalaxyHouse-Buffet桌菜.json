@@ -11,6 +11,19 @@
           "layout": "vertical",
           "contents": [
             {
+              "type": "image",
+              "url": "https://i.ibb.co/0RHXG5ZL/223-0.jpg",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "2:3",
+              "gravity": "top",
+              "action": {
+                "type": "message",
+                "label": "action",
+                "text": "西式Buffet-說明"
+              }
+            },
+            {
               "type": "box",
               "layout": "horizontal",
               "contents": [
