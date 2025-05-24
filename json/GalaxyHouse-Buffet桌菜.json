@@ -1,237 +1,225 @@
 {
   "type": "flex",
   "altText": "GalaxyHouse-Buffet桌菜",
-  "contents": {
-    "type": "carousel",
-    "contents": [
-      {
-        "type": "bubble",
-        "body": {
-          "type": "box",
-          "layout": "vertical",
-          "contents": [
-            {
-              "type": "image",
-              "url": "https://i.ibb.co/0RHXG5ZL/223-0.jpg",
-              "size": "full",
-              "aspectMode": "cover",
-              "aspectRatio": "2:3",
-              "gravity": "top"
-            },
-            {
-              "type": "box",
-              "layout": "horizontal",
-              "contents": [
-                {
-                  "type": "box",
-                  "layout": "vertical",
-                  "contents": [
-                    {
-                      "type": "filler"
-                    },
-                    {
-                      "type": "box",
-                      "layout": "baseline",
-                      "contents": [
-                        {
-                          "type": "filler"
-                        },
-                        {
-                          "type": "text",
-                          "text": "分享好友",
-                          "color": "#ffffff",
-                          "flex": 0,
-                          "offsetTop": "-2px"
-                        },
-                        {
-                          "type": "filler"
-                        }
-                      ],
-                      "spacing": "sm"
-                    },
-                    {
-                      "type": "filler"
-                    }
-                  ],
-                  "borderWidth": "1px",
-                  "cornerRadius": "4px",
-                  "borderColor": "#ffffff",
-                  "margin": "md",
-                  "height": "40px",
-                  "action": {
-                    "type": "uri",
-                    "label": "action",
-                    "uri": "https://liff.line.me/2007125128-DMPABz33/?card=GalaxyHouse-Buffet%e6%a1%8c%e8%8f%9c"
+  "contents":{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://i.ibb.co/0RHXG5ZL/223-0.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "text",
+                        "text": "分享好友",
+                        "color": "#000000",
+                        "flex": 0,
+                        "offsetTop": "-2px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
                   }
+                ],
+                "cornerRadius": "4px",
+                "height": "40px",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://liff.line.me/2007125128-DMPABz33/?card=GalaxyHouse-Buffet%e6%a1%8c%e8%8f%9c"
                 },
-                {
-                  "type": "box",
-                  "layout": "vertical",
-                  "contents": [
-                    {
-                      "type": "filler"
-                    },
-                    {
-                      "type": "box",
-                      "layout": "baseline",
-                      "contents": [
-                        {
-                          "type": "filler"
-                        },
-                        {
-                          "type": "text",
-                          "text": "LINE官方",
-                          "color": "#ffffff",
-                          "flex": 0,
-                          "offsetTop": "-2px"
-                        },
-                        {
-                          "type": "filler"
-                        }
-                      ],
-                      "spacing": "sm"
-                    },
-                    {
-                      "type": "filler"
-                    }
-                  ],
-                  "borderWidth": "1px",
-                  "cornerRadius": "4px",
-                  "borderColor": "#ffffff",
-                  "margin": "md",
-                  "height": "40px",
-                  "action": {
-                    "type": "uri",
-                    "label": "action",
-                    "uri": "https://line.me/R/ti/p/@392kgxba"
+                "backgroundColor": "#efd07f"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "text",
+                        "text": "LINE官方",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
                   }
-                }
-              ],
-              "position": "absolute",
-              "offsetBottom": "0px",
-              "offsetStart": "0px",
-              "offsetEnd": "0px",
-              "paddingAll": "20px",
-              "paddingTop": "18px"
-            }
-          ],
-          "paddingAll": "0px"
-        }
-      },
-      {
-        "type": "bubble",
-        "body": {
-          "type": "box",
-          "layout": "vertical",
-          "contents": [
-            {
-              "type": "image",
-              "url": "https://i.ibb.co/gLpffrjh/230.jpg",
-              "size": "full",
-              "aspectMode": "cover",
-              "aspectRatio": "2:3",
-              "gravity": "top"
-            },
-            {
-              "type": "box",
-              "layout": "horizontal",
-              "contents": [
-                {
-                  "type": "box",
-                  "layout": "vertical",
-                  "contents": [
-                    {
-                      "type": "filler"
-                    },
-                    {
-                      "type": "box",
-                      "layout": "baseline",
-                      "contents": [
-                        {
-                          "type": "filler"
-                        },
-                        {
-                          "type": "text",
-                          "text": "分享好友",
-                          "color": "#ffffff",
-                          "flex": 0,
-                          "offsetTop": "-2px"
-                        },
-                        {
-                          "type": "filler"
-                        }
-                      ],
-                      "spacing": "sm"
-                    },
-                    {
-                      "type": "filler"
-                    }
-                  ],
-                  "borderWidth": "1px",
-                  "cornerRadius": "4px",
-                  "borderColor": "#ffffff",
-                  "margin": "md",
-                  "height": "40px",
-                  "action": {
-                    "type": "uri",
-                    "label": "action",
-                    "uri": "https://liff.line.me/2007125128-DMPABz33/?card=GalaxyHouse-Buffet%e6%a1%8c%e8%8f%9c"
-                  }
+                ],
+                "cornerRadius": "4px",
+                "height": "40px",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://line.me/R/ti/p/@392kgxba"
                 },
-                {
-                  "type": "box",
-                  "layout": "vertical",
-                  "contents": [
-                    {
-                      "type": "filler"
-                    },
-                    {
-                      "type": "box",
-                      "layout": "baseline",
-                      "contents": [
-                        {
-                          "type": "filler"
-                        },
-                        {
-                          "type": "text",
-                          "text": "LINE官方",
-                          "color": "#ffffff",
-                          "flex": 0,
-                          "offsetTop": "-2px"
-                        },
-                        {
-                          "type": "filler"
-                        }
-                      ],
-                      "spacing": "sm"
-                    },
-                    {
-                      "type": "filler"
-                    }
-                  ],
-                  "borderWidth": "1px",
-                  "cornerRadius": "4px",
-                  "borderColor": "#ffffff",
-                  "margin": "md",
-                  "height": "40px",
-                  "action": {
-                    "type": "uri",
-                    "label": "action",
-                    "uri": "https://line.me/R/ti/p/@392kgxba"
-                  }
-                }
-              ],
-              "position": "absolute",
-              "offsetBottom": "0px",
-              "offsetStart": "0px",
-              "offsetEnd": "0px",
-              "paddingAll": "20px",
-              "paddingTop": "18px"
-            }
-          ],
-          "paddingAll": "0px"
-        }
+                "backgroundColor": "#06c755"
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px"
+          }
+        ],
+        "paddingAll": "0px"
       }
-    ]
-  }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://i.ibb.co/gLpffrjh/230.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "text",
+                        "text": "分享好友",
+                        "color": "#000000",
+                        "flex": 0,
+                        "offsetTop": "-2px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "cornerRadius": "4px",
+                "height": "40px",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://liff.line.me/2007125128-DMPABz33/?card=GalaxyHouse-Buffet%e6%a1%8c%e8%8f%9c"
+                },
+                "backgroundColor": "#efd07f"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "text",
+                        "text": "LINE官方",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "cornerRadius": "4px",
+                "height": "40px",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://line.me/R/ti/p/@392kgxba"
+                },
+                "backgroundColor": "#06c755"
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    }
+  ]
+}
 }
