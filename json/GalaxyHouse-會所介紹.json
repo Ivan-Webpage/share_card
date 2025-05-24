@@ -1,0 +1,352 @@
+{
+  "type": "flex",
+  "altText": "GalaxyHouse-會所介紹",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://i.ibb.co/vCYMnrB5/248-0.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "text",
+                        "text": "分享好友",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "4px",
+                "spacing": "sm",
+                "borderColor": "#ffffff",
+                "margin": "xxl",
+                "height": "40px",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://liff.line.me/2007125128-DMPABz33/?card=GalaxyHouse-%e6%9c%83%e6%89%80%e4%bb%8b%e7%b4%b9"
+                }
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "paddingAll": "20px",
+            "paddingTop": "18px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://i.ibb.co/N66Cwhds/249-0.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "filler"
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "text",
+                    "text": "松山IG",
+                    "color": "#ffffff",
+                    "flex": 0,
+                    "offsetTop": "-2px"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "spacing": "sm"
+              },
+              {
+                "type": "filler"
+              }
+            ],
+            "borderWidth": "1px",
+            "cornerRadius": "4px",
+            "spacing": "sm",
+            "borderColor": "#ffffff",
+            "margin": "xxl",
+            "height": "40px",
+            "position": "absolute",
+            "offsetTop": "10px",
+            "offsetEnd": "10px",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.instagram.com/thegalaxyhouse.3"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "filler"
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "text",
+                    "text": "天母IG",
+                    "color": "#ffffff",
+                    "flex": 0,
+                    "offsetTop": "-2px"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "spacing": "sm"
+              },
+              {
+                "type": "filler"
+              }
+            ],
+            "borderWidth": "1px",
+            "cornerRadius": "4px",
+            "spacing": "sm",
+            "borderColor": "#ffffff",
+            "margin": "xxl",
+            "height": "40px",
+            "position": "absolute",
+            "offsetTop": "50%",
+            "offsetEnd": "10px",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.instagram.com/thegalaxyhouse.310"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "filler"
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "text",
+                    "text": "北投IG",
+                    "color": "#ffffff",
+                    "flex": 0,
+                    "offsetTop": "-2px"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "spacing": "sm"
+              },
+              {
+                "type": "filler"
+              }
+            ],
+            "borderWidth": "1px",
+            "cornerRadius": "4px",
+            "spacing": "sm",
+            "borderColor": "#ffffff",
+            "margin": "xxl",
+            "height": "40px",
+            "position": "absolute",
+            "offsetTop": "75%",
+            "offsetStart": "10px",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://www.instagram.com/thegalaxyhouse.90"
+            }
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://i.ibb.co/YF2rPG1F/251.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "text",
+                        "text": "官方網站",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "4px",
+                "borderColor": "#ffffff",
+                "margin": "md",
+                "height": "40px",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://www.instagram.com/thegalaxyhouse.3"
+                }
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "text",
+                        "text": "LINE官方",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "4px",
+                "borderColor": "#ffffff",
+                "margin": "md",
+                "height": "40px",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://line.me/R/ti/p/@392kgxba"
+                }
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "paddingAll": "20px",
+            "paddingTop": "18px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    }
+  ]
+}
+}
