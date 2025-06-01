@@ -1,0 +1,330 @@
+{
+  "type": "flex",
+  "altText": "GalaxyHouse天母-餐點菜單",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://imgur.com/quVYf4Z.jpg",
+                "flex": 1,
+                "size": "full",
+                "aspectRatio": "150:196",
+                "aspectMode": "cover",
+                "gravity": "center"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "image",
+                    "url": "https://imgur.com/iWZogiO.jpg",
+                    "gravity": "center",
+                    "aspectRatio": "150:98",
+                    "aspectMode": "cover",
+                    "size": "full"
+                  },
+                  {
+                    "type": "image",
+                    "url": "https://imgur.com/rlZk7VF.jpg",
+                    "gravity": "center",
+                    "size": "full",
+                    "aspectRatio": "150:98",
+                    "aspectMode": "cover"
+                  }
+                ],
+                "flex": 1
+              }
+            ]
+          }
+        ],
+        "paddingAll": "0px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "md",
+        "contents": [
+          {
+            "type": "text",
+            "text": "主食 Main",
+            "size": "xl",
+            "weight": "bold",
+            "offsetTop": "-4%",
+            "color": "#efd07f",
+            "margin": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "icon",
+                    "url": "https://imgur.com/qFIdPh0.png"
+                  },
+                  {
+                    "type": "text",
+                    "text": "銀河手工水餃",
+                    "weight": "bold",
+                    "margin": "sm",
+                    "flex": 0,
+                    "color": "#ffffff"
+                  },
+                  {
+                    "type": "text",
+                    "text": "$280",
+                    "align": "end",
+                    "color": "#ffffff"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "icon",
+                    "url": "https://imgur.com/qFIdPh0.png"
+                  },
+                  {
+                    "type": "text",
+                    "text": "銀河辣雞丁蓋飯",
+                    "weight": "bold",
+                    "margin": "sm",
+                    "flex": 0,
+                    "color": "#ffffff"
+                  },
+                  {
+                    "type": "text",
+                    "text": "$290",
+                    "align": "end",
+                    "color": "#ffffff"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "icon",
+                    "url": "https://imgur.com/qFIdPh0.png"
+                  },
+                  {
+                    "type": "text",
+                    "text": "松露薯條",
+                    "weight": "bold",
+                    "margin": "sm",
+                    "flex": 0,
+                    "color": "#ffffff"
+                  },
+                  {
+                    "type": "text",
+                    "text": "$280",
+                    "align": "end",
+                    "color": "#ffffff"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "icon",
+                        "url": "https://imgur.com/qFIdPh0.png"
+                      },
+                      {
+                        "type": "text",
+                        "text": "紐澳良雞翅",
+                        "weight": "bold",
+                        "margin": "sm",
+                        "flex": 0,
+                        "color": "#ffffff"
+                      },
+                      {
+                        "type": "text",
+                        "text": "$240",
+                        "align": "end",
+                        "color": "#ffffff"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "icon",
+                    "url": "https://imgur.com/qFIdPh0.png"
+                  },
+                  {
+                    "type": "text",
+                    "text": "銀河炸物拼盤",
+                    "weight": "bold",
+                    "margin": "sm",
+                    "flex": 0,
+                    "color": "#ffffff"
+                  },
+                  {
+                    "type": "text",
+                    "text": "$400",
+                    "align": "end",
+                    "color": "#ffffff"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "拼盤包含原味薯條、炸雞塊、起司條、洋蔥圈",
+                "color": "#aaaaaa"
+              }
+            ],
+            "offsetTop": "-4%"
+          }
+        ],
+        "backgroundColor": "#000000"
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://imgur.com/sy7NHLi.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "1:1.8",
+            "gravity": "top"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "text",
+                        "text": "官方網站",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "4px",
+                "spacing": "sm",
+                "borderColor": "#ffffff",
+                "margin": "xxl",
+                "height": "40px",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://www.instagram.com/thegalaxyhouse.3"
+                }
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "text",
+                        "text": "Line官方",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "4px",
+                "spacing": "sm",
+                "borderColor": "#ffffff",
+                "margin": "xxl",
+                "height": "40px",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://line.me/R/ti/p/@392kgxba"
+                }
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "paddingAll": "20px",
+            "paddingTop": "18px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    }
+  ]
+}
+}
