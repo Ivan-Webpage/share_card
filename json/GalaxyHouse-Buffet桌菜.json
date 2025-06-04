@@ -16,7 +16,12 @@
             "size": "full",
             "aspectMode": "cover",
             "aspectRatio": "2:3",
-            "gravity": "top"
+            "gravity": "top",
+            "action": {
+              "type": "message",
+              "label": "action",
+              "text": "西式Buffet-說明"
+            }
           },
           {
             "type": "box",
@@ -124,7 +129,12 @@
             "size": "full",
             "aspectMode": "cover",
             "aspectRatio": "2:3",
-            "gravity": "top"
+            "gravity": "top",
+            "action": {
+              "type": "message",
+              "label": "action",
+              "text": "中式桌菜-說明"
+            }
           },
           {
             "type": "box",
