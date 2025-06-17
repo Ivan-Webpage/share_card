@@ -22,22 +22,6 @@
                 "aspectRatio": "150:196",
                 "aspectMode": "cover",
                 "gravity": "center"
-              },
-              {
-                "type": "box",
-                "layout": "vertical",
-                "contents": [
-                  {
-                    "type": "image",
-                    "url": "https://i.ibb.co/TDR358SP/S-244490273-0.jpg",
-                    "flex": 1,
-                    "size": "full",
-                    "aspectRatio": "150:196",
-                    "aspectMode": "cover",
-                    "gravity": "center"
-                  }
-                ],
-                "flex": 1
               }
             ]
           }
@@ -208,21 +192,12 @@
             "layout": "horizontal",
             "contents": [
               {
-                "type": "image",
-                "url": "https://imgur.com/rMYQ6yo.jpg",
-                "flex": 1,
-                "size": "full",
-                "aspectRatio": "150:196",
-                "aspectMode": "cover",
-                "gravity": "center"
-              },
-              {
                 "type": "box",
                 "layout": "vertical",
                 "contents": [
                   {
                     "type": "image",
-                    "url": "https://imgur.com/kxQFXep.jpg",
+                    "url": "https://i.ibb.co/TDR358SP/S-244490273-0.jpg",
                     "flex": 1,
                     "size": "full",
                     "aspectRatio": "150:196",
