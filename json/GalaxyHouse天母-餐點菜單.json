@@ -16,7 +16,7 @@
             "contents": [
               {
                 "type": "box",
-                "layout": "vertical",
+                "layout": "horizontal",
                 "contents": [
                   {
                     "type": "image",
