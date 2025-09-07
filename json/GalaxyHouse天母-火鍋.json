@@ -13,11 +13,11 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://ibb.co/Kxpnm3wM.jpg",
             "size": "full",
             "aspectMode": "cover",
             "aspectRatio": "1:1",
-            "gravity": "center"
+            "gravity": "center",
+            "url": "https://i.postimg.cc/1tcdX5FJ/S-244490272-0.jpg"
           },
           {
             "type": "box",
@@ -137,7 +137,7 @@
             "aspectMode": "cover",
             "aspectRatio": "1:1",
             "gravity": "center",
-            "url": "https://campaign-tw.openrice.com/wp-content/uploads/2017/04/00.jpg"
+            "url": "https://i.postimg.cc/kXQXFxm5/S-268787718-0.jpg"
           },
           {
             "type": "box",
