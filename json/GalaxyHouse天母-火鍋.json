@@ -121,7 +121,12 @@
             "paddingAll": "20px"
           }
         ],
-        "paddingAll": "0px"
+        "paddingAll": "0px",
+        "action": {
+          "type": "message",
+          "label": "action",
+          "text": "火鍋-說明"
+        }
       }
     },
     {
@@ -241,7 +246,12 @@
             "paddingAll": "20px"
           }
         ],
-        "paddingAll": "0px"
+        "paddingAll": "0px",
+        "action": {
+          "type": "message",
+          "label": "action",
+          "text": "火鍋-說明"
+        }
       }
     }
   ]
