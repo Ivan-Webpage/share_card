@@ -578,6 +578,30 @@
                   },
                   {
                     "type": "text",
+                    "text": "飛魚卵香腸",
+                    "weight": "bold",
+                    "margin": "sm",
+                    "flex": 0,
+                    "color": "#ffffff"
+                  },
+                  {
+                    "type": "text",
+                    "text": "$210",
+                    "align": "end",
+                    "color": "#ffffff"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "icon",
+                    "url": "https://imgur.com/qFIdPh0.png"
+                  },
+                  {
+                    "type": "text",
                     "text": "銀河鹹豬肉",
                     "weight": "bold",
                     "margin": "sm",
@@ -587,6 +611,30 @@
                   {
                     "type": "text",
                     "text": "$230",
+                    "align": "end",
+                    "color": "#ffffff"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "icon",
+                    "url": "https://imgur.com/qFIdPh0.png"
+                  },
+                  {
+                    "type": "text",
+                    "text": "香腸鹹豬肉拼盤",
+                    "weight": "bold",
+                    "margin": "sm",
+                    "flex": 0,
+                    "color": "#ffffff"
+                  },
+                  {
+                    "type": "text",
+                    "text": "$400",
                     "align": "end",
                     "color": "#ffffff"
                   }
