@@ -1,0 +1,255 @@
+{
+    "type": "flex",
+    "altText": "GalaxyHouse-酒類飲品",
+    "contents": {
+        "type": "carousel",
+        "contents": [
+            {
+                "type": "bubble",
+                "header": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "box",
+                            "layout": "horizontal",
+                            "contents": [
+                                {
+                                    "type": "image",
+                                    "url": "https://thegalaxyhouse.com/images/uploads/branch-gallery/%E9%9B%AA%E8%8C%84%E5%AE%A4%E7%B4%85%E9%85%92.jpg",
+                                    "flex": 1,
+                                    "size": "full",
+                                    "aspectRatio": "150:196",
+                                    "aspectMode": "cover",
+                                    "gravity": "center"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "image",
+                                            "url": "https://i.ibb.co/Q738jfRw/2025-04-18-262.jpg",
+                                            "gravity": "center",
+                                            "aspectRatio": "150:98",
+                                            "aspectMode": "cover",
+                                            "size": "full"
+                                        },
+                                        {
+                                            "type": "image",
+                                            "url": "https://i.ibb.co/BhK73qc/2025-04-18-29.jpg",
+                                            "gravity": "center",
+                                            "size": "full",
+                                            "aspectRatio": "150:98",
+                                            "aspectMode": "cover"
+                                        }
+                                    ],
+                                    "flex": 1
+                                }
+                            ]
+                        }
+                    ],
+                    "paddingAll": "0px"
+                },
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "spacing": "md",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "酒類飲品",
+                            "size": "xl",
+                            "weight": "bold",
+                            "offsetTop": "-4%",
+                            "color": "#efd07f",
+                            "margin": "lg"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "horizontal",
+                            "contents": [
+                                {
+                                    "type": "button",
+                                    "action": {
+                                        "type": "message",
+                                        "label": "白酒",
+                                        "text": "白酒"
+                                    },
+                                    "margin": "none",
+                                    "height": "md",
+                                    "style": "primary",
+                                    "color": "#8C4F28"
+                                },
+                                {
+                                    "type": "button",
+                                    "action": {
+                                        "type": "message",
+                                        "label": "紅酒",
+                                        "text": "紅酒"
+                                    },
+                                    "margin": "xs",
+                                    "height": "md",
+                                    "style": "primary",
+                                    "color": "#8C4F28"
+                                },
+                                {
+                                    "type": "button",
+                                    "action": {
+                                        "type": "message",
+                                        "label": "氣泡酒",
+                                        "text": "氣泡酒"
+                                    },
+                                    "margin": "xs",
+                                    "height": "md",
+                                    "style": "primary",
+                                    "color": "#8C4F28"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "button",
+                            "action": {
+                                "type": "message",
+                                "label": "威士忌",
+                                "text": "紅酒"
+                            },
+                            "margin": "xxl",
+                            "height": "md",
+                            "style": "primary",
+                            "color": "#8C4F28"
+                        },
+                        {
+                            "type": "button",
+                            "action": {
+                                "type": "message",
+                                "label": "啤酒",
+                                "text": "啤酒"
+                            },
+                            "margin": "md",
+                            "height": "md",
+                            "style": "secondary",
+                            "color": "#efd07f"
+                        }
+                    ],
+                    "backgroundColor": "#000000"
+                }
+            },
+            {
+                "type": "bubble",
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "image",
+                            "url": "https://imgur.com/ZqpEerr.jpg",
+                            "size": "full",
+                            "aspectMode": "cover",
+                            "aspectRatio": "1:1.6"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "filler"
+                                        },
+                                        {
+                                            "type": "box",
+                                            "layout": "baseline",
+                                            "contents": [
+                                                {
+                                                    "type": "filler"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "官方網站",
+                                                    "color": "#ffffff",
+                                                    "flex": 0,
+                                                    "offsetTop": "-2px"
+                                                },
+                                                {
+                                                    "type": "filler"
+                                                }
+                                            ],
+                                            "spacing": "sm"
+                                        },
+                                        {
+                                            "type": "filler"
+                                        }
+                                    ],
+                                    "borderWidth": "1px",
+                                    "cornerRadius": "4px",
+                                    "spacing": "sm",
+                                    "borderColor": "#ffffff",
+                                    "margin": "xxl",
+                                    "height": "40px",
+                                    "action": {
+                                        "type": "uri",
+                                        "label": "action",
+                                        "uri": "https://www.instagram.com/thegalaxyhouse.3"
+                                    }
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "filler"
+                                        },
+                                        {
+                                            "type": "box",
+                                            "layout": "baseline",
+                                            "contents": [
+                                                {
+                                                    "type": "filler"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Line官方",
+                                                    "color": "#ffffff",
+                                                    "flex": 0,
+                                                    "offsetTop": "-2px"
+                                                },
+                                                {
+                                                    "type": "filler"
+                                                }
+                                            ],
+                                            "spacing": "sm"
+                                        },
+                                        {
+                                            "type": "filler"
+                                        }
+                                    ],
+                                    "borderWidth": "1px",
+                                    "cornerRadius": "4px",
+                                    "spacing": "sm",
+                                    "borderColor": "#ffffff",
+                                    "margin": "xxl",
+                                    "height": "40px",
+                                    "action": {
+                                        "type": "uri",
+                                        "label": "action",
+                                        "uri": "https://line.me/R/ti/p/@392kgxba"
+                                    }
+                                }
+                            ],
+                            "position": "absolute",
+                            "offsetBottom": "0px",
+                            "offsetStart": "0px",
+                            "offsetEnd": "0px",
+                            "paddingAll": "20px",
+                            "paddingTop": "18px"
+                        }
+                    ],
+                    "paddingAll": "0px"
+                }
+            }
+        ]
+    }
+}
