@@ -1,0 +1,457 @@
+{
+    "type": "flex",
+    "altText": "GalaxyHouse-氣泡酒-酒類飲品",
+    "contents": {
+        "type": "carousel",
+        "contents": [
+            {
+                "type": "bubble",
+                "size": "micro",
+                "hero": {
+                    "type": "image",
+                    "size": "full",
+                    "aspectMode": "cover",
+                    "aspectRatio": "320:213",
+                    "url": "https://i.ibb.co/JWynYSqx/S-38502418-0.jpg"
+                },
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "Sussurro d’Amore 告白蜜思嘉",
+                            "weight": "bold",
+                            "size": "sm",
+                            "wrap": true,
+                            "color": "#efd07f"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gray_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gray_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gray_star_28.png"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "7% vol",
+                                    "size": "xs",
+                                    "color": "#8c8c8c",
+                                    "margin": "md",
+                                    "flex": 0
+                                }
+                            ]
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "西班牙",
+                                            "wrap": true,
+                                            "color": "#ffffff",
+                                            "size": "xs",
+                                            "flex": 5
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "果香、輕酸感、甜中帶酸",
+                                    "wrap": true,
+                                    "color": "#8c8c8c",
+                                    "size": "xs",
+                                    "flex": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "spacing": "sm",
+                    "paddingAll": "13px",
+                    "backgroundColor": "#000000"
+                },
+                "footer": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "$ 1,100",
+                            "weight": "bold",
+                            "size": "sm",
+                            "wrap": true,
+                            "align": "end",
+                            "color": "#ffffff"
+                        }
+                    ],
+                    "backgroundColor": "#000000"
+                }
+            },
+            {
+                "type": "bubble",
+                "size": "micro",
+                "hero": {
+                    "type": "image",
+                    "size": "full",
+                    "aspectMode": "cover",
+                    "aspectRatio": "320:213",
+                    "url": "https://i.ibb.co/GQgCWBPX/S-38502417-0.jpg"
+                },
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "Louis Eschenauer 24K Carat Gold Muscat Sparkling",
+                            "weight": "bold",
+                            "size": "sm",
+                            "wrap": true,
+                            "color": "#efd07f"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gray_star_28.png"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "12% vol",
+                                    "size": "xs",
+                                    "color": "#8c8c8c",
+                                    "margin": "md",
+                                    "flex": 0
+                                }
+                            ]
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "法國",
+                                            "wrap": true,
+                                            "color": "#ffffff",
+                                            "size": "xs",
+                                            "flex": 5
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 果香、柑橘、花香、點綴閃閃金箔",
+                                    "wrap": true,
+                                    "color": "#8c8c8c",
+                                    "size": "xs",
+                                    "flex": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "spacing": "sm",
+                    "paddingAll": "13px",
+                    "backgroundColor": "#000000"
+                },
+                "footer": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "$ 1,600",
+                            "weight": "bold",
+                            "size": "sm",
+                            "wrap": true,
+                            "align": "end",
+                            "color": "#ffffff"
+                        }
+                    ],
+                    "backgroundColor": "#000000"
+                }
+            },
+            {
+                "type": "bubble",
+                "size": "micro",
+                "hero": {
+                    "type": "image",
+                    "url": "https://i.ibb.co/yngCGDfg/S-38502416-0.jpg",
+                    "size": "full",
+                    "aspectMode": "cover",
+                    "aspectRatio": "320:213"
+                },
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "Joly de Trébuis Réserve Brut Champagne",
+                            "weight": "bold",
+                            "size": "sm",
+                            "wrap": true,
+                            "color": "#efd07f"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gray_star_28.png"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "12.5% vol",
+                                    "size": "xs",
+                                    "color": "#8c8c8c",
+                                    "margin": "md",
+                                    "flex": 0
+                                }
+                            ]
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "法國 香檳區",
+                                            "wrap": true,
+                                            "color": "#ffffff",
+                                            "size": "xs",
+                                            "flex": 5
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "蘋果、柑橘、檸檬、生日必備",
+                                    "wrap": true,
+                                    "color": "#8c8c8c",
+                                    "size": "xs",
+                                    "flex": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "spacing": "sm",
+                    "paddingAll": "13px",
+                    "backgroundColor": "#000000"
+                },
+                "footer": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "$ 2,800",
+                            "weight": "bold",
+                            "size": "sm",
+                            "wrap": true,
+                            "align": "end",
+                            "color": "#ffffff"
+                        }
+                    ],
+                    "backgroundColor": "#000000"
+                }
+            },
+            {
+                "type": "bubble",
+                "size": "micro",
+                "hero": {
+                    "type": "image",
+                    "url": "https://i.ibb.co/y3y5tyt/S-38502415-0.jpg",
+                    "size": "full",
+                    "aspectMode": "cover",
+                    "aspectRatio": "320:213"
+                },
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "Moet & Chandon",
+                            "weight": "bold",
+                            "size": "sm",
+                            "wrap": true,
+                            "color": "#efd07f"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gray_star_28.png"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "12% vol",
+                                    "size": "xs",
+                                    "color": "#8c8c8c",
+                                    "margin": "md",
+                                    "flex": 0
+                                }
+                            ]
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "法國 香檳區",
+                                            "wrap": true,
+                                            "color": "#ffffff",
+                                            "size": "xs",
+                                            "flex": 5
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "果香飽滿、生日必備 ",
+                                    "wrap": true,
+                                    "color": "#8c8c8c",
+                                    "size": "xs",
+                                    "flex": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "spacing": "sm",
+                    "paddingAll": "13px",
+                    "backgroundColor": "#000000"
+                },
+                "footer": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "$ 3,500",
+                            "weight": "bold",
+                            "size": "sm",
+                            "wrap": true,
+                            "align": "end",
+                            "color": "#ffffff"
+                        }
+                    ],
+                    "backgroundColor": "#000000"
+                }
+            }
+        ]
+    }
+}
