@@ -1,0 +1,1050 @@
+{
+    "type": "flex",
+    "altText": "GalaxyHouse-威士忌-酒類飲品",
+    "contents": {
+        "type": "carousel",
+        "contents": [
+            {
+                "type": "bubble",
+                "header": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "box",
+                            "layout": "horizontal",
+                            "contents": [
+                                {
+                                    "type": "image",
+                                    "url": "https://imgur.com/b8jHfut.jpg",
+                                    "flex": 1,
+                                    "size": "full",
+                                    "aspectRatio": "150:196",
+                                    "aspectMode": "cover",
+                                    "gravity": "center"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "image",
+                                            "url": "https://imgur.com/IAxup9C.jpg",
+                                            "gravity": "center",
+                                            "aspectRatio": "150:98",
+                                            "aspectMode": "cover",
+                                            "size": "full"
+                                        },
+                                        {
+                                            "type": "image",
+                                            "url": "https://imgur.com/Dz6yOOR.jpg",
+                                            "gravity": "center",
+                                            "size": "full",
+                                            "aspectRatio": "150:98",
+                                            "aspectMode": "cover"
+                                        }
+                                    ],
+                                    "flex": 1
+                                }
+                            ]
+                        }
+                    ],
+                    "paddingAll": "0px"
+                },
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "spacing": "md",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "單一麥芽 威士忌",
+                            "size": "xl",
+                            "weight": "bold",
+                            "offsetTop": "-4%",
+                            "color": "#efd07f",
+                            "margin": "lg"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "text": "杯  /              瓶",
+                                    "align": "end",
+                                    "color": "#ffffff"
+                                }
+                            ],
+                            "offsetBottom": "lg"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "spacing": "sm",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "baseline",
+                                            "contents": [
+                                                {
+                                                    "type": "icon",
+                                                    "url": "https://imgur.com/qFIdPh0.png"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "格蘭多納12年",
+                                                    "weight": "bold",
+                                                    "margin": "sm",
+                                                    "flex": 0,
+                                                    "color": "#ffffff"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "$350 / $ 3,200",
+                                                    "align": "end",
+                                                    "color": "#ffffff"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "box",
+                                            "layout": "vertical",
+                                            "spacing": "sm",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "baseline",
+                                                    "contents": [
+                                                        {
+                                                            "type": "icon",
+                                                            "url": "https://imgur.com/qFIdPh0.png"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "亞伯樂12年",
+                                                            "weight": "bold",
+                                                            "margin": "sm",
+                                                            "flex": 0,
+                                                            "color": "#ffffff"
+                                                        },
+                                                        {
+                                                            "type": "text",
+                                                            "text": "$350 / $ 3,200",
+                                                            "align": "end",
+                                                            "color": "#ffffff"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "box",
+                                                    "layout": "vertical",
+                                                    "spacing": "sm",
+                                                    "contents": [
+                                                        {
+                                                            "type": "box",
+                                                            "layout": "baseline",
+                                                            "contents": [
+                                                                {
+                                                                    "type": "icon",
+                                                                    "url": "https://imgur.com/qFIdPh0.png"
+                                                                },
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "費特肯12年",
+                                                                    "weight": "bold",
+                                                                    "margin": "sm",
+                                                                    "flex": 0,
+                                                                    "color": "#ffffff"
+                                                                },
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "$350 / $ 3,300",
+                                                                    "align": "end",
+                                                                    "color": "#ffffff"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "box",
+                                                    "layout": "vertical",
+                                                    "spacing": "sm",
+                                                    "contents": [
+                                                        {
+                                                            "type": "box",
+                                                            "layout": "baseline",
+                                                            "contents": [
+                                                                {
+                                                                    "type": "icon",
+                                                                    "url": "https://imgur.com/qFIdPh0.png"
+                                                                },
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "格蘭菲迪12年",
+                                                                    "weight": "bold",
+                                                                    "margin": "sm",
+                                                                    "flex": 0,
+                                                                    "color": "#ffffff"
+                                                                },
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "$350 / $ 3,500",
+                                                                    "align": "end",
+                                                                    "color": "#ffffff"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "box",
+                                                    "layout": "vertical",
+                                                    "spacing": "sm",
+                                                    "contents": [
+                                                        {
+                                                            "type": "box",
+                                                            "layout": "baseline",
+                                                            "contents": [
+                                                                {
+                                                                    "type": "icon",
+                                                                    "url": "https://imgur.com/qFIdPh0.png"
+                                                                },
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "百富 12年",
+                                                                    "weight": "bold",
+                                                                    "margin": "sm",
+                                                                    "flex": 0,
+                                                                    "color": "#ffffff"
+                                                                },
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "$400 / $ 3,800",
+                                                                    "align": "end",
+                                                                    "color": "#ffffff"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "box",
+                                                            "layout": "vertical",
+                                                            "spacing": "sm",
+                                                            "contents": [
+                                                                {
+                                                                    "type": "box",
+                                                                    "layout": "baseline",
+                                                                    "contents": [
+                                                                        {
+                                                                            "type": "icon",
+                                                                            "url": "https://imgur.com/qFIdPh0.png"
+                                                                        },
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "百富 14年",
+                                                                            "weight": "bold",
+                                                                            "margin": "sm",
+                                                                            "flex": 0,
+                                                                            "color": "#ffffff"
+                                                                        },
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "$450 / $ 4,200",
+                                                                            "align": "end",
+                                                                            "color": "#ffffff"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "box",
+                                                    "layout": "vertical",
+                                                    "spacing": "sm",
+                                                    "contents": [
+                                                        {
+                                                            "type": "box",
+                                                            "layout": "baseline",
+                                                            "contents": [
+                                                                {
+                                                                    "type": "icon",
+                                                                    "url": "https://imgur.com/qFIdPh0.png"
+                                                                },
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "慕赫12年",
+                                                                    "weight": "bold",
+                                                                    "margin": "sm",
+                                                                    "flex": 0,
+                                                                    "color": "#ffffff"
+                                                                },
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "$400 / $ 3,800",
+                                                                    "align": "end",
+                                                                    "color": "#ffffff"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "box",
+                                                            "layout": "vertical",
+                                                            "spacing": "sm",
+                                                            "contents": [
+                                                                {
+                                                                    "type": "box",
+                                                                    "layout": "baseline",
+                                                                    "contents": [
+                                                                        {
+                                                                            "type": "icon",
+                                                                            "url": "https://imgur.com/qFIdPh0.png"
+                                                                        },
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "慕赫16年",
+                                                                            "weight": "bold",
+                                                                            "margin": "sm",
+                                                                            "flex": 0,
+                                                                            "color": "#ffffff"
+                                                                        },
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "$450 / $ 4,900",
+                                                                            "align": "end",
+                                                                            "color": "#ffffff"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "box",
+                                                    "layout": "vertical",
+                                                    "spacing": "sm",
+                                                    "contents": [
+                                                        {
+                                                            "type": "box",
+                                                            "layout": "baseline",
+                                                            "contents": [
+                                                                {
+                                                                    "type": "icon",
+                                                                    "url": "https://imgur.com/qFIdPh0.png"
+                                                                },
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "大摩12年",
+                                                                    "weight": "bold",
+                                                                    "margin": "sm",
+                                                                    "flex": 0,
+                                                                    "color": "#ffffff"
+                                                                },
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "$400 / $ 3,900",
+                                                                    "align": "end",
+                                                                    "color": "#ffffff"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "box",
+                                                            "layout": "vertical",
+                                                            "spacing": "sm",
+                                                            "contents": [
+                                                                {
+                                                                    "type": "box",
+                                                                    "layout": "baseline",
+                                                                    "contents": [
+                                                                        {
+                                                                            "type": "icon",
+                                                                            "url": "https://imgur.com/qFIdPh0.png"
+                                                                        },
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "大摩15年",
+                                                                            "weight": "bold",
+                                                                            "margin": "sm",
+                                                                            "flex": 0,
+                                                                            "color": "#ffffff"
+                                                                        },
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "$500 / $ 5,100",
+                                                                            "align": "end",
+                                                                            "color": "#ffffff"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "box",
+                                                    "layout": "vertical",
+                                                    "spacing": "sm",
+                                                    "contents": [
+                                                        {
+                                                            "type": "box",
+                                                            "layout": "baseline",
+                                                            "contents": [
+                                                                {
+                                                                    "type": "icon",
+                                                                    "url": "https://imgur.com/qFIdPh0.png"
+                                                                },
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "大摩18年",
+                                                                    "weight": "bold",
+                                                                    "margin": "sm",
+                                                                    "flex": 0,
+                                                                    "color": "#ffffff"
+                                                                },
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "$1,500 / $ 13,000",
+                                                                    "align": "end",
+                                                                    "color": "#ffffff"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "box",
+                                                            "layout": "vertical",
+                                                            "spacing": "sm",
+                                                            "contents": [
+                                                                {
+                                                                    "type": "box",
+                                                                    "layout": "baseline",
+                                                                    "contents": [
+                                                                        {
+                                                                            "type": "icon",
+                                                                            "url": "https://imgur.com/qFIdPh0.png"
+                                                                        },
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "麥卡倫 12年",
+                                                                            "weight": "bold",
+                                                                            "margin": "sm",
+                                                                            "flex": 0,
+                                                                            "color": "#ffffff"
+                                                                        },
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "$400 / $4,200",
+                                                                            "align": "end",
+                                                                            "color": "#ffffff"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "box",
+                                                            "layout": "vertical",
+                                                            "spacing": "sm",
+                                                            "contents": [
+                                                                {
+                                                                    "type": "box",
+                                                                    "layout": "baseline",
+                                                                    "contents": [
+                                                                        {
+                                                                            "type": "icon",
+                                                                            "url": "https://imgur.com/qFIdPh0.png"
+                                                                        },
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "新響",
+                                                                            "weight": "bold",
+                                                                            "margin": "sm",
+                                                                            "flex": 0,
+                                                                            "color": "#ffffff"
+                                                                        },
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "$450 / $ 4,900",
+                                                                            "align": "end",
+                                                                            "color": "#ffffff"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "offsetTop": "-4%"
+                        }
+                    ],
+                    "backgroundColor": "#000000"
+                },
+                "footer": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "button",
+                            "action": {
+                                "type": "uri",
+                                "label": "分享好友",
+                                "uri": "https://liff.line.me/2007125128-DMPABz33/?card=GalaxyHouse-%e7%94%9c%e9%bb%9e%e8%8f%9c%e5%96%ae"
+                            },
+                            "margin": "xxl",
+                            "height": "md",
+                            "style": "primary",
+                            "color": "#8C4F28"
+                        },
+                        {
+                            "type": "button",
+                            "action": {
+                                "type": "uri",
+                                "label": "馬上訂位",
+                                "uri": "https://shop.ichefpos.com/store/as6CWxam/reserve"
+                            },
+                            "margin": "md",
+                            "height": "md",
+                            "style": "secondary",
+                            "color": "#efd07f"
+                        }
+                    ],
+                    "backgroundColor": "#000000"
+                }
+            },
+            {
+                "type": "bubble",
+                "header": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "box",
+                            "layout": "horizontal",
+                            "contents": [
+                                {
+                                    "type": "image",
+                                    "url": "https://imgur.com/b8jHfut.jpg",
+                                    "flex": 1,
+                                    "size": "full",
+                                    "aspectRatio": "150:196",
+                                    "aspectMode": "cover",
+                                    "gravity": "center"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "image",
+                                            "url": "https://imgur.com/IAxup9C.jpg",
+                                            "gravity": "center",
+                                            "aspectRatio": "150:98",
+                                            "aspectMode": "cover",
+                                            "size": "full"
+                                        },
+                                        {
+                                            "type": "image",
+                                            "url": "https://imgur.com/Dz6yOOR.jpg",
+                                            "gravity": "center",
+                                            "size": "full",
+                                            "aspectRatio": "150:98",
+                                            "aspectMode": "cover"
+                                        }
+                                    ],
+                                    "flex": 1
+                                }
+                            ]
+                        }
+                    ],
+                    "paddingAll": "0px"
+                },
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "spacing": "md",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "煙燻泥煤 威士忌",
+                            "size": "xl",
+                            "weight": "bold",
+                            "offsetTop": "-4%",
+                            "color": "#efd07f",
+                            "margin": "lg"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "text": "杯  /              瓶",
+                                    "align": "end",
+                                    "color": "#ffffff"
+                                }
+                            ],
+                            "offsetBottom": "lg"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "spacing": "sm",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "contents": [
+                                        {
+                                            "type": "icon",
+                                            "url": "https://imgur.com/qFIdPh0.png"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "皇家太魯閣",
+                                            "weight": "bold",
+                                            "margin": "sm",
+                                            "flex": 0,
+                                            "color": "#ffffff"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "$300 / $ 3,300",
+                                            "align": "end",
+                                            "color": "#ffffff"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "box",
+                                            "layout": "vertical",
+                                            "spacing": "sm",
+                                            "contents": [
+                                                {
+                                                    "type": "box",
+                                                    "layout": "vertical",
+                                                    "spacing": "sm",
+                                                    "contents": [
+                                                        {
+                                                            "type": "box",
+                                                            "layout": "vertical",
+                                                            "spacing": "sm",
+                                                            "contents": [
+                                                                {
+                                                                    "type": "box",
+                                                                    "layout": "baseline",
+                                                                    "contents": [
+                                                                        {
+                                                                            "type": "icon",
+                                                                            "url": "https://imgur.com/qFIdPh0.png"
+                                                                        },
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "雅柏10年",
+                                                                            "weight": "bold",
+                                                                            "margin": "sm",
+                                                                            "flex": 0,
+                                                                            "color": "#ffffff"
+                                                                        },
+                                                                        {
+                                                                            "type": "text",
+                                                                            "text": "$400 / $ 3,900",
+                                                                            "align": "end",
+                                                                            "color": "#ffffff"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "contents": [
+                                        {
+                                            "type": "icon",
+                                            "url": "https://imgur.com/qFIdPh0.png"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "拉佛格10年",
+                                            "weight": "bold",
+                                            "margin": "sm",
+                                            "flex": 0,
+                                            "color": "#ffffff"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "$350 / $ 3,300",
+                                            "align": "end",
+                                            "color": "#ffffff"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "offsetTop": "-4%"
+                        }
+                    ],
+                    "backgroundColor": "#000000"
+                },
+                "footer": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "button",
+                            "action": {
+                                "type": "uri",
+                                "label": "分享好友",
+                                "uri": "https://liff.line.me/2007125128-DMPABz33/?card=GalaxyHouse-%e7%94%9c%e9%bb%9e%e8%8f%9c%e5%96%ae"
+                            },
+                            "margin": "xxl",
+                            "height": "md",
+                            "style": "primary",
+                            "color": "#8C4F28"
+                        },
+                        {
+                            "type": "button",
+                            "action": {
+                                "type": "uri",
+                                "label": "馬上訂位",
+                                "uri": "https://shop.ichefpos.com/store/as6CWxam/reserve"
+                            },
+                            "margin": "md",
+                            "height": "md",
+                            "style": "secondary",
+                            "color": "#efd07f"
+                        }
+                    ],
+                    "backgroundColor": "#000000"
+                }
+            },
+            {
+                "type": "bubble",
+                "header": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "box",
+                            "layout": "horizontal",
+                            "contents": [
+                                {
+                                    "type": "image",
+                                    "url": "https://imgur.com/b8jHfut.jpg",
+                                    "flex": 1,
+                                    "size": "full",
+                                    "aspectRatio": "150:196",
+                                    "aspectMode": "cover",
+                                    "gravity": "center"
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "image",
+                                            "url": "https://imgur.com/IAxup9C.jpg",
+                                            "gravity": "center",
+                                            "aspectRatio": "150:98",
+                                            "aspectMode": "cover",
+                                            "size": "full"
+                                        },
+                                        {
+                                            "type": "image",
+                                            "url": "https://imgur.com/Dz6yOOR.jpg",
+                                            "gravity": "center",
+                                            "size": "full",
+                                            "aspectRatio": "150:98",
+                                            "aspectMode": "cover"
+                                        }
+                                    ],
+                                    "flex": 1
+                                }
+                            ]
+                        }
+                    ],
+                    "paddingAll": "0px"
+                },
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "spacing": "md",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "調和 威士忌",
+                            "size": "xl",
+                            "weight": "bold",
+                            "offsetTop": "-4%",
+                            "color": "#efd07f",
+                            "margin": "lg"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "text": "杯  /              瓶",
+                                    "align": "end",
+                                    "color": "#ffffff"
+                                }
+                            ],
+                            "offsetBottom": "lg"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "spacing": "sm",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "contents": [
+                                        {
+                                            "type": "icon",
+                                            "url": "https://imgur.com/qFIdPh0.png"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "約翰走路 XR21年",
+                                            "weight": "bold",
+                                            "margin": "sm",
+                                            "flex": 0,
+                                            "color": "#ffffff"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "$450 / $ 4,900",
+                                            "align": "end",
+                                            "color": "#ffffff"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "contents": [
+                                        {
+                                            "type": "icon",
+                                            "url": "https://imgur.com/qFIdPh0.png"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "皇家禮炮",
+                                            "weight": "bold",
+                                            "margin": "sm",
+                                            "flex": 0,
+                                            "color": "#ffffff"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "$450 / $ 4,900",
+                                            "align": "end",
+                                            "color": "#ffffff"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "contents": [
+                                        {
+                                            "type": "icon",
+                                            "url": "https://imgur.com/qFIdPh0.png"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "百齡潭30年",
+                                            "weight": "bold",
+                                            "margin": "sm",
+                                            "flex": 0,
+                                            "color": "#ffffff"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "$1,500 / $ 14,000",
+                                            "align": "end",
+                                            "color": "#ffffff"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "offsetTop": "-4%"
+                        }
+                    ],
+                    "backgroundColor": "#000000"
+                },
+                "footer": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "button",
+                            "action": {
+                                "type": "uri",
+                                "label": "分享好友",
+                                "uri": "https://liff.line.me/2007125128-DMPABz33/?card=GalaxyHouse-%e7%94%9c%e9%bb%9e%e8%8f%9c%e5%96%ae"
+                            },
+                            "margin": "xxl",
+                            "height": "md",
+                            "style": "primary",
+                            "color": "#8C4F28"
+                        },
+                        {
+                            "type": "button",
+                            "action": {
+                                "type": "uri",
+                                "label": "馬上訂位",
+                                "uri": "https://shop.ichefpos.com/store/as6CWxam/reserve"
+                            },
+                            "margin": "md",
+                            "height": "md",
+                            "style": "secondary",
+                            "color": "#efd07f"
+                        }
+                    ],
+                    "backgroundColor": "#000000"
+                }
+            },
+            {
+                "type": "bubble",
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "image",
+                            "url": "https://imgur.com/ZqpEerr.jpg",
+                            "size": "full",
+                            "aspectMode": "cover",
+                            "aspectRatio": "1:2.7"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "filler"
+                                        },
+                                        {
+                                            "type": "box",
+                                            "layout": "baseline",
+                                            "contents": [
+                                                {
+                                                    "type": "filler"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "官方網站",
+                                                    "color": "#ffffff",
+                                                    "flex": 0,
+                                                    "offsetTop": "-2px"
+                                                },
+                                                {
+                                                    "type": "filler"
+                                                }
+                                            ],
+                                            "spacing": "sm"
+                                        },
+                                        {
+                                            "type": "filler"
+                                        }
+                                    ],
+                                    "borderWidth": "1px",
+                                    "cornerRadius": "4px",
+                                    "spacing": "sm",
+                                    "borderColor": "#ffffff",
+                                    "margin": "xxl",
+                                    "height": "40px",
+                                    "action": {
+                                        "type": "uri",
+                                        "label": "action",
+                                        "uri": "https://www.instagram.com/thegalaxyhouse.3"
+                                    }
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "filler"
+                                        },
+                                        {
+                                            "type": "box",
+                                            "layout": "baseline",
+                                            "contents": [
+                                                {
+                                                    "type": "filler"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Line官方",
+                                                    "color": "#ffffff",
+                                                    "flex": 0,
+                                                    "offsetTop": "-2px"
+                                                },
+                                                {
+                                                    "type": "filler"
+                                                }
+                                            ],
+                                            "spacing": "sm"
+                                        },
+                                        {
+                                            "type": "filler"
+                                        }
+                                    ],
+                                    "borderWidth": "1px",
+                                    "cornerRadius": "4px",
+                                    "spacing": "sm",
+                                    "borderColor": "#ffffff",
+                                    "margin": "xxl",
+                                    "height": "40px",
+                                    "action": {
+                                        "type": "uri",
+                                        "label": "action",
+                                        "uri": "https://line.me/R/ti/p/@392kgxba"
+                                    }
+                                }
+                            ],
+                            "position": "absolute",
+                            "offsetBottom": "0px",
+                            "offsetStart": "0px",
+                            "offsetEnd": "0px",
+                            "paddingAll": "20px",
+                            "paddingTop": "18px"
+                        }
+                    ],
+                    "paddingAll": "0px"
+                }
+            }
+        ]
+    }
+}
