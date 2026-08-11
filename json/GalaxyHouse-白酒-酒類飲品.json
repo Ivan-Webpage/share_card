@@ -1,0 +1,345 @@
+{
+    "type": "flex",
+    "altText": "GalaxyHouse-白酒-酒類飲品",
+    "contents": {
+        "type": "carousel",
+        "contents": [
+            {
+                "type": "bubble",
+                "size": "micro",
+                "hero": {
+                    "type": "image",
+                    "size": "full",
+                    "aspectMode": "cover",
+                    "aspectRatio": "320:213",
+                    "url": "https://i.ibb.co/BKwkvsmP/S-38494227-0.jpg"
+                },
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "Santero Dile Moscato sweet 天使之手",
+                            "weight": "bold",
+                            "size": "sm",
+                            "wrap": true,
+                            "color": "#efd07f"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gray_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gray_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gray_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gray_star_28.png"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "5% vol",
+                                    "size": "xs",
+                                    "color": "#8c8c8c",
+                                    "margin": "md",
+                                    "flex": 0
+                                }
+                            ]
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "義大利",
+                                            "wrap": true,
+                                            "color": "#ffffff",
+                                            "size": "xs",
+                                            "flex": 5
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "水果 橙花 荔枝",
+                                    "wrap": true,
+                                    "color": "#8c8c8c",
+                                    "size": "xs",
+                                    "flex": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "spacing": "sm",
+                    "paddingAll": "13px",
+                    "backgroundColor": "#000000"
+                },
+                "footer": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "$ 1,100",
+                            "weight": "bold",
+                            "size": "sm",
+                            "wrap": true,
+                            "align": "end",
+                            "color": "#ffffff"
+                        }
+                    ],
+                    "backgroundColor": "#000000"
+                }
+            },
+            {
+                "type": "bubble",
+                "size": "micro",
+                "hero": {
+                    "type": "image",
+                    "size": "full",
+                    "aspectMode": "cover",
+                    "aspectRatio": "320:213",
+                    "url": "https://i.ibb.co/84rp0MNs/S-38494228-0.jpg"
+                },
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "Primo Amore Moscato Delle Venezie IGT 初戀",
+                            "weight": "bold",
+                            "size": "sm",
+                            "wrap": true,
+                            "color": "#efd07f"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gray_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gray_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gray_star_28.png"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "7% vol",
+                                    "size": "xs",
+                                    "color": "#8c8c8c",
+                                    "margin": "md",
+                                    "flex": 0
+                                }
+                            ]
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "義大利",
+                                            "wrap": true,
+                                            "color": "#ffffff",
+                                            "size": "xs",
+                                            "flex": 5
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "蜂蜜 荔枝 桃子 休閒輕盈",
+                                    "wrap": true,
+                                    "color": "#8c8c8c",
+                                    "size": "xs",
+                                    "flex": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "spacing": "sm",
+                    "paddingAll": "13px",
+                    "backgroundColor": "#000000"
+                },
+                "footer": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "$ 1,100",
+                            "weight": "bold",
+                            "size": "sm",
+                            "wrap": true,
+                            "align": "end",
+                            "color": "#ffffff"
+                        }
+                    ],
+                    "backgroundColor": "#000000"
+                }
+            },
+            {
+                "type": "bubble",
+                "size": "micro",
+                "hero": {
+                    "type": "image",
+                    "url": "https://i.ibb.co/4n2K14J8/S-38494229-0.jpg",
+                    "size": "full",
+                    "aspectMode": "cover",
+                    "aspectRatio": "320:213"
+                },
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "Adobe Sauvignon White (2021)",
+                            "weight": "bold",
+                            "size": "sm",
+                            "wrap": true,
+                            "color": "#efd07f"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gold_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gray_star_28.png"
+                                },
+                                {
+                                    "type": "icon",
+                                    "size": "xs",
+                                    "url": "https://developers-resource.landpress.line.me/fx/img/review_gray_star_28.png"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "12% vol",
+                                    "size": "xs",
+                                    "color": "#8c8c8c",
+                                    "margin": "md",
+                                    "flex": 0
+                                }
+                            ]
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "baseline",
+                                    "spacing": "sm",
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "text": "智利",
+                                            "wrap": true,
+                                            "color": "#ffffff",
+                                            "size": "xs",
+                                            "flex": 5
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "葡萄花香 活潑的酸",
+                                    "wrap": true,
+                                    "color": "#8c8c8c",
+                                    "size": "xs",
+                                    "flex": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "spacing": "sm",
+                    "paddingAll": "13px",
+                    "backgroundColor": "#000000"
+                },
+                "footer": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "$ 1,600",
+                            "weight": "bold",
+                            "size": "sm",
+                            "wrap": true,
+                            "align": "end",
+                            "color": "#ffffff"
+                        }
+                    ],
+                    "backgroundColor": "#000000"
+                }
+            }
+        ]
+    }
+}
