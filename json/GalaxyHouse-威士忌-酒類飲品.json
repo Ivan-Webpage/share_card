@@ -16,35 +16,12 @@
                             "contents": [
                                 {
                                     "type": "image",
-                                    "url": "https://imgur.com/b8jHfut.jpg",
+                                    "url": "https://i.ibb.co/GQZsJMjS/2025-04-18-262-1.jpg",
                                     "flex": 1,
                                     "size": "full",
-                                    "aspectRatio": "150:196",
+                                    "aspectRatio": "16:9",
                                     "aspectMode": "cover",
                                     "gravity": "center"
-                                },
-                                {
-                                    "type": "box",
-                                    "layout": "vertical",
-                                    "contents": [
-                                        {
-                                            "type": "image",
-                                            "url": "https://imgur.com/IAxup9C.jpg",
-                                            "gravity": "center",
-                                            "aspectRatio": "150:98",
-                                            "aspectMode": "cover",
-                                            "size": "full"
-                                        },
-                                        {
-                                            "type": "image",
-                                            "url": "https://imgur.com/Dz6yOOR.jpg",
-                                            "gravity": "center",
-                                            "size": "full",
-                                            "aspectRatio": "150:98",
-                                            "aspectMode": "cover"
-                                        }
-                                    ],
-                                    "flex": 1
                                 }
                             ]
                         }
@@ -536,35 +513,11 @@
                             "contents": [
                                 {
                                     "type": "image",
-                                    "url": "https://imgur.com/b8jHfut.jpg",
+                                    "url": "https://i.ibb.co/s92M03fK/S-38559756.jpg",
                                     "flex": 1,
                                     "size": "full",
-                                    "aspectRatio": "150:196",
                                     "aspectMode": "cover",
                                     "gravity": "center"
-                                },
-                                {
-                                    "type": "box",
-                                    "layout": "vertical",
-                                    "contents": [
-                                        {
-                                            "type": "image",
-                                            "url": "https://imgur.com/IAxup9C.jpg",
-                                            "gravity": "center",
-                                            "aspectRatio": "150:98",
-                                            "aspectMode": "cover",
-                                            "size": "full"
-                                        },
-                                        {
-                                            "type": "image",
-                                            "url": "https://imgur.com/Dz6yOOR.jpg",
-                                            "gravity": "center",
-                                            "size": "full",
-                                            "aspectRatio": "150:98",
-                                            "aspectMode": "cover"
-                                        }
-                                    ],
-                                    "flex": 1
                                 }
                             ]
                         }
@@ -753,35 +706,12 @@
                             "contents": [
                                 {
                                     "type": "image",
-                                    "url": "https://imgur.com/b8jHfut.jpg",
+                                    "url": "https://i.ibb.co/KccRSdGK/IMG-20250907-133715.jpg",
                                     "flex": 1,
                                     "size": "full",
                                     "aspectRatio": "150:196",
                                     "aspectMode": "cover",
                                     "gravity": "center"
-                                },
-                                {
-                                    "type": "box",
-                                    "layout": "vertical",
-                                    "contents": [
-                                        {
-                                            "type": "image",
-                                            "url": "https://imgur.com/IAxup9C.jpg",
-                                            "gravity": "center",
-                                            "aspectRatio": "150:98",
-                                            "aspectMode": "cover",
-                                            "size": "full"
-                                        },
-                                        {
-                                            "type": "image",
-                                            "url": "https://imgur.com/Dz6yOOR.jpg",
-                                            "gravity": "center",
-                                            "size": "full",
-                                            "aspectRatio": "150:98",
-                                            "aspectMode": "cover"
-                                        }
-                                    ],
-                                    "flex": 1
                                 }
                             ]
                         }
