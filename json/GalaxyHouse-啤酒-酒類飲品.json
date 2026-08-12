@@ -1,0 +1,258 @@
+{
+    "type": "flex",
+    "altText": "GalaxyHouse-啤酒-酒類飲品",
+    "contents": {
+        "type": "carousel",
+        "contents": [
+            {
+                "type": "bubble",
+                "header": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "box",
+                            "layout": "horizontal",
+                            "contents": [
+                                {
+                                    "type": "image",
+                                    "url": "https://i.ibb.co/Rp1D97Yb/1715085745108.jpg",
+                                    "flex": 1,
+                                    "size": "full",
+                                    "aspectRatio": "16:9",
+                                    "aspectMode": "cover",
+                                    "gravity": "center"
+                                }
+                            ]
+                        }
+                    ],
+                    "paddingAll": "0px"
+                },
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "spacing": "md",
+                    "contents": [
+                        {
+                            "type": "text",
+                            "text": "啤酒",
+                            "size": "xl",
+                            "weight": "bold",
+                            "offsetTop": "-4%",
+                            "color": "#efd07f",
+                            "margin": "lg"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "text": "杯  /              箱",
+                                    "align": "end",
+                                    "color": "#ffffff"
+                                }
+                            ],
+                            "offsetBottom": "lg"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                                {
+                                    "type": "icon",
+                                    "url": "https://imgur.com/qFIdPh0.png"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "百威",
+                                    "weight": "bold",
+                                    "margin": "sm",
+                                    "flex": 0,
+                                    "color": "#ffffff"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "$100 / $ 1,920",
+                                    "align": "end",
+                                    "color": "#ffffff"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "box",
+                            "layout": "baseline",
+                            "contents": [
+                                {
+                                    "type": "icon",
+                                    "url": "https://imgur.com/qFIdPh0.png"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "海尼根",
+                                    "weight": "bold",
+                                    "margin": "sm",
+                                    "flex": 0,
+                                    "color": "#ffffff"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "$120 / $ 2,300",
+                                    "align": "end",
+                                    "color": "#ffffff"
+                                }
+                            ]
+                        }
+                    ],
+                    "backgroundColor": "#000000"
+                },
+                "footer": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "button",
+                            "action": {
+                                "type": "uri",
+                                "label": "分享好友",
+                                "uri": "https://liff.line.me/2007125128-DMPABz33/?card=GalaxyHouse-%e7%94%9c%e9%bb%9e%e8%8f%9c%e5%96%ae"
+                            },
+                            "margin": "xxl",
+                            "height": "md",
+                            "style": "primary",
+                            "color": "#8C4F28"
+                        },
+                        {
+                            "type": "button",
+                            "action": {
+                                "type": "uri",
+                                "label": "馬上訂位",
+                                "uri": "https://shop.ichefpos.com/store/as6CWxam/reserve"
+                            },
+                            "margin": "md",
+                            "height": "md",
+                            "style": "secondary",
+                            "color": "#efd07f"
+                        }
+                    ],
+                    "backgroundColor": "#000000"
+                }
+            },
+            {
+                "type": "bubble",
+                "body": {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                        {
+                            "type": "image",
+                            "url": "https://imgur.com/ZqpEerr.jpg",
+                            "size": "full",
+                            "aspectMode": "cover",
+                            "aspectRatio": "1:1.7"
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "contents": [
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "filler"
+                                        },
+                                        {
+                                            "type": "box",
+                                            "layout": "baseline",
+                                            "contents": [
+                                                {
+                                                    "type": "filler"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "官方網站",
+                                                    "color": "#ffffff",
+                                                    "flex": 0,
+                                                    "offsetTop": "-2px"
+                                                },
+                                                {
+                                                    "type": "filler"
+                                                }
+                                            ],
+                                            "spacing": "sm"
+                                        },
+                                        {
+                                            "type": "filler"
+                                        }
+                                    ],
+                                    "borderWidth": "1px",
+                                    "cornerRadius": "4px",
+                                    "spacing": "sm",
+                                    "borderColor": "#ffffff",
+                                    "margin": "xxl",
+                                    "height": "40px",
+                                    "action": {
+                                        "type": "uri",
+                                        "label": "action",
+                                        "uri": "https://www.instagram.com/thegalaxyhouse.3"
+                                    }
+                                },
+                                {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                            "type": "filler"
+                                        },
+                                        {
+                                            "type": "box",
+                                            "layout": "baseline",
+                                            "contents": [
+                                                {
+                                                    "type": "filler"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "Line官方",
+                                                    "color": "#ffffff",
+                                                    "flex": 0,
+                                                    "offsetTop": "-2px"
+                                                },
+                                                {
+                                                    "type": "filler"
+                                                }
+                                            ],
+                                            "spacing": "sm"
+                                        },
+                                        {
+                                            "type": "filler"
+                                        }
+                                    ],
+                                    "borderWidth": "1px",
+                                    "cornerRadius": "4px",
+                                    "spacing": "sm",
+                                    "borderColor": "#ffffff",
+                                    "margin": "xxl",
+                                    "height": "40px",
+                                    "action": {
+                                        "type": "uri",
+                                        "label": "action",
+                                        "uri": "https://line.me/R/ti/p/@392kgxba"
+                                    }
+                                }
+                            ],
+                            "position": "absolute",
+                            "offsetBottom": "0px",
+                            "offsetStart": "0px",
+                            "offsetEnd": "0px",
+                            "paddingAll": "20px",
+                            "paddingTop": "18px"
+                        }
+                    ],
+                    "paddingAll": "0px"
+                }
+            }
+        ]
+    }
+}
