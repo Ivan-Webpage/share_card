@@ -488,9 +488,9 @@
                         {
                             "type": "button",
                             "action": {
-                                "type": "text",
+                                "type": "message",
                                 "label": "馬上訂位",
-                                "message": "您好，我想預約訂位"
+                                "text": "您好，我想預約訂位"
                             },
                             "margin": "md",
                             "height": "md",
@@ -681,9 +681,9 @@
                         {
                             "type": "button",
                             "action": {
-                                "type": "text",
+                                "type": "message",
                                 "label": "馬上訂位",
-                                "message": "您好，我想預約訂位"
+                                "text": "您好，我想預約訂位"
                             },
                             "margin": "md",
                             "height": "md",
@@ -847,9 +847,9 @@
                         {
                             "type": "button",
                             "action": {
-                                "type": "text",
+                                "type": "message",
                                 "label": "馬上訂位",
-                                "message": "您好，我想預約訂位"
+                                "text": "您好，我想預約訂位"
                             },
                             "margin": "md",
                             "height": "md",
