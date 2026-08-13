@@ -112,7 +112,7 @@
                             "action": {
                                 "type": "message",
                                 "label": "威士忌",
-                                "text": "紅酒"
+                                "text": "威士忌"
                             },
                             "margin": "xxl",
                             "height": "md",
