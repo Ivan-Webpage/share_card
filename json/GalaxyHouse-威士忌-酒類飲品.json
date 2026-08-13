@@ -488,9 +488,9 @@
                         {
                             "type": "button",
                             "action": {
-                                "type": "uri",
+                                "type": "text",
                                 "label": "馬上訂位",
-                                "uri": "https://shop.ichefpos.com/store/as6CWxam/reserve"
+                                "message": "您好，我想預約訂位"
                             },
                             "margin": "md",
                             "height": "md",
@@ -681,9 +681,9 @@
                         {
                             "type": "button",
                             "action": {
-                                "type": "uri",
+                                "type": "text",
                                 "label": "馬上訂位",
-                                "uri": "https://shop.ichefpos.com/store/as6CWxam/reserve"
+                                "message": "您好，我想預約訂位"
                             },
                             "margin": "md",
                             "height": "md",
@@ -847,9 +847,9 @@
                         {
                             "type": "button",
                             "action": {
-                                "type": "uri",
+                                "type": "text",
                                 "label": "馬上訂位",
-                                "uri": "https://shop.ichefpos.com/store/as6CWxam/reserve"
+                                "message": "您好，我想預約訂位"
                             },
                             "margin": "md",
                             "height": "md",
