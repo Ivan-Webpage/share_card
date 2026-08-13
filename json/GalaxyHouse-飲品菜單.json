@@ -159,10 +159,10 @@
               {
                 "type": "button",
                 "action": {
-                  "type": "uri",
-                  "label": "馬上訂位",
-                  "uri": "https://shop.ichefpos.com/store/as6CWxam/reserve"
-                },
+                                "type": "message",
+                                "label": "馬上訂位",
+                                "text": "您好，我想預約訂位"
+                            },
                 "margin": "md",
                 "height": "md",
                 "style": "secondary",
