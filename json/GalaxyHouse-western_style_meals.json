@@ -1,0 +1,352 @@
+{
+  "type": "flex",
+  "altText": "GalaxyHouse-中式桌菜菜單與菜色",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://thegalaxyhouse.com/images/uploads/Line@/western_style_meals/1.jpg",
+              "size": "full",
+              "aspectMode": "cover",
+              "aspectRatio": "2:3",
+              "gravity": "top",
+              "action": {
+                "type": "message",
+                "label": "action",
+                "text": "中式桌菜-說明"
+              }
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "text",
+                          "text": "分享好友",
+                          "color": "#000000",
+                          "flex": 0,
+                          "offsetTop": "-2px"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "spacing": "sm"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "cornerRadius": "4px",
+                  "height": "40px",
+                  "action": {
+                    "type": "uri",
+                    "label": "action",
+                    "uri": "https://liff.line.me/2007125128-DMPABz33/?card=GalaxyHouse-western_style_meals"
+                  },
+                  "backgroundColor": "#efd07f"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "contents": [
+                        {
+                          "type": "filler"
+                        },
+                        {
+                          "type": "text",
+                          "text": "LINE官方",
+                          "color": "#ffffff",
+                          "flex": 0,
+                          "offsetTop": "-2px"
+                        },
+                        {
+                          "type": "filler"
+                        }
+                      ],
+                      "spacing": "sm"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "cornerRadius": "4px",
+                  "height": "40px",
+                  "action": {
+                    "type": "uri",
+                    "label": "action",
+                    "uri": "https://line.me/R/ti/p/@392kgxba"
+                  },
+                  "backgroundColor": "#06c755"
+                }
+              ],
+              "position": "absolute",
+              "offsetBottom": "0px",
+              "offsetStart": "0px",
+              "offsetEnd": "0px"
+            }
+          ],
+          "paddingAll": "0px"
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "paddingAll": "0px",
+          "backgroundColor": "#111111",
+          "spacing": "xs",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://thegalaxyhouse.com/images/uploads/Line@/western_style_meals/IMG_3077.jpg",
+              "size": "full",
+              "aspectRatio": "1:1",
+              "aspectMode": "cover"
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "spacing": "xs",
+              "contents": [
+                {
+                  "type": "image",
+                  "url": "https://thegalaxyhouse.com/images/uploads/Line@/western_style_meals/IMG_2028.jpg",
+                  "size": "full",
+                  "aspectRatio": "2:3",
+                  "aspectMode": "cover",
+                  "flex": 1
+                },
+                {
+                  "type": "image",
+                  "url": "https://thegalaxyhouse.com/images/uploads/Line@/western_style_meals/IMG_1999.jpg",
+                  "size": "full",
+                  "aspectRatio": "2:3",
+                  "aspectMode": "cover",
+                  "flex": 1
+                },
+                {
+                  "type": "image",
+                  "url": "https://thegalaxyhouse.com/images/uploads/Line@/western_style_meals/IMG_2014.jpg",
+                  "size": "full",
+                  "aspectRatio": "2:3",
+                  "aspectMode": "cover",
+                  "flex": 1
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "paddingAll": "0px",
+          "backgroundColor": "#111111",
+          "spacing": "xs",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://thegalaxyhouse.com/images/uploads/Line@/western_style_meals/IMG_1981.jpg",
+              "size": "full",
+              "aspectRatio": "2:1",
+              "aspectMode": "cover"
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "spacing": "xs",
+              "contents": [
+                {
+                  "type": "image",
+                  "url": "https://thegalaxyhouse.com/images/uploads/Line@/western_style_meals/IMG_2529.jpg",
+                  "size": "full",
+                  "aspectRatio": "1:1",
+                  "aspectMode": "cover",
+                  "flex": 1
+                },
+                {
+                  "type": "image",
+                  "url": "https://thegalaxyhouse.com/images/uploads/Line@/western_style_meals/IMG_2585.jpg",
+                  "size": "full",
+                  "aspectRatio": "1:1",
+                  "aspectMode": "cover",
+                  "flex": 1
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "spacing": "xs",
+              "contents": [
+                {
+                  "type": "image",
+                  "url": "https://thegalaxyhouse.com/images/uploads/Line@/western_style_meals/IMG_3204.jpg",
+                  "size": "full",
+                  "aspectRatio": "1:1",
+                  "aspectMode": "cover",
+                  "flex": 1
+                },
+                {
+                  "type": "image",
+                  "url": "https://thegalaxyhouse.com/images/uploads/Line@/western_style_meals/IMG_20250717_175840.jpg",
+                  "size": "full",
+                  "aspectRatio": "1:1",
+                  "aspectMode": "cover",
+                  "flex": 1
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "paddingAll": "0px",
+          "backgroundColor": "#111111",
+          "spacing": "xs",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "spacing": "xs",
+              "contents": [
+                {
+                  "type": "image",
+                  "url": "https://thegalaxyhouse.com/images/uploads/Line@/western_style_meals/IMG_20250717_195618.jpg",
+                  "size": "full",
+                  "aspectRatio": "1:1",
+                  "aspectMode": "cover",
+                  "flex": 1
+                },
+                {
+                  "type": "image",
+                  "url": "https://thegalaxyhouse.com/images/uploads/Line@/western_style_meals/IMG_20250815_174157.jpg",
+                  "size": "full",
+                  "aspectRatio": "1:1",
+                  "aspectMode": "cover",
+                  "flex": 1
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://thegalaxyhouse.com/images/uploads/Line@/western_style_meals/LINE_ALBUM_2025529%20Aaron%E6%89%B6%E8%BC%AA%E7%A4%BE_250812_26.jpg",
+              "size": "full",
+              "aspectRatio": "2:1",
+              "aspectMode": "cover"
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "spacing": "xs",
+              "contents": [
+                {
+                  "type": "image",
+                  "url": "https://thegalaxyhouse.com/images/uploads/Line@/western_style_meals/IMG_20250901_181309.jpg",
+                  "size": "full",
+                  "aspectRatio": "1:1",
+                  "aspectMode": "cover",
+                  "flex": 1
+                },
+                {
+                  "type": "image",
+                  "url": "https://thegalaxyhouse.com/images/uploads/Line@/western_style_meals/IMG_20250901_181322.jpg",
+                  "size": "full",
+                  "aspectRatio": "1:1",
+                  "aspectMode": "cover",
+                  "flex": 1
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "paddingAll": "0px",
+          "backgroundColor": "#111111",
+          "spacing": "xs",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "spacing": "xs",
+              "contents": [
+                {
+                  "type": "image",
+                  "url": "https://thegalaxyhouse.com/images/uploads/Line@/western_style_meals/IMG_20250901_181330.jpg",
+                  "size": "full",
+                  "aspectRatio": "2:3",
+                  "aspectMode": "cover",
+                  "flex": 1
+                },
+                {
+                  "type": "image",
+                  "url": "https://thegalaxyhouse.com/images/uploads/Line@/western_style_meals/IMG_20251004_142226.jpg",
+                  "size": "full",
+                  "aspectRatio": "2:3",
+                  "aspectMode": "cover",
+                  "flex": 1
+                },
+                {
+                  "type": "image",
+                  "url": "https://thegalaxyhouse.com/images/uploads/Line@/western_style_meals/LINE_ALBUM_2025521%20%E6%89%B6%E8%BC%AA%E7%A4%BE%20buffet_250812_11.jpg",
+                  "size": "full",
+                  "aspectRatio": "2:3",
+                  "aspectMode": "cover",
+                  "flex": 1
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://thegalaxyhouse.com/images/uploads/Line@/western_style_meals/IMG_20250815_190619.jpg",
+              "size": "full",
+              "aspectRatio": "1:1",
+              "aspectMode": "cover"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
