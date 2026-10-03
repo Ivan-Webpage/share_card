@@ -1,0 +1,348 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://thegalaxyhouse.com/images/uploads/Line@/chinese_food/2.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top",
+            "action": {
+              "type": "message",
+              "label": "action",
+              "text": "中式桌菜-說明"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "text",
+                        "text": "分享好友",
+                        "color": "#000000",
+                        "flex": 0,
+                        "offsetTop": "-2px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "cornerRadius": "4px",
+                "height": "40px",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://liff.line.me/2007125128-DMPABz33/?card=GalaxyHouse-chinese_food"
+                },
+                "backgroundColor": "#efd07f"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "text",
+                        "text": "LINE官方",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "cornerRadius": "4px",
+                "height": "40px",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://line.me/R/ti/p/@392kgxba"
+                },
+                "backgroundColor": "#06c755"
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px"
+          }
+        ],
+        "paddingAll": "0px"
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "0px",
+        "backgroundColor": "#111111",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://thegalaxyhouse.com/images/uploads/Line@/chinese_food/IMG_20251028_192628.jpg",
+            "size": "full",
+            "aspectRatio": "1:1",
+            "aspectMode": "cover"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "xs",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://thegalaxyhouse.com/images/uploads/Line@/chinese_food/IMG_2069.jpg",
+                "size": "full",
+                "aspectRatio": "2:3",
+                "aspectMode": "cover",
+                "flex": 1
+              },
+              {
+                "type": "image",
+                "url": "https://thegalaxyhouse.com/images/uploads/Line@/chinese_food/IMG_2078.jpg",
+                "size": "full",
+                "aspectRatio": "2:3",
+                "aspectMode": "cover",
+                "flex": 1
+              },
+              {
+                "type": "image",
+                "url": "https://thegalaxyhouse.com/images/uploads/Line@/chinese_food/IMG_2871.jpg",
+                "size": "full",
+                "aspectRatio": "2:3",
+                "aspectMode": "cover",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "0px",
+        "backgroundColor": "#111111",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://thegalaxyhouse.com/images/uploads/Line@/chinese_food/IMG_3253.jpg",
+            "size": "full",
+            "aspectRatio": "2:1",
+            "aspectMode": "cover"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "xs",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://thegalaxyhouse.com/images/uploads/Line@/chinese_food/IMG_2274.jpg",
+                "size": "full",
+                "aspectRatio": "1:1",
+                "aspectMode": "cover",
+                "flex": 1
+              },
+              {
+                "type": "image",
+                "url": "https://thegalaxyhouse.com/images/uploads/Line@/chinese_food/IMG_2879.jpg",
+                "size": "full",
+                "aspectRatio": "1:1",
+                "aspectMode": "cover",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "xs",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://thegalaxyhouse.com/images/uploads/Line@/chinese_food/IMG_2888.jpg",
+                "size": "full",
+                "aspectRatio": "1:1",
+                "aspectMode": "cover",
+                "flex": 1
+              },
+              {
+                "type": "image",
+                "url": "https://thegalaxyhouse.com/images/uploads/Line@/chinese_food/IMG_3256.jpg",
+                "size": "full",
+                "aspectRatio": "1:1",
+                "aspectMode": "cover",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "0px",
+        "backgroundColor": "#111111",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "xs",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://thegalaxyhouse.com/images/uploads/Line@/chinese_food/IMG_3249.jpg",
+                "size": "full",
+                "aspectRatio": "1:1",
+                "aspectMode": "cover",
+                "flex": 1
+              },
+              {
+                "type": "image",
+                "url": "https://thegalaxyhouse.com/images/uploads/Line@/chinese_food/IMG_20250827_181159.jpg",
+                "size": "full",
+                "aspectRatio": "1:1",
+                "aspectMode": "cover",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "image",
+            "url": "https://thegalaxyhouse.com/images/uploads/Line@/chinese_food/IMG_20251013_183656.jpg",
+            "size": "full",
+            "aspectRatio": "2:1",
+            "aspectMode": "cover"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "xs",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://thegalaxyhouse.com/images/uploads/Line@/chinese_food/IMG_20251013_183956.jpg",
+                "size": "full",
+                "aspectRatio": "1:1",
+                "aspectMode": "cover",
+                "flex": 1
+              },
+              {
+                "type": "image",
+                "url": "https://thegalaxyhouse.com/images/uploads/Line@/chinese_food/IMG_20251013_185253.jpg",
+                "size": "full",
+                "aspectRatio": "1:1",
+                "aspectMode": "cover",
+                "flex": 1
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "paddingAll": "0px",
+        "backgroundColor": "#111111",
+        "spacing": "xs",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "spacing": "xs",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://thegalaxyhouse.com/images/uploads/Line@/chinese_food/IMG_20251013_185400.jpg",
+                "size": "full",
+                "aspectRatio": "2:3",
+                "aspectMode": "cover",
+                "flex": 1
+              },
+              {
+                "type": "image",
+                "url": "https://thegalaxyhouse.com/images/uploads/Line@/chinese_food/IMG_20251013_201300.jpg",
+                "size": "full",
+                "aspectRatio": "2:3",
+                "aspectMode": "cover",
+                "flex": 1
+              },
+              {
+                "type": "image",
+                "url": "https://thegalaxyhouse.com/images/uploads/Line@/chinese_food/IMG_20260128_150513.jpg",
+                "size": "full",
+                "aspectRatio": "2:3",
+                "aspectMode": "cover",
+                "flex": 1
+              }
+            ]
+          },
+          {
+            "type": "image",
+            "url": "https://thegalaxyhouse.com/images/uploads/Line@/chinese_food/IMG_20250827_181159.jpg",
+            "size": "full",
+            "aspectRatio": "1:1",
+            "aspectMode": "cover"
+          }
+        ]
+      }
+    }
+  ]
+}
